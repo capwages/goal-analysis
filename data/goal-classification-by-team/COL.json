@@ -1,0 +1,2090 @@
+{
+  "players": [
+    {
+      "id": 8470613,
+      "goals": [
+        {
+          "gameId": 2025020178,
+          "goalIndex": 4,
+          "date": "2025-10-31",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025020343,
+          "goalIndex": 1,
+          "date": "2025-11-22",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020392,
+          "goalIndex": 3,
+          "date": "2025-11-29",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020453,
+          "goalIndex": 2,
+          "date": "2025-12-07",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020546,
+          "goalIndex": 1,
+          "date": "2025-12-19",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020691,
+          "goalIndex": 6,
+          "date": "2026-01-08",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020699,
+          "goalIndex": 1,
+          "date": "2026-01-10",
+          "opponentTricode": "CBJ",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020699,
+          "goalIndex": 4,
+          "date": "2026-01-10",
+          "opponentTricode": "CBJ",
+          "shotType": "slap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020860,
+          "goalIndex": 1,
+          "date": "2026-01-31",
+          "opponentTricode": "DET",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021067,
+          "goalIndex": 6,
+          "date": "2026-03-16",
+          "opponentTricode": "PIT",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        }
+      ]
+    },
+    {
+      "id": 8475172,
+      "goals": [
+        {
+          "gameId": 2025021040,
+          "goalIndex": 5,
+          "date": "2026-03-12",
+          "opponentTricode": "SEA",
+          "shotType": "tip-in",
+          "goalClassification": "Rebound/Scramble"
+        }
+      ]
+    },
+    {
+      "id": 8475754,
+      "goals": [
+        {
+          "gameId": 2025020067,
+          "goalIndex": 3,
+          "date": "2025-10-16",
+          "opponentTricode": "CBJ",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020140,
+          "goalIndex": 6,
+          "date": "2025-10-26",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020178,
+          "goalIndex": 2,
+          "date": "2025-10-31",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020275,
+          "goalIndex": 4,
+          "date": "2025-11-13",
+          "opponentTricode": "BUF",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020300,
+          "goalIndex": 5,
+          "date": "2025-11-16",
+          "opponentTricode": "NYI",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020326,
+          "goalIndex": 5,
+          "date": "2025-11-20",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020392,
+          "goalIndex": 1,
+          "date": "2025-11-29",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020392,
+          "goalIndex": 4,
+          "date": "2025-11-29",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020417,
+          "goalIndex": 3,
+          "date": "2025-12-02",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020453,
+          "goalIndex": 3,
+          "date": "2025-12-07",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020475,
+          "goalIndex": 1,
+          "date": "2025-12-09",
+          "opponentTricode": "NSH",
+          "shotType": "backhand",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020490,
+          "goalIndex": 3,
+          "date": "2025-12-11",
+          "opponentTricode": "FLA",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020528,
+          "goalIndex": 7,
+          "date": "2025-12-16",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020563,
+          "goalIndex": 5,
+          "date": "2025-12-21",
+          "opponentTricode": "MIN",
+          "shotType": "slap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020611,
+          "goalIndex": 4,
+          "date": "2025-12-29",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020629,
+          "goalIndex": 5,
+          "date": "2025-12-31",
+          "opponentTricode": "STL",
+          "shotType": "slap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020653,
+          "goalIndex": 5,
+          "date": "2026-01-03",
+          "opponentTricode": "CAR",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020653,
+          "goalIndex": 7,
+          "date": "2026-01-03",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020668,
+          "goalIndex": 3,
+          "date": "2026-01-06",
+          "opponentTricode": "TBL",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020691,
+          "goalIndex": 7,
+          "date": "2026-01-08",
+          "opponentTricode": "OTT",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020691,
+          "goalIndex": 9,
+          "date": "2026-01-08",
+          "opponentTricode": "OTT",
+          "shotType": "slap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020723,
+          "goalIndex": 3,
+          "date": "2026-01-12",
+          "opponentTricode": "TOR",
+          "shotType": "slap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020752,
+          "goalIndex": 2,
+          "date": "2026-01-16",
+          "opponentTricode": "NSH",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020752,
+          "goalIndex": 4,
+          "date": "2026-01-16",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020819,
+          "goalIndex": 1,
+          "date": "2026-01-25",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020819,
+          "goalIndex": 2,
+          "date": "2026-01-25",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020819,
+          "goalIndex": 4,
+          "date": "2026-01-25",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020845,
+          "goalIndex": 2,
+          "date": "2026-01-29",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020897,
+          "goalIndex": 6,
+          "date": "2026-02-04",
+          "opponentTricode": "SJS",
+          "shotType": "backhand",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020914,
+          "goalIndex": 4,
+          "date": "2026-02-25",
+          "opponentTricode": "UTA",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8476312,
+      "goals": [
+        {
+          "gameId": 2025020085,
+          "goalIndex": 3,
+          "date": "2025-10-18",
+          "opponentTricode": "BOS",
+          "shotType": "slap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020371,
+          "goalIndex": 4,
+          "date": "2025-11-26",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020691,
+          "goalIndex": 1,
+          "date": "2026-01-08",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020691,
+          "goalIndex": 8,
+          "date": "2026-01-08",
+          "opponentTricode": "OTT",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020897,
+          "goalIndex": 5,
+          "date": "2026-02-04",
+          "opponentTricode": "SJS",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8476455,
+      "goals": [
+        {
+          "gameId": 2025020262,
+          "goalIndex": 3,
+          "date": "2025-11-11",
+          "opponentTricode": "ANA",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020275,
+          "goalIndex": 9,
+          "date": "2025-11-13",
+          "opponentTricode": "BUF",
+          "shotType": "snap",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020378,
+          "goalIndex": 4,
+          "date": "2025-11-28",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020392,
+          "goalIndex": 2,
+          "date": "2025-11-29",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025020392,
+          "goalIndex": 9,
+          "date": "2025-11-29",
+          "opponentTricode": "MTL",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020490,
+          "goalIndex": 7,
+          "date": "2025-12-11",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020653,
+          "goalIndex": 2,
+          "date": "2026-01-03",
+          "opponentTricode": "CAR",
+          "shotType": "wrap-around",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020958,
+          "goalIndex": 2,
+          "date": "2026-03-02",
+          "opponentTricode": "LAK",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020968,
+          "goalIndex": 5,
+          "date": "2026-03-03",
+          "opponentTricode": "ANA",
+          "shotType": "slap",
+          "goalClassification": "Broken Coverage"
+        }
+      ]
+    },
+    {
+      "id": 8477476,
+      "goals": [
+        {
+          "gameId": 2025020003,
+          "goalIndex": 3,
+          "date": "2025-10-07",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020034,
+          "goalIndex": 6,
+          "date": "2025-10-11",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025020128,
+          "goalIndex": 1,
+          "date": "2025-10-25",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020128,
+          "goalIndex": 5,
+          "date": "2025-10-25",
+          "opponentTricode": "BOS",
+          "shotType": "tip-in",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020250,
+          "goalIndex": 5,
+          "date": "2025-11-09",
+          "opponentTricode": "VAN",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020250,
+          "goalIndex": 7,
+          "date": "2025-11-09",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020262,
+          "goalIndex": 1,
+          "date": "2025-11-11",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020275,
+          "goalIndex": 2,
+          "date": "2025-11-13",
+          "opponentTricode": "BUF",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020371,
+          "goalIndex": 6,
+          "date": "2025-11-26",
+          "opponentTricode": "SJS",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020430,
+          "goalIndex": 8,
+          "date": "2025-12-04",
+          "opponentTricode": "NYI",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020475,
+          "goalIndex": 4,
+          "date": "2025-12-09",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020490,
+          "goalIndex": 6,
+          "date": "2025-12-11",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020528,
+          "goalIndex": 1,
+          "date": "2025-12-16",
+          "opponentTricode": "SEA",
+          "shotType": "deflected",
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025020600,
+          "goalIndex": 10,
+          "date": "2025-12-27",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020659,
+          "goalIndex": 2,
+          "date": "2026-01-04",
+          "opponentTricode": "FLA",
+          "shotType": "tip-in",
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025020771,
+          "goalIndex": 6,
+          "date": "2026-01-19",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020789,
+          "goalIndex": 2,
+          "date": "2026-01-21",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020897,
+          "goalIndex": 1,
+          "date": "2026-02-04",
+          "opponentTricode": "SJS",
+          "shotType": "deflected",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020897,
+          "goalIndex": 2,
+          "date": "2026-02-04",
+          "opponentTricode": "SJS",
+          "shotType": "snap",
+          "goalClassification": null
+        }
+      ]
+    },
+    {
+      "id": 8477492,
+      "goals": [
+        {
+          "gameId": 2025020018,
+          "goalIndex": 3,
+          "date": "2025-10-09",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025020034,
+          "goalIndex": 8,
+          "date": "2025-10-11",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020039,
+          "goalIndex": 1,
+          "date": "2025-10-13",
+          "opponentTricode": "BUF",
+          "shotType": "backhand",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020039,
+          "goalIndex": 4,
+          "date": "2025-10-13",
+          "opponentTricode": "BUF",
+          "shotType": "wrist",
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025020085,
+          "goalIndex": 2,
+          "date": "2025-10-18",
+          "opponentTricode": "BOS",
+          "shotType": "backhand",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020085,
+          "goalIndex": 4,
+          "date": "2025-10-18",
+          "opponentTricode": "BOS",
+          "shotType": "slap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020140,
+          "goalIndex": 4,
+          "date": "2025-10-26",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020161,
+          "goalIndex": 4,
+          "date": "2025-10-28",
+          "opponentTricode": "NJD",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020161,
+          "goalIndex": 10,
+          "date": "2025-10-28",
+          "opponentTricode": "NJD",
+          "shotType": "slap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020184,
+          "goalIndex": 4,
+          "date": "2025-11-01",
+          "opponentTricode": "SJS",
+          "shotType": null,
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 8,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 9,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020250,
+          "goalIndex": 1,
+          "date": "2025-11-09",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020250,
+          "goalIndex": 2,
+          "date": "2025-11-09",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020326,
+          "goalIndex": 2,
+          "date": "2025-11-20",
+          "opponentTricode": "NYR",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020326,
+          "goalIndex": 7,
+          "date": "2025-11-20",
+          "opponentTricode": "NYR",
+          "shotType": "backhand",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020343,
+          "goalIndex": 2,
+          "date": "2025-11-22",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020371,
+          "goalIndex": 2,
+          "date": "2025-11-26",
+          "opponentTricode": "SJS",
+          "shotType": "slap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020378,
+          "goalIndex": 1,
+          "date": "2025-11-28",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020392,
+          "goalIndex": 6,
+          "date": "2025-11-29",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020417,
+          "goalIndex": 2,
+          "date": "2025-12-02",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025020417,
+          "goalIndex": 4,
+          "date": "2025-12-02",
+          "opponentTricode": "VAN",
+          "shotType": "slap",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025020441,
+          "goalIndex": 3,
+          "date": "2025-12-06",
+          "opponentTricode": "NYR",
+          "shotType": "bat",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020441,
+          "goalIndex": 5,
+          "date": "2025-12-06",
+          "opponentTricode": "NYR",
+          "shotType": "backhand",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020490,
+          "goalIndex": 5,
+          "date": "2025-12-11",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025020506,
+          "goalIndex": 1,
+          "date": "2025-12-13",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020528,
+          "goalIndex": 6,
+          "date": "2025-12-16",
+          "opponentTricode": "SEA",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020528,
+          "goalIndex": 8,
+          "date": "2025-12-16",
+          "opponentTricode": "SEA",
+          "shotType": "backhand",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020563,
+          "goalIndex": 2,
+          "date": "2025-12-21",
+          "opponentTricode": "MIN",
+          "shotType": "slap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020563,
+          "goalIndex": 6,
+          "date": "2025-12-21",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020600,
+          "goalIndex": 8,
+          "date": "2025-12-27",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020611,
+          "goalIndex": 6,
+          "date": "2025-12-29",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020629,
+          "goalIndex": 2,
+          "date": "2025-12-31",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020629,
+          "goalIndex": 4,
+          "date": "2025-12-31",
+          "opponentTricode": "STL",
+          "shotType": "slap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020653,
+          "goalIndex": 8,
+          "date": "2026-01-03",
+          "opponentTricode": "CAR",
+          "shotType": null,
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020691,
+          "goalIndex": 2,
+          "date": "2026-01-08",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020771,
+          "goalIndex": 3,
+          "date": "2026-01-19",
+          "opponentTricode": "WSH",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020771,
+          "goalIndex": 7,
+          "date": "2026-01-19",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020860,
+          "goalIndex": 2,
+          "date": "2026-01-31",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020860,
+          "goalIndex": 4,
+          "date": "2026-01-31",
+          "opponentTricode": "DET",
+          "shotType": "slap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020958,
+          "goalIndex": 1,
+          "date": "2026-03-02",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020984,
+          "goalIndex": 5,
+          "date": "2026-03-06",
+          "opponentTricode": "DAL",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021001,
+          "goalIndex": 1,
+          "date": "2026-03-08",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021040,
+          "goalIndex": 2,
+          "date": "2026-03-12",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021067,
+          "goalIndex": 2,
+          "date": "2026-03-16",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "goalClassification": "Net-front"
+        }
+      ]
+    },
+    {
+      "id": 8477501,
+      "goals": [
+        {
+          "gameId": 2025020067,
+          "goalIndex": 4,
+          "date": "2025-10-16",
+          "opponentTricode": "CBJ",
+          "shotType": "tip-in",
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025020067,
+          "goalIndex": 5,
+          "date": "2025-10-16",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020121,
+          "goalIndex": 2,
+          "date": "2025-10-23",
+          "opponentTricode": "CAR",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020121,
+          "goalIndex": 8,
+          "date": "2025-10-23",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020140,
+          "goalIndex": 3,
+          "date": "2025-10-26",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020430,
+          "goalIndex": 5,
+          "date": "2025-12-04",
+          "opponentTricode": "NYI",
+          "shotType": "deflected",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020453,
+          "goalIndex": 4,
+          "date": "2025-12-07",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020506,
+          "goalIndex": 5,
+          "date": "2025-12-13",
+          "opponentTricode": "NSH",
+          "shotType": "backhand",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020629,
+          "goalIndex": 1,
+          "date": "2025-12-31",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020629,
+          "goalIndex": 3,
+          "date": "2025-12-31",
+          "opponentTricode": "STL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020629,
+          "goalIndex": 7,
+          "date": "2025-12-31",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020841,
+          "goalIndex": 5,
+          "date": "2026-01-28",
+          "opponentTricode": "OTT",
+          "shotType": "backhand",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020984,
+          "goalIndex": 8,
+          "date": "2026-03-06",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021023,
+          "goalIndex": 6,
+          "date": "2026-03-10",
+          "opponentTricode": "EDM",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8478038,
+      "goals": [
+        {
+          "gameId": 2025020392,
+          "goalIndex": 7,
+          "date": "2025-11-29",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020958,
+          "goalIndex": 5,
+          "date": "2026-03-02",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        }
+      ]
+    },
+    {
+      "id": 8478109,
+      "goals": [
+        {
+          "gameId": 2025020161,
+          "goalIndex": 3,
+          "date": "2025-10-28",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020161,
+          "goalIndex": 11,
+          "date": "2025-10-28",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020161,
+          "goalIndex": 12,
+          "date": "2025-10-28",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020209,
+          "goalIndex": 2,
+          "date": "2025-11-04",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020209,
+          "goalIndex": 3,
+          "date": "2025-11-04",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020300,
+          "goalIndex": 3,
+          "date": "2025-11-16",
+          "opponentTricode": "NYI",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020506,
+          "goalIndex": 4,
+          "date": "2025-12-13",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020699,
+          "goalIndex": 2,
+          "date": "2026-01-10",
+          "opponentTricode": "CBJ",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020771,
+          "goalIndex": 4,
+          "date": "2026-01-19",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020805,
+          "goalIndex": 4,
+          "date": "2026-01-23",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020914,
+          "goalIndex": 2,
+          "date": "2026-02-25",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
+      "id": 8478462,
+      "goals": [
+        {
+          "gameId": 2025021001,
+          "goalIndex": 4,
+          "date": "2026-03-08",
+          "opponentTricode": "MIN",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021040,
+          "goalIndex": 3,
+          "date": "2026-03-12",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        }
+      ]
+    },
+    {
+      "id": 8479398,
+      "goals": [
+        {
+          "gameId": 2025020528,
+          "goalIndex": 4,
+          "date": "2025-12-16",
+          "opponentTricode": "SEA",
+          "shotType": "slap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020584,
+          "goalIndex": 1,
+          "date": "2025-12-23",
+          "opponentTricode": "UTA",
+          "shotType": "backhand",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020600,
+          "goalIndex": 3,
+          "date": "2025-12-27",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8479525,
+      "goals": [
+        {
+          "gameId": 2025020018,
+          "goalIndex": 1,
+          "date": "2025-10-09",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020209,
+          "goalIndex": 4,
+          "date": "2025-11-04",
+          "opponentTricode": "TBL",
+          "shotType": "backhand",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025020300,
+          "goalIndex": 2,
+          "date": "2025-11-16",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020326,
+          "goalIndex": 9,
+          "date": "2025-11-20",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020371,
+          "goalIndex": 1,
+          "date": "2025-11-26",
+          "opponentTricode": "SJS",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020845,
+          "goalIndex": 8,
+          "date": "2026-01-29",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020860,
+          "goalIndex": 3,
+          "date": "2026-01-31",
+          "opponentTricode": "DET",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021023,
+          "goalIndex": 1,
+          "date": "2026-03-10",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
+        }
+      ]
+    },
+    {
+      "id": 8480039,
+      "goals": [
+        {
+          "gameId": 2025020003,
+          "goalIndex": 1,
+          "date": "2025-10-07",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020003,
+          "goalIndex": 4,
+          "date": "2025-10-07",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020034,
+          "goalIndex": 2,
+          "date": "2025-10-11",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020085,
+          "goalIndex": 5,
+          "date": "2025-10-18",
+          "opponentTricode": "BOS",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020107,
+          "goalIndex": 6,
+          "date": "2025-10-21",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020121,
+          "goalIndex": 7,
+          "date": "2025-10-23",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020161,
+          "goalIndex": 1,
+          "date": "2025-10-28",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020178,
+          "goalIndex": 1,
+          "date": "2025-10-31",
+          "opponentTricode": "VGK",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020184,
+          "goalIndex": 1,
+          "date": "2025-11-01",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020262,
+          "goalIndex": 4,
+          "date": "2025-11-11",
+          "opponentTricode": "ANA",
+          "shotType": "tip-in",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020275,
+          "goalIndex": 1,
+          "date": "2025-11-13",
+          "opponentTricode": "BUF",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020275,
+          "goalIndex": 8,
+          "date": "2025-11-13",
+          "opponentTricode": "BUF",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020300,
+          "goalIndex": 4,
+          "date": "2025-11-16",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020430,
+          "goalIndex": 6,
+          "date": "2025-12-04",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020546,
+          "goalIndex": 2,
+          "date": "2025-12-19",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020563,
+          "goalIndex": 1,
+          "date": "2025-12-21",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020600,
+          "goalIndex": 4,
+          "date": "2025-12-27",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020600,
+          "goalIndex": 7,
+          "date": "2025-12-27",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020611,
+          "goalIndex": 3,
+          "date": "2025-12-29",
+          "opponentTricode": "LAK",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020691,
+          "goalIndex": 5,
+          "date": "2026-01-08",
+          "opponentTricode": "OTT",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020723,
+          "goalIndex": 6,
+          "date": "2026-01-12",
+          "opponentTricode": "TOR",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020752,
+          "goalIndex": 7,
+          "date": "2026-01-16",
+          "opponentTricode": "NSH",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020914,
+          "goalIndex": 6,
+          "date": "2026-02-25",
+          "opponentTricode": "UTA",
+          "shotType": "slap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020927,
+          "goalIndex": 2,
+          "date": "2026-02-26",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020927,
+          "goalIndex": 6,
+          "date": "2026-02-26",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020958,
+          "goalIndex": 6,
+          "date": "2026-03-02",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020968,
+          "goalIndex": 2,
+          "date": "2026-03-03",
+          "opponentTricode": "ANA",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020984,
+          "goalIndex": 7,
+          "date": "2026-03-06",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021023,
+          "goalIndex": 3,
+          "date": "2026-03-10",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021040,
+          "goalIndex": 1,
+          "date": "2026-03-12",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021045,
+          "goalIndex": 3,
+          "date": "2026-03-14",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        }
+      ]
+    },
+    {
+      "id": 8480069,
+      "goals": [
+        {
+          "gameId": 2025020039,
+          "goalIndex": 3,
+          "date": "2025-10-13",
+          "opponentTricode": "BUF",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020067,
+          "goalIndex": 2,
+          "date": "2025-10-16",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020107,
+          "goalIndex": 1,
+          "date": "2025-10-21",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020178,
+          "goalIndex": 6,
+          "date": "2025-10-31",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 1,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 2,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020326,
+          "goalIndex": 4,
+          "date": "2025-11-20",
+          "opponentTricode": "NYR",
+          "shotType": "wrap-around",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020326,
+          "goalIndex": 8,
+          "date": "2025-11-20",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020350,
+          "goalIndex": 1,
+          "date": "2025-11-23",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020475,
+          "goalIndex": 6,
+          "date": "2025-12-09",
+          "opponentTricode": "NSH",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020563,
+          "goalIndex": 3,
+          "date": "2025-12-21",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020611,
+          "goalIndex": 7,
+          "date": "2025-12-29",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020691,
+          "goalIndex": 3,
+          "date": "2026-01-08",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020723,
+          "goalIndex": 2,
+          "date": "2026-01-12",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020805,
+          "goalIndex": 6,
+          "date": "2026-01-23",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020938,
+          "goalIndex": 2,
+          "date": "2026-02-28",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020938,
+          "goalIndex": 4,
+          "date": "2026-02-28",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020968,
+          "goalIndex": 1,
+          "date": "2026-03-03",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020984,
+          "goalIndex": 1,
+          "date": "2026-03-06",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021080,
+          "goalIndex": 1,
+          "date": "2026-03-18",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8480448,
+      "goals": [
+        {
+          "gameId": 2025020121,
+          "goalIndex": 6,
+          "date": "2025-10-23",
+          "opponentTricode": "CAR",
+          "shotType": "deflected",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020161,
+          "goalIndex": 5,
+          "date": "2025-10-28",
+          "opponentTricode": "NJD",
+          "shotType": "backhand",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 5,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "backhand",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 7,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "backhand",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020262,
+          "goalIndex": 5,
+          "date": "2025-11-11",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020441,
+          "goalIndex": 1,
+          "date": "2025-12-06",
+          "opponentTricode": "NYR",
+          "shotType": "tip-in",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025020546,
+          "goalIndex": 4,
+          "date": "2025-12-19",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025020668,
+          "goalIndex": 2,
+          "date": "2026-01-06",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020771,
+          "goalIndex": 1,
+          "date": "2026-01-19",
+          "opponentTricode": "WSH",
+          "shotType": "tip-in",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020805,
+          "goalIndex": 3,
+          "date": "2026-01-23",
+          "opponentTricode": "PHI",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020841,
+          "goalIndex": 2,
+          "date": "2026-01-28",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020860,
+          "goalIndex": 5,
+          "date": "2026-01-31",
+          "opponentTricode": "DET",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020914,
+          "goalIndex": 1,
+          "date": "2026-02-25",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020968,
+          "goalIndex": 4,
+          "date": "2026-03-03",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020968,
+          "goalIndex": 6,
+          "date": "2026-03-03",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8480835,
+      "goals": [
+        {
+          "gameId": 2025020107,
+          "goalIndex": 4,
+          "date": "2025-10-21",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 4,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "tip-in",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 10,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020343,
+          "goalIndex": 3,
+          "date": "2025-11-22",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020506,
+          "goalIndex": 2,
+          "date": "2025-12-13",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020611,
+          "goalIndex": 1,
+          "date": "2025-12-29",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020653,
+          "goalIndex": 6,
+          "date": "2026-01-03",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020819,
+          "goalIndex": 3,
+          "date": "2026-01-25",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
+      "id": 8481641,
+      "goals": [
+        {
+          "gameId": 2025020371,
+          "goalIndex": 5,
+          "date": "2025-11-26",
+          "opponentTricode": "SJS",
+          "shotType": "snap",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025020845,
+          "goalIndex": 7,
+          "date": "2026-01-29",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021040,
+          "goalIndex": 6,
+          "date": "2026-03-12",
+          "opponentTricode": "SEA",
+          "shotType": "deflected",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8482470,
+      "goals": [
+        {
+          "gameId": 2025020699,
+          "goalIndex": 3,
+          "date": "2026-01-10",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
+      "id": 8482947,
+      "goals": [
+        {
+          "gameId": 2025020161,
+          "goalIndex": 2,
+          "date": "2025-10-28",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
+      "id": 8484149,
+      "goals": [
+        {
+          "gameId": 2025020034,
+          "goalIndex": 3,
+          "date": "2025-10-11",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025020240,
+          "goalIndex": 3,
+          "date": "2025-11-08",
+          "opponentTricode": "EDM",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020250,
+          "goalIndex": 9,
+          "date": "2025-11-09",
+          "opponentTricode": "VAN",
+          "shotType": "poke",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020275,
+          "goalIndex": 7,
+          "date": "2025-11-13",
+          "opponentTricode": "BUF",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020490,
+          "goalIndex": 4,
+          "date": "2025-12-11",
+          "opponentTricode": "FLA",
+          "shotType": "backhand",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020938,
+          "goalIndex": 3,
+          "date": "2026-02-28",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8484258,
+      "goals": [
+        {
+          "gameId": 2025020003,
+          "goalIndex": 2,
+          "date": "2025-10-07",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020371,
+          "goalIndex": 3,
+          "date": "2025-11-26",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020490,
+          "goalIndex": 1,
+          "date": "2025-12-11",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "goalClassification": "Net-front"
+        }
+      ]
+    }
+  ]
+}

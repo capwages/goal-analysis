@@ -1,0 +1,2932 @@
+[
+  {
+    "gameId": 2025020001,
+    "goalIndex": 3,
+    "date": "2025-10-07",
+    "gamedayPath": "/gameday/CHI-FLA?gameId=2025020001&goal=3",
+    "teamAbbrev": "FLA",
+    "scorerId": 8477409,
+    "opponentTricode": "CHI",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020007,
+    "goalIndex": 4,
+    "date": "2025-10-08",
+    "gamedayPath": "/gameday/LAK-VGK?gameId=2025020007&goal=4",
+    "teamAbbrev": "LAK",
+    "scorerId": 8482408,
+    "opponentTricode": "VGK",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025020010,
+    "goalIndex": 6,
+    "date": "2025-10-09",
+    "gamedayPath": "/gameday/MTL-DET?gameId=2025020010&goal=6",
+    "teamAbbrev": "MTL",
+    "scorerId": 8483515,
+    "opponentTricode": "DET",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020015,
+    "goalIndex": 1,
+    "date": "2025-10-09",
+    "gamedayPath": "/gameday/MIN-STL?gameId=2025020015&goal=1",
+    "teamAbbrev": "MIN",
+    "scorerId": 8477451,
+    "opponentTricode": "STL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020017,
+    "goalIndex": 8,
+    "date": "2025-10-09",
+    "gamedayPath": "/gameday/DAL-WPG?gameId=2025020017&goal=8",
+    "teamAbbrev": "WPG",
+    "scorerId": 8478398,
+    "opponentTricode": "DAL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020021,
+    "goalIndex": 1,
+    "date": "2025-10-09",
+    "gamedayPath": "/gameday/ANA-SEA?gameId=2025020021&goal=1",
+    "teamAbbrev": "SEA",
+    "scorerId": 8478407,
+    "opponentTricode": "ANA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020021,
+    "goalIndex": 3,
+    "date": "2025-10-09",
+    "gamedayPath": "/gameday/ANA-SEA?gameId=2025020021&goal=3",
+    "teamAbbrev": "SEA",
+    "scorerId": 8478975,
+    "opponentTricode": "ANA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020021,
+    "goalIndex": 4,
+    "date": "2025-10-09",
+    "gamedayPath": "/gameday/ANA-SEA?gameId=2025020021&goal=4",
+    "teamAbbrev": "SEA",
+    "scorerId": 8477955,
+    "opponentTricode": "ANA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020033,
+    "goalIndex": 1,
+    "date": "2025-10-11",
+    "gamedayPath": "/gameday/CBJ-MIN?gameId=2025020033&goal=1",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8477425,
+    "opponentTricode": "MIN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020034,
+    "goalIndex": 6,
+    "date": "2025-10-11",
+    "gamedayPath": "/gameday/DAL-COL?gameId=2025020034&goal=6",
+    "teamAbbrev": "COL",
+    "scorerId": 8477476,
+    "opponentTricode": "DAL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020036,
+    "goalIndex": 2,
+    "date": "2025-10-11",
+    "gamedayPath": "/gameday/ANA-SJS?gameId=2025020036&goal=2",
+    "teamAbbrev": "SJS",
+    "scorerId": 8471817,
+    "opponentTricode": "ANA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020052,
+    "goalIndex": 2,
+    "date": "2025-10-14",
+    "gamedayPath": "/gameday/TBL-WSH?gameId=2025020052&goal=2",
+    "teamAbbrev": "WSH",
+    "scorerId": 8481656,
+    "opponentTricode": "TBL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020053,
+    "goalIndex": 3,
+    "date": "2025-10-14",
+    "gamedayPath": "/gameday/VGK-CGY?gameId=2025020053&goal=3",
+    "teamAbbrev": "VGK",
+    "scorerId": 8478403,
+    "opponentTricode": "CGY",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020056,
+    "goalIndex": 6,
+    "date": "2025-10-14",
+    "gamedayPath": "/gameday/PIT-ANA?gameId=2025020056&goal=6",
+    "teamAbbrev": "PIT",
+    "scorerId": 8477511,
+    "opponentTricode": "ANA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020057,
+    "goalIndex": 9,
+    "date": "2025-10-15",
+    "gamedayPath": "/gameday/OTT-BUF?gameId=2025020057&goal=9",
+    "teamAbbrev": "OTT",
+    "scorerId": 8474189,
+    "opponentTricode": "BUF",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020069,
+    "goalIndex": 2,
+    "date": "2025-10-16",
+    "gamedayPath": "/gameday/BOS-VGK?gameId=2025020069&goal=2",
+    "teamAbbrev": "VGK",
+    "scorerId": 8481604,
+    "opponentTricode": "BOS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020073,
+    "goalIndex": 4,
+    "date": "2025-10-17",
+    "gamedayPath": "/gameday/MIN-WSH?gameId=2025020073&goal=4",
+    "teamAbbrev": "WSH",
+    "scorerId": 8471214,
+    "opponentTricode": "MIN",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020075,
+    "goalIndex": 5,
+    "date": "2025-10-17",
+    "gamedayPath": "/gameday/SJS-UTA?gameId=2025020075&goal=5",
+    "teamAbbrev": "UTA",
+    "scorerId": 8477070,
+    "opponentTricode": "SJS",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020077,
+    "goalIndex": 4,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/NYI-OTT?gameId=2025020077&goal=4",
+    "teamAbbrev": "NYI",
+    "scorerId": 8477500,
+    "opponentTricode": "OTT",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020078,
+    "goalIndex": 1,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/EDM-NJD?gameId=2025020078&goal=1",
+    "teamAbbrev": "NJD",
+    "scorerId": 8481559,
+    "opponentTricode": "EDM",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020078,
+    "goalIndex": 2,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/EDM-NJD?gameId=2025020078&goal=2",
+    "teamAbbrev": "NJD",
+    "scorerId": 8479407,
+    "opponentTricode": "EDM",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020078,
+    "goalIndex": 3,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/EDM-NJD?gameId=2025020078&goal=3",
+    "teamAbbrev": "EDM",
+    "scorerId": 8476454,
+    "opponentTricode": "NJD",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020081,
+    "goalIndex": 2,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/MIN-PHI?gameId=2025020081&goal=2",
+    "teamAbbrev": "PHI",
+    "scorerId": 8480015,
+    "opponentTricode": "MIN",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020082,
+    "goalIndex": 1,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/TBL-CBJ?gameId=2025020082&goal=1",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8482660,
+    "opponentTricode": "TBL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020086,
+    "goalIndex": 1,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/CAR-LAK?gameId=2025020086&goal=1",
+    "teamAbbrev": "CAR",
+    "scorerId": 8473533,
+    "opponentTricode": "LAK",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020086,
+    "goalIndex": 6,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/CAR-LAK?gameId=2025020086&goal=6",
+    "teamAbbrev": "LAK",
+    "scorerId": 8477942,
+    "opponentTricode": "CAR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020087,
+    "goalIndex": 4,
+    "date": "2025-10-18",
+    "gamedayPath": "/gameday/CGY-VGK?gameId=2025020087&goal=4",
+    "teamAbbrev": "VGK",
+    "scorerId": 8475913,
+    "opponentTricode": "CGY",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020101,
+    "goalIndex": 6,
+    "date": "2025-10-21",
+    "gamedayPath": "/gameday/VAN-PIT?gameId=2025020101&goal=6",
+    "teamAbbrev": "PIT",
+    "scorerId": 8479638,
+    "opponentTricode": "VAN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020111,
+    "goalIndex": 10,
+    "date": "2025-10-23",
+    "gamedayPath": "/gameday/ANA-BOS?gameId=2025020111&goal=10",
+    "teamAbbrev": "BOS",
+    "scorerId": 8479987,
+    "opponentTricode": "ANA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020114,
+    "goalIndex": 7,
+    "date": "2025-10-23",
+    "gamedayPath": "/gameday/PIT-FLA?gameId=2025020114&goal=7",
+    "teamAbbrev": "FLA",
+    "scorerId": 8473419,
+    "opponentTricode": "PIT",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020115,
+    "goalIndex": 1,
+    "date": "2025-10-23",
+    "gamedayPath": "/gameday/DET-NYI?gameId=2025020115&goal=1",
+    "teamAbbrev": "NYI",
+    "scorerId": 8477950,
+    "opponentTricode": "DET",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020121,
+    "goalIndex": 4,
+    "date": "2025-10-23",
+    "gamedayPath": "/gameday/CAR-COL?gameId=2025020121&goal=4",
+    "teamAbbrev": "CAR",
+    "scorerId": 8478427,
+    "opponentTricode": "COL",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025020123,
+    "goalIndex": 5,
+    "date": "2025-10-24",
+    "gamedayPath": "/gameday/TOR-BUF?gameId=2025020123&goal=5",
+    "teamAbbrev": "BUF",
+    "scorerId": 8479420,
+    "opponentTricode": "TOR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020127,
+    "goalIndex": 2,
+    "date": "2025-10-25",
+    "gamedayPath": "/gameday/NYI-PHI?gameId=2025020127&goal=2",
+    "teamAbbrev": "NYI",
+    "scorerId": 8477407,
+    "opponentTricode": "PHI",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020132,
+    "goalIndex": 6,
+    "date": "2025-10-25",
+    "gamedayPath": "/gameday/BUF-TOR?gameId=2025020132&goal=6",
+    "teamAbbrev": "TOR",
+    "scorerId": 8478057,
+    "opponentTricode": "BUF",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020135,
+    "goalIndex": 2,
+    "date": "2025-10-25",
+    "gamedayPath": "/gameday/OTT-WSH?gameId=2025020135&goal=2",
+    "teamAbbrev": "OTT",
+    "scorerId": 8481596,
+    "opponentTricode": "WSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020143,
+    "goalIndex": 5,
+    "date": "2025-10-26",
+    "gamedayPath": "/gameday/UTA-WPG?gameId=2025020143&goal=5",
+    "teamAbbrev": "UTA",
+    "scorerId": 8482699,
+    "opponentTricode": "WPG",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020146,
+    "goalIndex": 2,
+    "date": "2025-10-26",
+    "gamedayPath": "/gameday/NYR-CGY?gameId=2025020146&goal=2",
+    "teamAbbrev": "CGY",
+    "scorerId": 8480860,
+    "opponentTricode": "NYR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020149,
+    "goalIndex": 7,
+    "date": "2025-10-27",
+    "gamedayPath": "/gameday/BOS-OTT?gameId=2025020149&goal=7",
+    "teamAbbrev": "OTT",
+    "scorerId": 8476393,
+    "opponentTricode": "BOS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020152,
+    "goalIndex": 7,
+    "date": "2025-10-28",
+    "gamedayPath": "/gameday/CBJ-BUF?gameId=2025020152&goal=7",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8477425,
+    "opponentTricode": "BUF",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020154,
+    "goalIndex": 5,
+    "date": "2025-10-28",
+    "gamedayPath": "/gameday/NYI-BOS?gameId=2025020154&goal=5",
+    "teamAbbrev": "BOS",
+    "scorerId": 8479591,
+    "opponentTricode": "NYI",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020161,
+    "goalIndex": 9,
+    "date": "2025-10-28",
+    "gamedayPath": "/gameday/NJD-COL?gameId=2025020161&goal=9",
+    "teamAbbrev": "NJD",
+    "scorerId": 8481559,
+    "opponentTricode": "COL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020171,
+    "goalIndex": 2,
+    "date": "2025-10-30",
+    "gamedayPath": "/gameday/NYI-CAR?gameId=2025020171&goal=2",
+    "teamAbbrev": "CAR",
+    "scorerId": 8476422,
+    "opponentTricode": "NYI",
+    "shotType": "wrap-around"
+  },
+  {
+    "gameId": 2025020178,
+    "goalIndex": 4,
+    "date": "2025-10-31",
+    "gamedayPath": "/gameday/COL-VGK?gameId=2025020178&goal=4",
+    "teamAbbrev": "COL",
+    "scorerId": 8470613,
+    "opponentTricode": "VGK",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020182,
+    "goalIndex": 1,
+    "date": "2025-11-01",
+    "gamedayPath": "/gameday/PIT-WPG?gameId=2025020182&goal=1",
+    "teamAbbrev": "WPG",
+    "scorerId": 8480014,
+    "opponentTricode": "PIT",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020182,
+    "goalIndex": 2,
+    "date": "2025-11-01",
+    "gamedayPath": "/gameday/PIT-WPG?gameId=2025020182&goal=2",
+    "teamAbbrev": "WPG",
+    "scorerId": 8483471,
+    "opponentTricode": "PIT",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020183,
+    "goalIndex": 3,
+    "date": "2025-11-01",
+    "gamedayPath": "/gameday/CGY-NSH?gameId=2025020183&goal=3",
+    "teamAbbrev": "NSH",
+    "scorerId": 8476539,
+    "opponentTricode": "CGY",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020185,
+    "goalIndex": 3,
+    "date": "2025-11-01",
+    "gamedayPath": "/gameday/DAL-FLA?gameId=2025020185&goal=3",
+    "teamAbbrev": "DAL",
+    "scorerId": 8482740,
+    "opponentTricode": "FLA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020186,
+    "goalIndex": 2,
+    "date": "2025-11-01",
+    "gamedayPath": "/gameday/WSH-BUF?gameId=2025020186&goal=2",
+    "teamAbbrev": "WSH",
+    "scorerId": 8481656,
+    "opponentTricode": "BUF",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020187,
+    "goalIndex": 2,
+    "date": "2025-11-01",
+    "gamedayPath": "/gameday/OTT-MTL?gameId=2025020187&goal=2",
+    "teamAbbrev": "MTL",
+    "scorerId": 8483515,
+    "opponentTricode": "OTT",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020200,
+    "goalIndex": 4,
+    "date": "2025-11-03",
+    "gamedayPath": "/gameday/EDM-STL?gameId=2025020200&goal=4",
+    "teamAbbrev": "STL",
+    "scorerId": 8480023,
+    "opponentTricode": "EDM",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020207,
+    "goalIndex": 3,
+    "date": "2025-11-04",
+    "gamedayPath": "/gameday/EDM-DAL?gameId=2025020207&goal=3",
+    "teamAbbrev": "DAL",
+    "scorerId": 8478420,
+    "opponentTricode": "EDM",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020209,
+    "goalIndex": 4,
+    "date": "2025-11-04",
+    "gamedayPath": "/gameday/TBL-COL?gameId=2025020209&goal=4",
+    "teamAbbrev": "COL",
+    "scorerId": 8479525,
+    "opponentTricode": "TBL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020213,
+    "goalIndex": 3,
+    "date": "2025-11-05",
+    "gamedayPath": "/gameday/UTA-TOR?gameId=2025020213&goal=3",
+    "teamAbbrev": "TOR",
+    "scorerId": 8479318,
+    "opponentTricode": "UTA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020217,
+    "goalIndex": 6,
+    "date": "2025-11-05",
+    "gamedayPath": "/gameday/SJS-SEA?gameId=2025020217&goal=6",
+    "teamAbbrev": "SJS",
+    "scorerId": 8480848,
+    "opponentTricode": "SEA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020220,
+    "goalIndex": 2,
+    "date": "2025-11-06",
+    "gamedayPath": "/gameday/MTL-NJD?gameId=2025020220&goal=2",
+    "teamAbbrev": "MTL",
+    "scorerId": 8481523,
+    "opponentTricode": "NJD",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020221,
+    "goalIndex": 7,
+    "date": "2025-11-06",
+    "gamedayPath": "/gameday/WSH-PIT?gameId=2025020221&goal=7",
+    "teamAbbrev": "PIT",
+    "scorerId": 8475810,
+    "opponentTricode": "WSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020230,
+    "goalIndex": 2,
+    "date": "2025-11-07",
+    "gamedayPath": "/gameday/WPG-SJS?gameId=2025020230&goal=2",
+    "teamAbbrev": "SJS",
+    "scorerId": 8484801,
+    "opponentTricode": "WPG",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020233,
+    "goalIndex": 8,
+    "date": "2025-11-08",
+    "gamedayPath": "/gameday/DAL-NSH?gameId=2025020233&goal=8",
+    "teamAbbrev": "DAL",
+    "scorerId": 8477454,
+    "opponentTricode": "NSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020236,
+    "goalIndex": 5,
+    "date": "2025-11-08",
+    "gamedayPath": "/gameday/WSH-TBL?gameId=2025020236&goal=5",
+    "teamAbbrev": "TBL",
+    "scorerId": 8479542,
+    "opponentTricode": "WSH",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020254,
+    "goalIndex": 6,
+    "date": "2025-11-10",
+    "gamedayPath": "/gameday/CBJ-EDM?gameId=2025020254&goal=6",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8484166,
+    "opponentTricode": "EDM",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020259,
+    "goalIndex": 1,
+    "date": "2025-11-11",
+    "gamedayPath": "/gameday/WSH-CAR?gameId=2025020259&goal=1",
+    "teamAbbrev": "WSH",
+    "scorerId": 8479520,
+    "opponentTricode": "CAR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020260,
+    "goalIndex": 2,
+    "date": "2025-11-11",
+    "gamedayPath": "/gameday/CGY-STL?gameId=2025020260&goal=2",
+    "teamAbbrev": "STL",
+    "scorerId": 8482516,
+    "opponentTricode": "CGY",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020260,
+    "goalIndex": 3,
+    "date": "2025-11-11",
+    "gamedayPath": "/gameday/CGY-STL?gameId=2025020260&goal=3",
+    "teamAbbrev": "STL",
+    "scorerId": 8477573,
+    "opponentTricode": "CGY",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020262,
+    "goalIndex": 2,
+    "date": "2025-11-11",
+    "gamedayPath": "/gameday/ANA-COL?gameId=2025020262&goal=2",
+    "teamAbbrev": "ANA",
+    "scorerId": 8484153,
+    "opponentTricode": "COL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020265,
+    "goalIndex": 2,
+    "date": "2025-11-12",
+    "gamedayPath": "/gameday/NYR-TBL?gameId=2025020265&goal=2",
+    "teamAbbrev": "NYR",
+    "scorerId": 8476468,
+    "opponentTricode": "TBL",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025020267,
+    "goalIndex": 3,
+    "date": "2025-11-12",
+    "gamedayPath": "/gameday/BUF-UTA?gameId=2025020267&goal=3",
+    "teamAbbrev": "UTA",
+    "scorerId": 8480084,
+    "opponentTricode": "BUF",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020267,
+    "goalIndex": 6,
+    "date": "2025-11-12",
+    "gamedayPath": "/gameday/BUF-UTA?gameId=2025020267&goal=6",
+    "teamAbbrev": "UTA",
+    "scorerId": 8477951,
+    "opponentTricode": "BUF",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020268,
+    "goalIndex": 5,
+    "date": "2025-11-12",
+    "gamedayPath": "/gameday/NJD-CHI?gameId=2025020268&goal=5",
+    "teamAbbrev": "CHI",
+    "scorerId": 8478043,
+    "opponentTricode": "NJD",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020270,
+    "goalIndex": 4,
+    "date": "2025-11-13",
+    "gamedayPath": "/gameday/DAL-MTL?gameId=2025020270&goal=4",
+    "teamAbbrev": "DAL",
+    "scorerId": 8480027,
+    "opponentTricode": "MTL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020271,
+    "goalIndex": 1,
+    "date": "2025-11-13",
+    "gamedayPath": "/gameday/BOS-OTT?gameId=2025020271&goal=1",
+    "teamAbbrev": "OTT",
+    "scorerId": 8473512,
+    "opponentTricode": "BOS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020273,
+    "goalIndex": 2,
+    "date": "2025-11-13",
+    "gamedayPath": "/gameday/WSH-FLA?gameId=2025020273&goal=2",
+    "teamAbbrev": "FLA",
+    "scorerId": 8478542,
+    "opponentTricode": "WSH",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020274,
+    "goalIndex": 1,
+    "date": "2025-11-13",
+    "gamedayPath": "/gameday/EDM-CBJ?gameId=2025020274&goal=1",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8479671,
+    "opponentTricode": "EDM",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020280,
+    "goalIndex": 6,
+    "date": "2025-11-14",
+    "gamedayPath": "/gameday/PHI-STL?gameId=2025020280&goal=6",
+    "teamAbbrev": "PHI",
+    "scorerId": 8481533,
+    "opponentTricode": "STL",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020283,
+    "goalIndex": 2,
+    "date": "2025-11-15",
+    "gamedayPath": "/gameday/TBL-FLA?gameId=2025020283&goal=2",
+    "teamAbbrev": "FLA",
+    "scorerId": 8473419,
+    "opponentTricode": "TBL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020289,
+    "goalIndex": 5,
+    "date": "2025-11-15",
+    "gamedayPath": "/gameday/EDM-CAR?gameId=2025020289&goal=5",
+    "teamAbbrev": "EDM",
+    "scorerId": 8478402,
+    "opponentTricode": "CAR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020289,
+    "goalIndex": 6,
+    "date": "2025-11-15",
+    "gamedayPath": "/gameday/EDM-CAR?gameId=2025020289&goal=6",
+    "teamAbbrev": "CAR",
+    "scorerId": 8473533,
+    "opponentTricode": "EDM",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020296,
+    "goalIndex": 2,
+    "date": "2025-11-16",
+    "gamedayPath": "/gameday/NSH-PIT?gameId=2025020296&goal=2",
+    "teamAbbrev": "PIT",
+    "scorerId": 8471215,
+    "opponentTricode": "NSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020299,
+    "goalIndex": 3,
+    "date": "2025-11-16",
+    "gamedayPath": "/gameday/DET-NYR?gameId=2025020299&goal=3",
+    "teamAbbrev": "DET",
+    "scorerId": 8482078,
+    "opponentTricode": "NYR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020301,
+    "goalIndex": 3,
+    "date": "2025-11-17",
+    "gamedayPath": "/gameday/CAR-BOS?gameId=2025020301&goal=3",
+    "teamAbbrev": "CAR",
+    "scorerId": 8475791,
+    "opponentTricode": "BOS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020303,
+    "goalIndex": 2,
+    "date": "2025-11-17",
+    "gamedayPath": "/gameday/VAN-FLA?gameId=2025020303&goal=2",
+    "teamAbbrev": "VAN",
+    "scorerId": 8478498,
+    "opponentTricode": "FLA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020303,
+    "goalIndex": 6,
+    "date": "2025-11-17",
+    "gamedayPath": "/gameday/VAN-FLA?gameId=2025020303&goal=6",
+    "teamAbbrev": "FLA",
+    "scorerId": 8478542,
+    "opponentTricode": "VAN",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020304,
+    "goalIndex": 1,
+    "date": "2025-11-17",
+    "gamedayPath": "/gameday/LAK-WSH?gameId=2025020304&goal=1",
+    "teamAbbrev": "WSH",
+    "scorerId": 8478911,
+    "opponentTricode": "LAK",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020305,
+    "goalIndex": 1,
+    "date": "2025-11-17",
+    "gamedayPath": "/gameday/MTL-CBJ?gameId=2025020305&goal=1",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8478460,
+    "opponentTricode": "MTL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020308,
+    "goalIndex": 2,
+    "date": "2025-11-18",
+    "gamedayPath": "/gameday/SEA-DET?gameId=2025020308&goal=2",
+    "teamAbbrev": "DET",
+    "scorerId": 8482078,
+    "opponentTricode": "SEA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020313,
+    "goalIndex": 4,
+    "date": "2025-11-18",
+    "gamedayPath": "/gameday/NYR-VGK?gameId=2025020313&goal=4",
+    "teamAbbrev": "VGK",
+    "scorerId": 8477447,
+    "opponentTricode": "NYR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020314,
+    "goalIndex": 1,
+    "date": "2025-11-18",
+    "gamedayPath": "/gameday/UTA-SJS?gameId=2025020314&goal=1",
+    "teamAbbrev": "SJS",
+    "scorerId": 8484801,
+    "opponentTricode": "UTA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020316,
+    "goalIndex": 3,
+    "date": "2025-11-19",
+    "gamedayPath": "/gameday/CGY-BUF?gameId=2025020316&goal=3",
+    "teamAbbrev": "BUF",
+    "scorerId": 8480807,
+    "opponentTricode": "CGY",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020317,
+    "goalIndex": 1,
+    "date": "2025-11-19",
+    "gamedayPath": "/gameday/CAR-MIN?gameId=2025020317&goal=1",
+    "teamAbbrev": "MIN",
+    "scorerId": 8482122,
+    "opponentTricode": "CAR",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020319,
+    "goalIndex": 5,
+    "date": "2025-11-20",
+    "gamedayPath": "/gameday/CBJ-TOR?gameId=2025020319&goal=5",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8484166,
+    "opponentTricode": "TOR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020325,
+    "goalIndex": 2,
+    "date": "2025-11-20",
+    "gamedayPath": "/gameday/SEA-CHI?gameId=2025020325&goal=2",
+    "teamAbbrev": "CHI",
+    "scorerId": 8476882,
+    "opponentTricode": "SEA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020335,
+    "goalIndex": 1,
+    "date": "2025-11-22",
+    "gamedayPath": "/gameday/CBJ-DET?gameId=2025020335&goal=1",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8484166,
+    "opponentTricode": "DET",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020340,
+    "goalIndex": 5,
+    "date": "2025-11-22",
+    "gamedayPath": "/gameday/SEA-PIT?gameId=2025020340&goal=5",
+    "teamAbbrev": "SEA",
+    "scorerId": 8477986,
+    "opponentTricode": "PIT",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020341,
+    "goalIndex": 4,
+    "date": "2025-11-22",
+    "gamedayPath": "/gameday/TBL-WSH?gameId=2025020341&goal=4",
+    "teamAbbrev": "TBL",
+    "scorerId": 8479542,
+    "opponentTricode": "WSH",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020342,
+    "goalIndex": 3,
+    "date": "2025-11-22",
+    "gamedayPath": "/gameday/OTT-SJS?gameId=2025020342&goal=3",
+    "teamAbbrev": "SJS",
+    "scorerId": 8476624,
+    "opponentTricode": "OTT",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025020346,
+    "goalIndex": 7,
+    "date": "2025-11-22",
+    "gamedayPath": "/gameday/VGK-ANA?gameId=2025020346&goal=7",
+    "teamAbbrev": "ANA",
+    "scorerId": 8483445,
+    "opponentTricode": "VGK",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020354,
+    "goalIndex": 6,
+    "date": "2025-11-24",
+    "gamedayPath": "/gameday/DET-NJD?gameId=2025020354&goal=6",
+    "teamAbbrev": "NJD",
+    "scorerId": 8477015,
+    "opponentTricode": "DET",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020357,
+    "goalIndex": 3,
+    "date": "2025-11-24",
+    "gamedayPath": "/gameday/FLA-NSH?gameId=2025020357&goal=3",
+    "teamAbbrev": "NSH",
+    "scorerId": 8476887,
+    "opponentTricode": "FLA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020357,
+    "goalIndex": 9,
+    "date": "2025-11-24",
+    "gamedayPath": "/gameday/FLA-NSH?gameId=2025020357&goal=9",
+    "teamAbbrev": "FLA",
+    "scorerId": 8478421,
+    "opponentTricode": "NSH",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020367,
+    "goalIndex": 6,
+    "date": "2025-11-26",
+    "gamedayPath": "/gameday/WPG-WSH?gameId=2025020367&goal=6",
+    "teamAbbrev": "WSH",
+    "scorerId": 8481580,
+    "opponentTricode": "WPG",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020368,
+    "goalIndex": 3,
+    "date": "2025-11-26",
+    "gamedayPath": "/gameday/NYR-CAR?gameId=2025020368&goal=3",
+    "teamAbbrev": "NYR",
+    "scorerId": 8478550,
+    "opponentTricode": "CAR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020370,
+    "goalIndex": 2,
+    "date": "2025-11-26",
+    "gamedayPath": "/gameday/MIN-CHI?gameId=2025020370&goal=2",
+    "teamAbbrev": "CHI",
+    "scorerId": 8484144,
+    "opponentTricode": "MIN",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020371,
+    "goalIndex": 5,
+    "date": "2025-11-26",
+    "gamedayPath": "/gameday/SJS-COL?gameId=2025020371&goal=5",
+    "teamAbbrev": "COL",
+    "scorerId": 8481641,
+    "opponentTricode": "SJS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020373,
+    "goalIndex": 5,
+    "date": "2025-11-26",
+    "gamedayPath": "/gameday/OTT-VGK?gameId=2025020373&goal=5",
+    "teamAbbrev": "VGK",
+    "scorerId": 8478403,
+    "opponentTricode": "OTT",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020374,
+    "goalIndex": 6,
+    "date": "2025-11-26",
+    "gamedayPath": "/gameday/VAN-ANA?gameId=2025020374&goal=6",
+    "teamAbbrev": "ANA",
+    "scorerId": 8482745,
+    "opponentTricode": "VAN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020376,
+    "goalIndex": 2,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/NYR-BOS?gameId=2025020376&goal=2",
+    "teamAbbrev": "NYR",
+    "scorerId": 8477369,
+    "opponentTricode": "BOS",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020377,
+    "goalIndex": 1,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/TBL-DET?gameId=2025020377&goal=1",
+    "teamAbbrev": "DET",
+    "scorerId": 8477456,
+    "opponentTricode": "TBL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020377,
+    "goalIndex": 6,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/TBL-DET?gameId=2025020377&goal=6",
+    "teamAbbrev": "TBL",
+    "scorerId": 8476826,
+    "opponentTricode": "DET",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020378,
+    "goalIndex": 3,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/COL-MIN?gameId=2025020378&goal=3",
+    "teamAbbrev": "MIN",
+    "scorerId": 8478864,
+    "opponentTricode": "COL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020379,
+    "goalIndex": 4,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/NJD-BUF?gameId=2025020379&goal=4",
+    "teamAbbrev": "NJD",
+    "scorerId": 8481032,
+    "opponentTricode": "BUF",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020382,
+    "goalIndex": 3,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/OTT-STL?gameId=2025020382&goal=3",
+    "teamAbbrev": "OTT",
+    "scorerId": 8480188,
+    "opponentTricode": "STL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020382,
+    "goalIndex": 6,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/OTT-STL?gameId=2025020382&goal=6",
+    "teamAbbrev": "OTT",
+    "scorerId": 8474102,
+    "opponentTricode": "STL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020383,
+    "goalIndex": 3,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/MTL-VGK?gameId=2025020383&goal=3",
+    "teamAbbrev": "MTL",
+    "scorerId": 8478133,
+    "opponentTricode": "VGK",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020385,
+    "goalIndex": 3,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/VAN-SJS?gameId=2025020385&goal=3",
+    "teamAbbrev": "VAN",
+    "scorerId": 8480012,
+    "opponentTricode": "SJS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020388,
+    "goalIndex": 2,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/PIT-CBJ?gameId=2025020388&goal=2",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8477497,
+    "opponentTricode": "PIT",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020389,
+    "goalIndex": 7,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/NSH-CHI?gameId=2025020389&goal=7",
+    "teamAbbrev": "CHI",
+    "scorerId": 8476882,
+    "opponentTricode": "NSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020390,
+    "goalIndex": 5,
+    "date": "2025-11-28",
+    "gamedayPath": "/gameday/UTA-DAL?gameId=2025020390&goal=5",
+    "teamAbbrev": "DAL",
+    "scorerId": 8480027,
+    "opponentTricode": "UTA",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020396,
+    "goalIndex": 7,
+    "date": "2025-11-29",
+    "gamedayPath": "/gameday/TOR-PIT?gameId=2025020396&goal=7",
+    "teamAbbrev": "PIT",
+    "scorerId": 8471675,
+    "opponentTricode": "TOR",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020400,
+    "goalIndex": 4,
+    "date": "2025-11-29",
+    "gamedayPath": "/gameday/SJS-VGK?gameId=2025020400&goal=4",
+    "teamAbbrev": "VGK",
+    "scorerId": 8478483,
+    "opponentTricode": "SJS",
+    "shotType": "wrap-around"
+  },
+  {
+    "gameId": 2025020402,
+    "goalIndex": 2,
+    "date": "2025-11-30",
+    "gamedayPath": "/gameday/WSH-NYI?gameId=2025020402&goal=2",
+    "teamAbbrev": "WSH",
+    "scorerId": 8476880,
+    "opponentTricode": "NYI",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020410,
+    "goalIndex": 3,
+    "date": "2025-12-01",
+    "gamedayPath": "/gameday/UTA-SJS?gameId=2025020410&goal=3",
+    "teamAbbrev": "UTA",
+    "scorerId": 8478474,
+    "opponentTricode": "SJS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020410,
+    "goalIndex": 9,
+    "date": "2025-12-01",
+    "gamedayPath": "/gameday/UTA-SJS?gameId=2025020410&goal=9",
+    "teamAbbrev": "UTA",
+    "scorerId": 8478474,
+    "opponentTricode": "SJS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020414,
+    "goalIndex": 1,
+    "date": "2025-12-02",
+    "gamedayPath": "/gameday/TBL-NYI?gameId=2025020414&goal=1",
+    "teamAbbrev": "NYI",
+    "scorerId": 8477500,
+    "opponentTricode": "TBL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020417,
+    "goalIndex": 2,
+    "date": "2025-12-02",
+    "gamedayPath": "/gameday/VAN-COL?gameId=2025020417&goal=2",
+    "teamAbbrev": "COL",
+    "scorerId": 8477492,
+    "opponentTricode": "VAN",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020417,
+    "goalIndex": 4,
+    "date": "2025-12-02",
+    "gamedayPath": "/gameday/VAN-COL?gameId=2025020417&goal=4",
+    "teamAbbrev": "COL",
+    "scorerId": 8477492,
+    "opponentTricode": "VAN",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020422,
+    "goalIndex": 1,
+    "date": "2025-12-03",
+    "gamedayPath": "/gameday/WPG-MTL?gameId=2025020422&goal=1",
+    "teamAbbrev": "WPG",
+    "scorerId": 8476460,
+    "opponentTricode": "MTL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020434,
+    "goalIndex": 4,
+    "date": "2025-12-04",
+    "gamedayPath": "/gameday/SEA-EDM?gameId=2025020434&goal=4",
+    "teamAbbrev": "SEA",
+    "scorerId": 8480009,
+    "opponentTricode": "EDM",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020434,
+    "goalIndex": 5,
+    "date": "2025-12-04",
+    "gamedayPath": "/gameday/SEA-EDM?gameId=2025020434&goal=5",
+    "teamAbbrev": "SEA",
+    "scorerId": 8477919,
+    "opponentTricode": "EDM",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020435,
+    "goalIndex": 3,
+    "date": "2025-12-04",
+    "gamedayPath": "/gameday/CHI-LAK?gameId=2025020435&goal=3",
+    "teamAbbrev": "LAK",
+    "scorerId": 8479675,
+    "opponentTricode": "CHI",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020439,
+    "goalIndex": 1,
+    "date": "2025-12-05",
+    "gamedayPath": "/gameday/UTA-VAN?gameId=2025020439&goal=1",
+    "teamAbbrev": "UTA",
+    "scorerId": 8479410,
+    "opponentTricode": "VAN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020439,
+    "goalIndex": 5,
+    "date": "2025-12-05",
+    "gamedayPath": "/gameday/UTA-VAN?gameId=2025020439&goal=5",
+    "teamAbbrev": "UTA",
+    "scorerId": 8478507,
+    "opponentTricode": "VAN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020441,
+    "goalIndex": 1,
+    "date": "2025-12-06",
+    "gamedayPath": "/gameday/COL-NYR?gameId=2025020441&goal=1",
+    "teamAbbrev": "COL",
+    "scorerId": 8480448,
+    "opponentTricode": "NYR",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020443,
+    "goalIndex": 1,
+    "date": "2025-12-06",
+    "gamedayPath": "/gameday/NJD-BOS?gameId=2025020443&goal=1",
+    "teamAbbrev": "BOS",
+    "scorerId": 8483489,
+    "opponentTricode": "NJD",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020443,
+    "goalIndex": 4,
+    "date": "2025-12-06",
+    "gamedayPath": "/gameday/NJD-BOS?gameId=2025020443&goal=4",
+    "teamAbbrev": "BOS",
+    "scorerId": 8479999,
+    "opponentTricode": "NJD",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020447,
+    "goalIndex": 3,
+    "date": "2025-12-06",
+    "gamedayPath": "/gameday/NSH-CAR?gameId=2025020447&goal=3",
+    "teamAbbrev": "CAR",
+    "scorerId": 8477478,
+    "opponentTricode": "NSH",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020447,
+    "goalIndex": 4,
+    "date": "2025-12-06",
+    "gamedayPath": "/gameday/NSH-CAR?gameId=2025020447&goal=4",
+    "teamAbbrev": "CAR",
+    "scorerId": 8482809,
+    "opponentTricode": "NSH",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020451,
+    "goalIndex": 1,
+    "date": "2025-12-06",
+    "gamedayPath": "/gameday/MIN-VAN?gameId=2025020451&goal=1",
+    "teamAbbrev": "MIN",
+    "scorerId": 8481557,
+    "opponentTricode": "VAN",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020451,
+    "goalIndex": 5,
+    "date": "2025-12-06",
+    "gamedayPath": "/gameday/MIN-VAN?gameId=2025020451&goal=5",
+    "teamAbbrev": "VAN",
+    "scorerId": 8482691,
+    "opponentTricode": "MIN",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020461,
+    "goalIndex": 1,
+    "date": "2025-12-08",
+    "gamedayPath": "/gameday/TBL-TOR?gameId=2025020461&goal=1",
+    "teamAbbrev": "TOR",
+    "scorerId": 8476853,
+    "opponentTricode": "TBL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020463,
+    "goalIndex": 10,
+    "date": "2025-12-08",
+    "gamedayPath": "/gameday/BUF-CGY?gameId=2025020463&goal=10",
+    "teamAbbrev": "CGY",
+    "scorerId": 8474150,
+    "opponentTricode": "BUF",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020464,
+    "goalIndex": 1,
+    "date": "2025-12-08",
+    "gamedayPath": "/gameday/DET-VAN?gameId=2025020464&goal=1",
+    "teamAbbrev": "DET",
+    "scorerId": 8474037,
+    "opponentTricode": "VAN",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020464,
+    "goalIndex": 2,
+    "date": "2025-12-08",
+    "gamedayPath": "/gameday/DET-VAN?gameId=2025020464&goal=2",
+    "teamAbbrev": "DET",
+    "scorerId": 8477429,
+    "opponentTricode": "VAN",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020465,
+    "goalIndex": 3,
+    "date": "2025-12-08",
+    "gamedayPath": "/gameday/MIN-SEA?gameId=2025020465&goal=3",
+    "teamAbbrev": "MIN",
+    "scorerId": 8475149,
+    "opponentTricode": "SEA",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020467,
+    "goalIndex": 4,
+    "date": "2025-12-09",
+    "gamedayPath": "/gameday/NJD-OTT?gameId=2025020467&goal=4",
+    "teamAbbrev": "NJD",
+    "scorerId": 8481721,
+    "opponentTricode": "OTT",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020467,
+    "goalIndex": 7,
+    "date": "2025-12-09",
+    "gamedayPath": "/gameday/NJD-OTT?gameId=2025020467&goal=7",
+    "teamAbbrev": "NJD",
+    "scorerId": 8479996,
+    "opponentTricode": "OTT",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020474,
+    "goalIndex": 2,
+    "date": "2025-12-09",
+    "gamedayPath": "/gameday/BUF-EDM?gameId=2025020474&goal=2",
+    "teamAbbrev": "BUF",
+    "scorerId": 8479420,
+    "opponentTricode": "EDM",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020476,
+    "goalIndex": 1,
+    "date": "2025-12-10",
+    "gamedayPath": "/gameday/NYR-CHI?gameId=2025020476&goal=1",
+    "teamAbbrev": "CHI",
+    "scorerId": 8481806,
+    "opponentTricode": "NYR",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020478,
+    "goalIndex": 7,
+    "date": "2025-12-10",
+    "gamedayPath": "/gameday/FLA-UTA?gameId=2025020478&goal=7",
+    "teamAbbrev": "FLA",
+    "scorerId": 8482113,
+    "opponentTricode": "UTA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020483,
+    "goalIndex": 1,
+    "date": "2025-12-11",
+    "gamedayPath": "/gameday/VGK-PHI?gameId=2025020483&goal=1",
+    "teamAbbrev": "VGK",
+    "scorerId": 8480727,
+    "opponentTricode": "PHI",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020488,
+    "goalIndex": 2,
+    "date": "2025-12-11",
+    "gamedayPath": "/gameday/DAL-MIN?gameId=2025020488&goal=2",
+    "teamAbbrev": "MIN",
+    "scorerId": 8478493,
+    "opponentTricode": "DAL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020491,
+    "goalIndex": 3,
+    "date": "2025-12-11",
+    "gamedayPath": "/gameday/DET-EDM?gameId=2025020491&goal=3",
+    "teamAbbrev": "DET",
+    "scorerId": 8482762,
+    "opponentTricode": "EDM",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020493,
+    "goalIndex": 5,
+    "date": "2025-12-12",
+    "gamedayPath": "/gameday/CHI-STL?gameId=2025020493&goal=5",
+    "teamAbbrev": "CHI",
+    "scorerId": 8477444,
+    "opponentTricode": "STL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020497,
+    "goalIndex": 11,
+    "date": "2025-12-13",
+    "gamedayPath": "/gameday/SJS-PIT?gameId=2025020497&goal=11",
+    "teamAbbrev": "SJS",
+    "scorerId": 8475906,
+    "opponentTricode": "PIT",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020498,
+    "goalIndex": 3,
+    "date": "2025-12-13",
+    "gamedayPath": "/gameday/TBL-NYI?gameId=2025020498&goal=3",
+    "teamAbbrev": "TBL",
+    "scorerId": 8478178,
+    "opponentTricode": "NYI",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020515,
+    "goalIndex": 1,
+    "date": "2025-12-15",
+    "gamedayPath": "/gameday/ANA-NYR?gameId=2025020515&goal=1",
+    "teamAbbrev": "ANA",
+    "scorerId": 8481605,
+    "opponentTricode": "NYR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020518,
+    "goalIndex": 1,
+    "date": "2025-12-15",
+    "gamedayPath": "/gameday/LAK-DAL?gameId=2025020518&goal=1",
+    "teamAbbrev": "LAK",
+    "scorerId": 8483808,
+    "opponentTricode": "DAL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020522,
+    "goalIndex": 1,
+    "date": "2025-12-16",
+    "gamedayPath": "/gameday/NYI-DET?gameId=2025020522&goal=1",
+    "teamAbbrev": "NYI",
+    "scorerId": 8482476,
+    "opponentTricode": "DET",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020523,
+    "goalIndex": 1,
+    "date": "2025-12-16",
+    "gamedayPath": "/gameday/VAN-NYR?gameId=2025020523&goal=1",
+    "teamAbbrev": "VAN",
+    "scorerId": 8475169,
+    "opponentTricode": "NYR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020526,
+    "goalIndex": 5,
+    "date": "2025-12-16",
+    "gamedayPath": "/gameday/WSH-MIN?gameId=2025020526&goal=5",
+    "teamAbbrev": "MIN",
+    "scorerId": 8481557,
+    "opponentTricode": "WSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020529,
+    "goalIndex": 4,
+    "date": "2025-12-17",
+    "gamedayPath": "/gameday/LAK-FLA?gameId=2025020529&goal=4",
+    "teamAbbrev": "FLA",
+    "scorerId": 8477935,
+    "opponentTricode": "LAK",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025020529,
+    "goalIndex": 5,
+    "date": "2025-12-17",
+    "gamedayPath": "/gameday/LAK-FLA?gameId=2025020529&goal=5",
+    "teamAbbrev": "LAK",
+    "scorerId": 8477942,
+    "opponentTricode": "FLA",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025020534,
+    "goalIndex": 2,
+    "date": "2025-12-18",
+    "gamedayPath": "/gameday/EDM-BOS?gameId=2025020534&goal=2",
+    "teamAbbrev": "BOS",
+    "scorerId": 8478401,
+    "opponentTricode": "EDM",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020534,
+    "goalIndex": 4,
+    "date": "2025-12-18",
+    "gamedayPath": "/gameday/EDM-BOS?gameId=2025020534&goal=4",
+    "teamAbbrev": "EDM",
+    "scorerId": 8478402,
+    "opponentTricode": "BOS",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020546,
+    "goalIndex": 4,
+    "date": "2025-12-19",
+    "gamedayPath": "/gameday/WPG-COL?gameId=2025020546&goal=4",
+    "teamAbbrev": "COL",
+    "scorerId": 8480448,
+    "opponentTricode": "WPG",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020552,
+    "goalIndex": 6,
+    "date": "2025-12-20",
+    "gamedayPath": "/gameday/EDM-MIN?gameId=2025020552&goal=6",
+    "teamAbbrev": "MIN",
+    "scorerId": 8475765,
+    "opponentTricode": "EDM",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020554,
+    "goalIndex": 4,
+    "date": "2025-12-20",
+    "gamedayPath": "/gameday/STL-FLA?gameId=2025020554&goal=4",
+    "teamAbbrev": "FLA",
+    "scorerId": 8477933,
+    "opponentTricode": "STL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020565,
+    "goalIndex": 1,
+    "date": "2025-12-21",
+    "gamedayPath": "/gameday/BUF-NJD?gameId=2025020565&goal=1",
+    "teamAbbrev": "NJD",
+    "scorerId": 8481559,
+    "opponentTricode": "BUF",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020565,
+    "goalIndex": 2,
+    "date": "2025-12-21",
+    "gamedayPath": "/gameday/BUF-NJD?gameId=2025020565&goal=2",
+    "teamAbbrev": "BUF",
+    "scorerId": 8480064,
+    "opponentTricode": "NJD",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020565,
+    "goalIndex": 3,
+    "date": "2025-12-21",
+    "gamedayPath": "/gameday/BUF-NJD?gameId=2025020565&goal=3",
+    "teamAbbrev": "BUF",
+    "scorerId": 8484145,
+    "opponentTricode": "NJD",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020565,
+    "goalIndex": 4,
+    "date": "2025-12-21",
+    "gamedayPath": "/gameday/BUF-NJD?gameId=2025020565&goal=4",
+    "teamAbbrev": "BUF",
+    "scorerId": 8481522,
+    "opponentTricode": "NJD",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020572,
+    "goalIndex": 1,
+    "date": "2025-12-22",
+    "gamedayPath": "/gameday/VAN-PHI?gameId=2025020572&goal=1",
+    "teamAbbrev": "PHI",
+    "scorerId": 8483733,
+    "opponentTricode": "VAN",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020576,
+    "goalIndex": 8,
+    "date": "2025-12-23",
+    "gamedayPath": "/gameday/NYR-WSH?gameId=2025020576&goal=8",
+    "teamAbbrev": "NYR",
+    "scorerId": 8476389,
+    "opponentTricode": "WSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020579,
+    "goalIndex": 1,
+    "date": "2025-12-23",
+    "gamedayPath": "/gameday/DAL-DET?gameId=2025020579&goal=1",
+    "teamAbbrev": "DET",
+    "scorerId": 8474037,
+    "opponentTricode": "DAL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020580,
+    "goalIndex": 2,
+    "date": "2025-12-23",
+    "gamedayPath": "/gameday/NJD-NYI?gameId=2025020580&goal=2",
+    "teamAbbrev": "NYI",
+    "scorerId": 8481601,
+    "opponentTricode": "NJD",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020581,
+    "goalIndex": 1,
+    "date": "2025-12-23",
+    "gamedayPath": "/gameday/FLA-CAR?gameId=2025020581&goal=1",
+    "teamAbbrev": "CAR",
+    "scorerId": 8480762,
+    "opponentTricode": "FLA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020581,
+    "goalIndex": 7,
+    "date": "2025-12-23",
+    "gamedayPath": "/gameday/FLA-CAR?gameId=2025020581&goal=7",
+    "teamAbbrev": "FLA",
+    "scorerId": 8477495,
+    "opponentTricode": "CAR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020590,
+    "goalIndex": 10,
+    "date": "2025-12-27",
+    "gamedayPath": "/gameday/OTT-TOR?gameId=2025020590&goal=10",
+    "teamAbbrev": "TOR",
+    "scorerId": 8482720,
+    "opponentTricode": "OTT",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020591,
+    "goalIndex": 5,
+    "date": "2025-12-27",
+    "gamedayPath": "/gameday/TBL-FLA?gameId=2025020591&goal=5",
+    "teamAbbrev": "FLA",
+    "scorerId": 8473419,
+    "opponentTricode": "TBL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020594,
+    "goalIndex": 4,
+    "date": "2025-12-27",
+    "gamedayPath": "/gameday/MIN-WPG?gameId=2025020594&goal=4",
+    "teamAbbrev": "WPG",
+    "scorerId": 8478398,
+    "opponentTricode": "MIN",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020600,
+    "goalIndex": 9,
+    "date": "2025-12-27",
+    "gamedayPath": "/gameday/COL-VGK?gameId=2025020600&goal=9",
+    "teamAbbrev": "VGK",
+    "scorerId": 8476925,
+    "opponentTricode": "COL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020607,
+    "goalIndex": 6,
+    "date": "2025-12-29",
+    "gamedayPath": "/gameday/WSH-FLA?gameId=2025020607&goal=6",
+    "teamAbbrev": "FLA",
+    "scorerId": 8473419,
+    "opponentTricode": "WSH",
+    "shotType": "bat"
+  },
+  {
+    "gameId": 2025020614,
+    "goalIndex": 2,
+    "date": "2025-12-29",
+    "gamedayPath": "/gameday/MIN-VGK?gameId=2025020614&goal=2",
+    "teamAbbrev": "MIN",
+    "scorerId": 8481557,
+    "opponentTricode": "VGK",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020617,
+    "goalIndex": 3,
+    "date": "2025-12-30",
+    "gamedayPath": "/gameday/NJD-TOR?gameId=2025020617&goal=3",
+    "teamAbbrev": "TOR",
+    "scorerId": 8475714,
+    "opponentTricode": "NJD",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020618,
+    "goalIndex": 5,
+    "date": "2025-12-30",
+    "gamedayPath": "/gameday/MTL-FLA?gameId=2025020618&goal=5",
+    "teamAbbrev": "MTL",
+    "scorerId": 8480018,
+    "opponentTricode": "FLA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020619,
+    "goalIndex": 6,
+    "date": "2025-12-30",
+    "gamedayPath": "/gameday/CAR-PIT?gameId=2025020619&goal=6",
+    "teamAbbrev": "CAR",
+    "scorerId": 8476873,
+    "opponentTricode": "PIT",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020620,
+    "goalIndex": 1,
+    "date": "2025-12-30",
+    "gamedayPath": "/gameday/NYI-CHI?gameId=2025020620&goal=1",
+    "teamAbbrev": "NYI",
+    "scorerId": 8484221,
+    "opponentTricode": "CHI",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020621,
+    "goalIndex": 5,
+    "date": "2025-12-30",
+    "gamedayPath": "/gameday/PHI-VAN?gameId=2025020621&goal=5",
+    "teamAbbrev": "VAN",
+    "scorerId": 8482055,
+    "opponentTricode": "PHI",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020636,
+    "goalIndex": 2,
+    "date": "2026-01-01",
+    "gamedayPath": "/gameday/MTL-CAR?gameId=2025020636&goal=2",
+    "teamAbbrev": "MTL",
+    "scorerId": 8482775,
+    "opponentTricode": "CAR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020637,
+    "goalIndex": 3,
+    "date": "2026-01-01",
+    "gamedayPath": "/gameday/DAL-CHI?gameId=2025020637&goal=3",
+    "teamAbbrev": "CHI",
+    "scorerId": 8476882,
+    "opponentTricode": "DAL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020642,
+    "goalIndex": 6,
+    "date": "2026-01-02",
+    "gamedayPath": "/gameday/SEA-VAN?gameId=2025020642&goal=6",
+    "teamAbbrev": "VAN",
+    "scorerId": 8481024,
+    "opponentTricode": "SEA",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020649,
+    "goalIndex": 6,
+    "date": "2026-01-03",
+    "gamedayPath": "/gameday/TBL-SJS?gameId=2025020649&goal=6",
+    "teamAbbrev": "TBL",
+    "scorerId": 8483752,
+    "opponentTricode": "SJS",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020657,
+    "goalIndex": 2,
+    "date": "2026-01-04",
+    "gamedayPath": "/gameday/MTL-DAL?gameId=2025020657&goal=2",
+    "teamAbbrev": "DAL",
+    "scorerId": 8482145,
+    "opponentTricode": "MTL",
+    "shotType": "wrap-around"
+  },
+  {
+    "gameId": 2025020660,
+    "goalIndex": 2,
+    "date": "2026-01-04",
+    "gamedayPath": "/gameday/CAR-NJD?gameId=2025020660&goal=2",
+    "teamAbbrev": "NJD",
+    "scorerId": 8482110,
+    "opponentTricode": "CAR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020672,
+    "goalIndex": 1,
+    "date": "2026-01-06",
+    "gamedayPath": "/gameday/FLA-TOR?gameId=2025020672&goal=1",
+    "teamAbbrev": "TOR",
+    "scorerId": 8484158,
+    "opponentTricode": "FLA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020674,
+    "goalIndex": 2,
+    "date": "2026-01-06",
+    "gamedayPath": "/gameday/NSH-EDM?gameId=2025020674&goal=2",
+    "teamAbbrev": "EDM",
+    "scorerId": 8478402,
+    "opponentTricode": "NSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020675,
+    "goalIndex": 3,
+    "date": "2026-01-06",
+    "gamedayPath": "/gameday/CBJ-SJS?gameId=2025020675&goal=3",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8478460,
+    "opponentTricode": "SJS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020676,
+    "goalIndex": 4,
+    "date": "2026-01-06",
+    "gamedayPath": "/gameday/BOS-SEA?gameId=2025020676&goal=4",
+    "teamAbbrev": "BOS",
+    "scorerId": 8477956,
+    "opponentTricode": "SEA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020677,
+    "goalIndex": 1,
+    "date": "2026-01-07",
+    "gamedayPath": "/gameday/DAL-WSH?gameId=2025020677&goal=1",
+    "teamAbbrev": "DAL",
+    "scorerId": 8476889,
+    "opponentTricode": "WSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020680,
+    "goalIndex": 3,
+    "date": "2026-01-07",
+    "gamedayPath": "/gameday/OTT-UTA?gameId=2025020680&goal=3",
+    "teamAbbrev": "OTT",
+    "scorerId": 8482092,
+    "opponentTricode": "UTA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020683,
+    "goalIndex": 3,
+    "date": "2026-01-08",
+    "gamedayPath": "/gameday/FLA-MTL?gameId=2025020683&goal=3",
+    "teamAbbrev": "FLA",
+    "scorerId": 8477935,
+    "opponentTricode": "MTL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020683,
+    "goalIndex": 5,
+    "date": "2026-01-08",
+    "gamedayPath": "/gameday/FLA-MTL?gameId=2025020683&goal=5",
+    "teamAbbrev": "MTL",
+    "scorerId": 8480074,
+    "opponentTricode": "FLA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020686,
+    "goalIndex": 1,
+    "date": "2026-01-08",
+    "gamedayPath": "/gameday/TOR-PHI?gameId=2025020686&goal=1",
+    "teamAbbrev": "PHI",
+    "scorerId": 8478439,
+    "opponentTricode": "TOR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020692,
+    "goalIndex": 7,
+    "date": "2026-01-08",
+    "gamedayPath": "/gameday/CBJ-VGK?gameId=2025020692&goal=7",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8480893,
+    "opponentTricode": "VGK",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020694,
+    "goalIndex": 3,
+    "date": "2026-01-09",
+    "gamedayPath": "/gameday/WSH-CHI?gameId=2025020694&goal=3",
+    "teamAbbrev": "WSH",
+    "scorerId": 8483573,
+    "opponentTricode": "CHI",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020696,
+    "goalIndex": 3,
+    "date": "2026-01-09",
+    "gamedayPath": "/gameday/STL-UTA?gameId=2025020696&goal=3",
+    "teamAbbrev": "STL",
+    "scorerId": 8476897,
+    "opponentTricode": "UTA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020720,
+    "goalIndex": 3,
+    "date": "2026-01-12",
+    "gamedayPath": "/gameday/VAN-MTL?gameId=2025020720&goal=3",
+    "teamAbbrev": "VAN",
+    "scorerId": 8475169,
+    "opponentTricode": "MTL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020733,
+    "goalIndex": 6,
+    "date": "2026-01-13",
+    "gamedayPath": "/gameday/TOR-UTA?gameId=2025020733&goal=6",
+    "teamAbbrev": "UTA",
+    "scorerId": 8480855,
+    "opponentTricode": "TOR",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020735,
+    "goalIndex": 5,
+    "date": "2026-01-14",
+    "gamedayPath": "/gameday/SEA-NJD?gameId=2025020735&goal=5",
+    "teamAbbrev": "NJD",
+    "scorerId": 8480002,
+    "opponentTricode": "SEA",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020739,
+    "goalIndex": 6,
+    "date": "2026-01-15",
+    "gamedayPath": "/gameday/SEA-BOS?gameId=2025020739&goal=6",
+    "teamAbbrev": "BOS",
+    "scorerId": 8477956,
+    "opponentTricode": "SEA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020744,
+    "goalIndex": 7,
+    "date": "2026-01-15",
+    "gamedayPath": "/gameday/WPG-MIN?gameId=2025020744&goal=7",
+    "teamAbbrev": "WPG",
+    "scorerId": 8476460,
+    "opponentTricode": "MIN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020758,
+    "goalIndex": 3,
+    "date": "2026-01-17",
+    "gamedayPath": "/gameday/MTL-OTT?gameId=2025020758&goal=3",
+    "teamAbbrev": "OTT",
+    "scorerId": 8480801,
+    "opponentTricode": "MTL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020758,
+    "goalIndex": 11,
+    "date": "2026-01-17",
+    "gamedayPath": "/gameday/MTL-OTT?gameId=2025020758&goal=11",
+    "teamAbbrev": "MTL",
+    "scorerId": 8481540,
+    "opponentTricode": "OTT",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020760,
+    "goalIndex": 3,
+    "date": "2026-01-17",
+    "gamedayPath": "/gameday/CBJ-PIT?gameId=2025020760&goal=3",
+    "teamAbbrev": "PIT",
+    "scorerId": 8476483,
+    "opponentTricode": "CBJ",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020762,
+    "goalIndex": 5,
+    "date": "2026-01-17",
+    "gamedayPath": "/gameday/TOR-WPG?gameId=2025020762&goal=5",
+    "teamAbbrev": "TOR",
+    "scorerId": 8475171,
+    "opponentTricode": "WPG",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020769,
+    "goalIndex": 1,
+    "date": "2026-01-18",
+    "gamedayPath": "/gameday/STL-EDM?gameId=2025020769&goal=1",
+    "teamAbbrev": "EDM",
+    "scorerId": 8476454,
+    "opponentTricode": "STL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020779,
+    "goalIndex": 3,
+    "date": "2026-01-19",
+    "gamedayPath": "/gameday/NYR-ANA?gameId=2025020779&goal=3",
+    "teamAbbrev": "NYR",
+    "scorerId": 8478550,
+    "opponentTricode": "ANA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020782,
+    "goalIndex": 1,
+    "date": "2026-01-20",
+    "gamedayPath": "/gameday/OTT-CBJ?gameId=2025020782&goal=1",
+    "teamAbbrev": "OTT",
+    "scorerId": 8482095,
+    "opponentTricode": "CBJ",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020784,
+    "goalIndex": 4,
+    "date": "2026-01-20",
+    "gamedayPath": "/gameday/BUF-NSH?gameId=2025020784&goal=4",
+    "teamAbbrev": "BUF",
+    "scorerId": 8479420,
+    "opponentTricode": "NSH",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020791,
+    "goalIndex": 3,
+    "date": "2026-01-21",
+    "gamedayPath": "/gameday/PIT-CGY?gameId=2025020791&goal=3",
+    "teamAbbrev": "CGY",
+    "scorerId": 8481068,
+    "opponentTricode": "PIT",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020794,
+    "goalIndex": 4,
+    "date": "2026-01-22",
+    "gamedayPath": "/gameday/VGK-BOS?gameId=2025020794&goal=4",
+    "teamAbbrev": "BOS",
+    "scorerId": 8477956,
+    "opponentTricode": "VGK",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020796,
+    "goalIndex": 4,
+    "date": "2026-01-22",
+    "gamedayPath": "/gameday/CHI-CAR?gameId=2025020796&goal=4",
+    "teamAbbrev": "CAR",
+    "scorerId": 8473533,
+    "opponentTricode": "CHI",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020804,
+    "goalIndex": 1,
+    "date": "2026-01-23",
+    "gamedayPath": "/gameday/STL-DAL?gameId=2025020804&goal=1",
+    "teamAbbrev": "DAL",
+    "scorerId": 8482740,
+    "opponentTricode": "STL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020808,
+    "goalIndex": 2,
+    "date": "2026-01-23",
+    "gamedayPath": "/gameday/NYR-SJS?gameId=2025020808&goal=2",
+    "teamAbbrev": "SJS",
+    "scorerId": 8483630,
+    "opponentTricode": "NYR",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020812,
+    "goalIndex": 4,
+    "date": "2026-01-24",
+    "gamedayPath": "/gameday/MTL-BOS?gameId=2025020812&goal=4",
+    "teamAbbrev": "BOS",
+    "scorerId": 8479987,
+    "opponentTricode": "MTL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020814,
+    "goalIndex": 5,
+    "date": "2026-01-24",
+    "gamedayPath": "/gameday/TBL-CBJ?gameId=2025020814&goal=5",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8484166,
+    "opponentTricode": "TBL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020816,
+    "goalIndex": 4,
+    "date": "2026-01-24",
+    "gamedayPath": "/gameday/LAK-STL?gameId=2025020816&goal=4",
+    "teamAbbrev": "STL",
+    "scorerId": 8475170,
+    "opponentTricode": "LAK",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020831,
+    "goalIndex": 10,
+    "date": "2026-01-27",
+    "gamedayPath": "/gameday/BUF-TOR?gameId=2025020831&goal=10",
+    "teamAbbrev": "TOR",
+    "scorerId": 8477503,
+    "opponentTricode": "BUF",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020843,
+    "goalIndex": 5,
+    "date": "2026-01-29",
+    "gamedayPath": "/gameday/PHI-BOS?gameId=2025020843&goal=5",
+    "teamAbbrev": "BOS",
+    "scorerId": 8479999,
+    "opponentTricode": "PHI",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020845,
+    "goalIndex": 5,
+    "date": "2026-01-29",
+    "gamedayPath": "/gameday/COL-MTL?gameId=2025020845&goal=5",
+    "teamAbbrev": "MTL",
+    "scorerId": 8478133,
+    "opponentTricode": "COL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020845,
+    "goalIndex": 6,
+    "date": "2026-01-29",
+    "gamedayPath": "/gameday/COL-MTL?gameId=2025020845&goal=6",
+    "teamAbbrev": "MTL",
+    "scorerId": 8481523,
+    "opponentTricode": "COL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020849,
+    "goalIndex": 3,
+    "date": "2026-01-29",
+    "gamedayPath": "/gameday/NYI-NYR?gameId=2025020849&goal=3",
+    "teamAbbrev": "NYR",
+    "scorerId": 8476459,
+    "opponentTricode": "NYI",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020856,
+    "goalIndex": 6,
+    "date": "2026-01-29",
+    "gamedayPath": "/gameday/DAL-VGK?gameId=2025020856&goal=6",
+    "teamAbbrev": "VGK",
+    "scorerId": 8475191,
+    "opponentTricode": "DAL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020857,
+    "goalIndex": 1,
+    "date": "2026-01-29",
+    "gamedayPath": "/gameday/TOR-SEA?gameId=2025020857&goal=1",
+    "teamAbbrev": "SEA",
+    "scorerId": 8482665,
+    "opponentTricode": "TOR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020864,
+    "goalIndex": 4,
+    "date": "2026-01-31",
+    "gamedayPath": "/gameday/CAR-WSH?gameId=2025020864&goal=4",
+    "teamAbbrev": "WSH",
+    "scorerId": 8482148,
+    "opponentTricode": "CAR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020864,
+    "goalIndex": 6,
+    "date": "2026-01-31",
+    "gamedayPath": "/gameday/CAR-WSH?gameId=2025020864&goal=6",
+    "teamAbbrev": "WSH",
+    "scorerId": 8479345,
+    "opponentTricode": "CAR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020864,
+    "goalIndex": 7,
+    "date": "2026-01-31",
+    "gamedayPath": "/gameday/CAR-WSH?gameId=2025020864&goal=7",
+    "teamAbbrev": "WSH",
+    "scorerId": 8482088,
+    "opponentTricode": "CAR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020869,
+    "goalIndex": 2,
+    "date": "2026-01-31",
+    "gamedayPath": "/gameday/TOR-VAN?gameId=2025020869&goal=2",
+    "teamAbbrev": "TOR",
+    "scorerId": 8478462,
+    "opponentTricode": "VAN",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025020874,
+    "goalIndex": 1,
+    "date": "2026-02-01",
+    "gamedayPath": "/gameday/LAK-CAR?gameId=2025020874&goal=1",
+    "teamAbbrev": "CAR",
+    "scorerId": 8473533,
+    "opponentTricode": "LAK",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020876,
+    "goalIndex": 5,
+    "date": "2026-02-02",
+    "gamedayPath": "/gameday/BUF-FLA?gameId=2025020876&goal=5",
+    "teamAbbrev": "BUF",
+    "scorerId": 8484145,
+    "opponentTricode": "FLA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020877,
+    "goalIndex": 3,
+    "date": "2026-02-02",
+    "gamedayPath": "/gameday/OTT-PIT?gameId=2025020877&goal=3",
+    "teamAbbrev": "OTT",
+    "scorerId": 8482116,
+    "opponentTricode": "PIT",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020878,
+    "goalIndex": 4,
+    "date": "2026-02-02",
+    "gamedayPath": "/gameday/NYI-WSH?gameId=2025020878&goal=4",
+    "teamAbbrev": "WSH",
+    "scorerId": 8475343,
+    "opponentTricode": "NYI",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020879,
+    "goalIndex": 5,
+    "date": "2026-02-02",
+    "gamedayPath": "/gameday/MTL-MIN?gameId=2025020879&goal=5",
+    "teamAbbrev": "MTL",
+    "scorerId": 8481523,
+    "opponentTricode": "MIN",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025020882,
+    "goalIndex": 7,
+    "date": "2026-02-02",
+    "gamedayPath": "/gameday/WPG-DAL?gameId=2025020882&goal=7",
+    "teamAbbrev": "DAL",
+    "scorerId": 8481581,
+    "opponentTricode": "WPG",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020888,
+    "goalIndex": 1,
+    "date": "2026-02-03",
+    "gamedayPath": "/gameday/PIT-NYI?gameId=2025020888&goal=1",
+    "teamAbbrev": "PIT",
+    "scorerId": 8477511,
+    "opponentTricode": "NYI",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020891,
+    "goalIndex": 3,
+    "date": "2026-02-03",
+    "gamedayPath": "/gameday/TOR-EDM?gameId=2025020891&goal=3",
+    "teamAbbrev": "TOR",
+    "scorerId": 8482720,
+    "opponentTricode": "EDM",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020893,
+    "goalIndex": 3,
+    "date": "2026-02-04",
+    "gamedayPath": "/gameday/BOS-FLA?gameId=2025020893&goal=3",
+    "teamAbbrev": "BOS",
+    "scorerId": 8479591,
+    "opponentTricode": "FLA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020893,
+    "goalIndex": 7,
+    "date": "2026-02-04",
+    "gamedayPath": "/gameday/BOS-FLA?gameId=2025020893&goal=7",
+    "teamAbbrev": "BOS",
+    "scorerId": 8480355,
+    "opponentTricode": "FLA",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025020896,
+    "goalIndex": 4,
+    "date": "2026-02-04",
+    "gamedayPath": "/gameday/MIN-NSH?gameId=2025020896&goal=4",
+    "teamAbbrev": "MIN",
+    "scorerId": 8481557,
+    "opponentTricode": "NSH",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020896,
+    "goalIndex": 11,
+    "date": "2026-02-04",
+    "gamedayPath": "/gameday/MIN-NSH?gameId=2025020896&goal=11",
+    "teamAbbrev": "MIN",
+    "scorerId": 8474716,
+    "opponentTricode": "NSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020897,
+    "goalIndex": 2,
+    "date": "2026-02-04",
+    "gamedayPath": "/gameday/SJS-COL?gameId=2025020897&goal=2",
+    "teamAbbrev": "COL",
+    "scorerId": 8477476,
+    "opponentTricode": "SJS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020899,
+    "goalIndex": 2,
+    "date": "2026-02-04",
+    "gamedayPath": "/gameday/STL-DAL?gameId=2025020899&goal=2",
+    "teamAbbrev": "DAL",
+    "scorerId": 8480027,
+    "opponentTricode": "STL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020902,
+    "goalIndex": 2,
+    "date": "2026-02-04",
+    "gamedayPath": "/gameday/SEA-LAK?gameId=2025020902&goal=2",
+    "teamAbbrev": "SEA",
+    "scorerId": 8483524,
+    "opponentTricode": "LAK",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025020905,
+    "goalIndex": 1,
+    "date": "2026-02-05",
+    "gamedayPath": "/gameday/NYI-NJD?gameId=2025020905&goal=1",
+    "teamAbbrev": "NYI",
+    "scorerId": 8475231,
+    "opponentTricode": "NJD",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020925,
+    "goalIndex": 1,
+    "date": "2026-02-26",
+    "gamedayPath": "/gameday/SEA-STL?gameId=2025020925&goal=1",
+    "teamAbbrev": "STL",
+    "scorerId": 8482077,
+    "opponentTricode": "SEA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020931,
+    "goalIndex": 1,
+    "date": "2026-02-27",
+    "gamedayPath": "/gameday/VGK-WSH?gameId=2025020931&goal=1",
+    "teamAbbrev": "WSH",
+    "scorerId": 8479400,
+    "opponentTricode": "VGK",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025020935,
+    "goalIndex": 1,
+    "date": "2026-02-28",
+    "gamedayPath": "/gameday/BOS-PHI?gameId=2025020935&goal=1",
+    "teamAbbrev": "PHI",
+    "scorerId": 8478439,
+    "opponentTricode": "BOS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020936,
+    "goalIndex": 6,
+    "date": "2026-02-28",
+    "gamedayPath": "/gameday/EDM-SJS?gameId=2025020936&goal=6",
+    "teamAbbrev": "EDM",
+    "scorerId": 8479365,
+    "opponentTricode": "SJS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020954,
+    "goalIndex": 1,
+    "date": "2026-03-02",
+    "gamedayPath": "/gameday/PHI-TOR?gameId=2025020954&goal=1",
+    "teamAbbrev": "TOR",
+    "scorerId": 8478057,
+    "opponentTricode": "PHI",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020955,
+    "goalIndex": 3,
+    "date": "2026-03-02",
+    "gamedayPath": "/gameday/DET-NSH?gameId=2025020955&goal=3",
+    "teamAbbrev": "NSH",
+    "scorerId": 8476539,
+    "opponentTricode": "DET",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020961,
+    "goalIndex": 3,
+    "date": "2026-03-03",
+    "gamedayPath": "/gameday/FLA-NJD?gameId=2025020961&goal=3",
+    "teamAbbrev": "NJD",
+    "scorerId": 8476462,
+    "opponentTricode": "FLA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020967,
+    "goalIndex": 3,
+    "date": "2026-03-03",
+    "gamedayPath": "/gameday/TBL-MIN?gameId=2025020967&goal=3",
+    "teamAbbrev": "TBL",
+    "scorerId": 8476453,
+    "opponentTricode": "MIN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020971,
+    "goalIndex": 1,
+    "date": "2026-03-04",
+    "gamedayPath": "/gameday/TOR-NJD?gameId=2025020971&goal=1",
+    "teamAbbrev": "TOR",
+    "scorerId": 8481711,
+    "opponentTricode": "NJD",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020971,
+    "goalIndex": 4,
+    "date": "2026-03-04",
+    "gamedayPath": "/gameday/TOR-NJD?gameId=2025020971&goal=4",
+    "teamAbbrev": "NJD",
+    "scorerId": 8481721,
+    "opponentTricode": "TOR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025020982,
+    "goalIndex": 4,
+    "date": "2026-03-05",
+    "gamedayPath": "/gameday/NYI-LAK?gameId=2025020982&goal=4",
+    "teamAbbrev": "NYI",
+    "scorerId": 8477500,
+    "opponentTricode": "LAK",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021000,
+    "goalIndex": 7,
+    "date": "2026-03-07",
+    "gamedayPath": "/gameday/OTT-SEA?gameId=2025021000&goal=7",
+    "teamAbbrev": "OTT",
+    "scorerId": 8477998,
+    "opponentTricode": "SEA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021001,
+    "goalIndex": 1,
+    "date": "2026-03-08",
+    "gamedayPath": "/gameday/MIN-COL?gameId=2025021001&goal=1",
+    "teamAbbrev": "COL",
+    "scorerId": 8477492,
+    "opponentTricode": "MIN",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021002,
+    "goalIndex": 3,
+    "date": "2026-03-08",
+    "gamedayPath": "/gameday/BOS-PIT?gameId=2025021002&goal=3",
+    "teamAbbrev": "BOS",
+    "scorerId": 8477956,
+    "opponentTricode": "PIT",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021002,
+    "goalIndex": 5,
+    "date": "2026-03-08",
+    "gamedayPath": "/gameday/BOS-PIT?gameId=2025021002&goal=5",
+    "teamAbbrev": "PIT",
+    "scorerId": 8480980,
+    "opponentTricode": "BOS",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021003,
+    "goalIndex": 5,
+    "date": "2026-03-08",
+    "gamedayPath": "/gameday/TBL-BUF?gameId=2025021003&goal=5",
+    "teamAbbrev": "BUF",
+    "scorerId": 8477949,
+    "opponentTricode": "TBL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021009,
+    "goalIndex": 5,
+    "date": "2026-03-09",
+    "gamedayPath": "/gameday/CGY-WSH?gameId=2025021009&goal=5",
+    "teamAbbrev": "CGY",
+    "scorerId": 8476399,
+    "opponentTricode": "WSH",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021012,
+    "goalIndex": 2,
+    "date": "2026-03-10",
+    "gamedayPath": "/gameday/LAK-BOS?gameId=2025021012&goal=2",
+    "teamAbbrev": "LAK",
+    "scorerId": 8474563,
+    "opponentTricode": "BOS",
+    "shotType": "slap"
+  },
+  {
+    "gameId": 2025021023,
+    "goalIndex": 5,
+    "date": "2026-03-10",
+    "gamedayPath": "/gameday/EDM-COL?gameId=2025021023&goal=5",
+    "teamAbbrev": "EDM",
+    "scorerId": 8476454,
+    "opponentTricode": "COL",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021025,
+    "goalIndex": 3,
+    "date": "2026-03-11",
+    "gamedayPath": "/gameday/MTL-OTT?gameId=2025021025&goal=3",
+    "teamAbbrev": "OTT",
+    "scorerId": 8480208,
+    "opponentTricode": "MTL",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021027,
+    "goalIndex": 5,
+    "date": "2026-03-12",
+    "gamedayPath": "/gameday/SJS-BOS?gameId=2025021027&goal=5",
+    "teamAbbrev": "BOS",
+    "scorerId": 8483489,
+    "opponentTricode": "SJS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021032,
+    "goalIndex": 4,
+    "date": "2026-03-12",
+    "gamedayPath": "/gameday/CGY-NJD?gameId=2025021032&goal=4",
+    "teamAbbrev": "CGY",
+    "scorerId": 8481556,
+    "opponentTricode": "NJD",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021036,
+    "goalIndex": 4,
+    "date": "2026-03-12",
+    "gamedayPath": "/gameday/NYR-WPG?gameId=2025021036&goal=4",
+    "teamAbbrev": "WPG",
+    "scorerId": 8478398,
+    "opponentTricode": "NYR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021037,
+    "goalIndex": 5,
+    "date": "2026-03-12",
+    "gamedayPath": "/gameday/CHI-UTA?gameId=2025021037&goal=5",
+    "teamAbbrev": "CHI",
+    "scorerId": 8484144,
+    "opponentTricode": "UTA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021038,
+    "goalIndex": 3,
+    "date": "2026-03-12",
+    "gamedayPath": "/gameday/NSH-VAN?gameId=2025021038&goal=3",
+    "teamAbbrev": "NSH",
+    "scorerId": 8479370,
+    "opponentTricode": "VAN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021039,
+    "goalIndex": 4,
+    "date": "2026-03-12",
+    "gamedayPath": "/gameday/PIT-VGK?gameId=2025021039&goal=4",
+    "teamAbbrev": "VGK",
+    "scorerId": 8478483,
+    "opponentTricode": "PIT",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021042,
+    "goalIndex": 3,
+    "date": "2026-03-13",
+    "gamedayPath": "/gameday/EDM-STL?gameId=2025021042&goal=3",
+    "teamAbbrev": "STL",
+    "scorerId": 8480459,
+    "opponentTricode": "EDM",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021054,
+    "goalIndex": 5,
+    "date": "2026-03-14",
+    "gamedayPath": "/gameday/PIT-UTA?gameId=2025021054&goal=5",
+    "teamAbbrev": "PIT",
+    "scorerId": 8475810,
+    "opponentTricode": "UTA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021058,
+    "goalIndex": 8,
+    "date": "2026-03-15",
+    "gamedayPath": "/gameday/SJS-OTT?gameId=2025021058&goal=8",
+    "teamAbbrev": "SJS",
+    "scorerId": 8485402,
+    "opponentTricode": "OTT",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021060,
+    "goalIndex": 4,
+    "date": "2026-03-15",
+    "gamedayPath": "/gameday/TOR-MIN?gameId=2025021060&goal=4",
+    "teamAbbrev": "MIN",
+    "scorerId": 8475765,
+    "opponentTricode": "TOR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021060,
+    "goalIndex": 5,
+    "date": "2026-03-15",
+    "gamedayPath": "/gameday/TOR-MIN?gameId=2025021060&goal=5",
+    "teamAbbrev": "MIN",
+    "scorerId": 8475765,
+    "opponentTricode": "TOR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021060,
+    "goalIndex": 6,
+    "date": "2026-03-15",
+    "gamedayPath": "/gameday/TOR-MIN?gameId=2025021060&goal=6",
+    "teamAbbrev": "TOR",
+    "scorerId": 8482720,
+    "opponentTricode": "MIN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021064,
+    "goalIndex": 6,
+    "date": "2026-03-16",
+    "gamedayPath": "/gameday/BOS-NJD?gameId=2025021064&goal=6",
+    "teamAbbrev": "BOS",
+    "scorerId": 8477956,
+    "opponentTricode": "NJD",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021071,
+    "goalIndex": 2,
+    "date": "2026-03-17",
+    "gamedayPath": "/gameday/NSH-WPG?gameId=2025021071&goal=2",
+    "teamAbbrev": "WPG",
+    "scorerId": 8477504,
+    "opponentTricode": "NSH",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021072,
+    "goalIndex": 1,
+    "date": "2026-03-17",
+    "gamedayPath": "/gameday/MIN-CHI?gameId=2025021072&goal=1",
+    "teamAbbrev": "MIN",
+    "scorerId": 8477451,
+    "opponentTricode": "CHI",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021073,
+    "goalIndex": 7,
+    "date": "2026-03-17",
+    "gamedayPath": "/gameday/SJS-EDM?gameId=2025021073&goal=7",
+    "teamAbbrev": "EDM",
+    "scorerId": 8479368,
+    "opponentTricode": "SJS",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021073,
+    "goalIndex": 8,
+    "date": "2026-03-17",
+    "gamedayPath": "/gameday/SJS-EDM?gameId=2025021073&goal=8",
+    "teamAbbrev": "EDM",
+    "scorerId": 8475786,
+    "opponentTricode": "SJS",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021075,
+    "goalIndex": 1,
+    "date": "2026-03-17",
+    "gamedayPath": "/gameday/BUF-VGK?gameId=2025021075&goal=1",
+    "teamAbbrev": "BUF",
+    "scorerId": 8482659,
+    "opponentTricode": "VGK",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021078,
+    "goalIndex": 5,
+    "date": "2026-03-18",
+    "gamedayPath": "/gameday/PIT-CAR?gameId=2025021078&goal=5",
+    "teamAbbrev": "CAR",
+    "scorerId": 8475791,
+    "opponentTricode": "PIT",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021081,
+    "goalIndex": 1,
+    "date": "2026-03-18",
+    "gamedayPath": "/gameday/STL-CGY?gameId=2025021081&goal=1",
+    "teamAbbrev": "CGY",
+    "scorerId": 8482074,
+    "opponentTricode": "STL",
+    "shotType": "backhand"
+  }
+]

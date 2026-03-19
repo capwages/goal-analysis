@@ -1,0 +1,14 @@
+{
+  "name": "goal-analysis",
+  "version": "1.0.0",
+  "description": "NHL goal classification pipeline",
+  "scripts": {
+    "setup": "bash scripts/setup.sh",
+    "fetch": "node scripts/goals/fetchGoalReplayArchive.js",
+    "classify": "node scripts/goals/buildGoalClassificationsByTeam.js"
+  },
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "openai": "^6.8.1"
+  }
+}
