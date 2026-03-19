@@ -1,0 +1,45 @@
+name: Daily goal update
+
+on:
+  schedule:
+    - cron: "0 9 * * *" # 4 AM EST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - name: Download archive
+        run: bash scripts/setup.sh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch new games
+        run: node scripts/goals/fetchGoalReplayArchive.js
+
+      - name: Classify goals
+        run: node scripts/goals/buildGoalClassificationsByTeam.js
+
+      - name: Publish updated archive
+        run: bash scripts/publish.sh
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit classification updates
+        run: |
+          git config user.name "CapWages"
+          git config user.email "contact@capwages.com"
+          git add data/goal-classification-by-team/
+          git diff --cached --quiet || git commit -m "Update goal classifications $(date +%Y-%m-%d)"
+          git push
