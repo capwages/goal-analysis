@@ -4,8 +4,9 @@
   "description": "NHL goal classification pipeline",
   "scripts": {
     "setup": "bash scripts/setup.sh",
-    "fetch": "node scripts/goals/fetchGoalReplayArchive.js",
-    "classify": "node scripts/goals/buildGoalClassificationsByTeam.js"
+    "fetch": "bash scripts/setup.sh && node scripts/goals/fetchGoalReplayArchive.js",
+    "classify": "bash scripts/setup.sh && node scripts/goals/buildGoalClassificationsByTeam.js",
+    "publish": "bash scripts/publish.sh"
   },
   "dependencies": {
     "cli-progress": "^3.12.0",

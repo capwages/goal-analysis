@@ -2,29 +2,33 @@
 
 NHL goal classification pipeline. Fetches play-by-play and goal replay tracking data from the NHL API, then classifies each goal by play type (Rush, Cycle, Net-front, Seam, Broken Coverage, Rebound/Scramble).
 
+## Prerequisites
+
+- Node.js
+- [GitHub CLI](https://cli.github.com/) (authenticated with repo access)
+
 ## Setup
 
 ```bash
 npm install
-npm run setup
 ```
 
-`npm run setup` downloads the goal replay archive (~161 MB compressed, ~2.5 GB extracted) from the GitHub release. Requires the [GitHub CLI](https://cli.github.com/).
+## Usage
 
-## Pipeline
-
-### 1. Fetch goal replay archive
+### Fetch goal replay data
 
 ```bash
 npm run fetch
 ```
 
-Fetches play-by-play data and goal replay tracking payloads from the NHL Game Center API for every game in the schedule file. Each game gets a directory under `data/goal-replay-archive/{gameId}/` containing:
+Downloads the goal replay archive from the latest GitHub release (if not already present), then fetches new play-by-play and tracking data from the NHL Game Center API.
+
+Each game gets a directory under `data/goal-replay-archive/{gameId}/` containing:
 
 - `pbp.json` — full play-by-play
 - `goal-{n}.json` — puck/player tracking frames for each goal
 
-Games that have already been fetched are skipped on re-runs. Games that previously errored are retried.
+Games already fetched are skipped. Games that previously errored are retried.
 
 Options (pass after `--`):
 
@@ -35,13 +39,13 @@ Options (pass after `--`):
 | `--output-dir` | `data/goal-replay-archive` | Where to write game directories |
 | `--schedule-file` | `data/misc/schedule/20252026/regulation.json` | Local schedule file |
 
-### 2. Classify goals by team
+### Classify goals by team
 
 ```bash
 npm run classify
 ```
 
-Reads the goal replay archive, classifies each goal using the taxonomy in `src/util/goalTaxonomy.js`, and writes per-team output files to `data/goal-classification-by-team/{TRICODE}.json`.
+Downloads the goal replay archive from the latest GitHub release (if not already present), then classifies each goal using the taxonomy in `src/util/goalTaxonomy.js` and writes per-team output files to `data/goal-classification-by-team/{TRICODE}.json`.
 
 Each team file contains players and their goals:
 
@@ -74,11 +78,19 @@ Options (pass after `--`):
 | `--taxonomy-path` | `src/util/goalTaxonomy.js` | Goal classification module |
 | `--max-games` | all | Limit number of games to process |
 
+### Publish updated archive
+
+```bash
+npm run publish
+```
+
+Compresses the local goal replay archive and uploads it as a new GitHub release. Run this after fetching new games so others can pull the updated data.
+
 ## Data
 
 | Directory | Tracked | Description |
 |---|---|---|
-| `data/goal-replay-archive/` | No (gitignored) | Raw PBP + tracking frames per game. Downloaded via `npm run setup` or fetched via `npm run fetch`. |
+| `data/goal-replay-archive/` | No (gitignored) | Raw PBP + tracking frames per game. Downloaded automatically by `fetch` and `classify`, or manually via `npm run setup`. |
 | `data/goal-classification-by-team/` | Yes | Per-team goal classifications. |
 | `data/misc/schedule/` | Yes | NHL schedule used by the fetch script. |
 
