@@ -1331,6 +1331,22 @@
           "goalClassification": "Seam"
         },
         {
+          "gameId": 2025020952,
+          "goalIndex": 2,
+          "date": "2026-03-01",
+          "opponentTricode": "CGY",
+          "shotType": "bat",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025020952,
+          "goalIndex": 4,
+          "date": "2026-03-01",
+          "opponentTricode": "CGY",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
           "gameId": 2025020968,
           "goalIndex": 3,
           "date": "2026-03-03",

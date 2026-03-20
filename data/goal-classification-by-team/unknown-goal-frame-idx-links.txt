@@ -335,6 +335,8 @@
 /gameday/NYI-CBJ?gameId=2025020937&goal=4
 /gameday/OTT-TOR?gameId=2025020939&goal=5
 /gameday/WSH-MTL?gameId=2025020940&goal=8
+/gameday/CHI-UTA?gameId=2025020949&goal=1
+/gameday/CGY-ANA?gameId=2025020952&goal=2
 /gameday/DET-NSH?gameId=2025020955&goal=6
 /gameday/DAL-VAN?gameId=2025020956&goal=2
 /gameday/CAR-SEA?gameId=2025020957&goal=2
@@ -374,3 +376,9 @@
 /gameday/SJS-EDM?gameId=2025021073&goal=8
 /gameday/BUF-VGK?gameId=2025021075&goal=1
 /gameday/PIT-CAR?gameId=2025021078&goal=3
+/gameday/WPG-BOS?gameId=2025021083&goal=3
+/gameday/NYI-OTT?gameId=2025021084&goal=4
+/gameday/MTL-DET?gameId=2025021085&goal=1
+/gameday/NYR-CBJ?gameId=2025021086&goal=8
+/gameday/FLA-EDM?gameId=2025021089&goal=1
+/gameday/UTA-VGK?gameId=2025021091&goal=4

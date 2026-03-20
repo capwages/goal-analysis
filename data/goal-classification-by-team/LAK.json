@@ -175,6 +175,14 @@
           "opponentTricode": "NJD",
           "shotType": "snap",
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021093,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -833,6 +841,14 @@
           "opponentTricode": "NJD",
           "shotType": "wrist",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021093,
+          "goalIndex": 6,
+          "date": "2026-03-19",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1098,6 +1114,14 @@
           "opponentTricode": "VGK",
           "shotType": "wrist",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021093,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

@@ -66,6 +66,14 @@
           "opponentTricode": "NSH",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021083,
+          "goalIndex": 5,
+          "date": "2026-03-19",
+          "opponentTricode": "BOS",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1446,6 +1454,14 @@
           "date": "2025-12-21",
           "opponentTricode": "UTA",
           "shotType": "snap",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020950,
+          "goalIndex": 1,
+          "date": "2026-03-01",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
           "goalClassification": "Seam"
         },
         {

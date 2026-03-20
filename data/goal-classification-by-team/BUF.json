@@ -183,6 +183,22 @@
           "opponentTricode": "WSH",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021092,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021092,
+          "goalIndex": 5,
+          "date": "2026-03-19",
+          "opponentTricode": "SJS",
+          "shotType": "deflected",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -755,6 +771,14 @@
           "opponentTricode": "NSH",
           "shotType": "slap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021092,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1172,6 +1196,14 @@
           "opponentTricode": "TBL",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021092,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1886,6 +1918,14 @@
           "opponentTricode": "MTL",
           "shotType": "slap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021092,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

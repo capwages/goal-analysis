@@ -396,6 +396,14 @@
           "opponentTricode": "DET",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021089,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -701,6 +709,14 @@
           "goalClassification": "Cycle"
         },
         {
+          "gameId": 2025020948,
+          "goalIndex": 8,
+          "date": "2026-03-01",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "goalClassification": "Net-front"
+        },
+        {
           "gameId": 2025021031,
           "goalIndex": 3,
           "date": "2026-03-12",
@@ -874,6 +890,22 @@
           "goalClassification": "Rebound/Scramble"
         },
         {
+          "gameId": 2025020948,
+          "goalIndex": 2,
+          "date": "2026-03-01",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020948,
+          "goalIndex": 5,
+          "date": "2026-03-01",
+          "opponentTricode": "NYI",
+          "shotType": "backhand",
+          "goalClassification": "Seam"
+        },
+        {
           "gameId": 2025020978,
           "goalIndex": 5,
           "date": "2026-03-05",
@@ -1010,6 +1042,14 @@
           "opponentTricode": "STL",
           "shotType": "wrist",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021089,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "EDM",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1345,6 +1385,19 @@
       ]
     },
     {
+      "id": 8481133,
+      "goals": [
+        {
+          "gameId": 2025021089,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
       "id": 8481600,
       "goals": [
         {
@@ -1532,6 +1585,14 @@
           "opponentTricode": "NJD",
           "shotType": "backhand",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021089,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1605,6 +1666,14 @@
           "date": "2026-02-02",
           "opponentTricode": "BUF",
           "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020948,
+          "goalIndex": 1,
+          "date": "2026-03-01",
+          "opponentTricode": "NYI",
+          "shotType": "backhand",
           "goalClassification": "Seam"
         }
       ]

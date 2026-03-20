@@ -1013,6 +1013,14 @@
           "opponentTricode": "WPG",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021090,
+          "goalIndex": 6,
+          "date": "2026-03-19",
+          "opponentTricode": "TBL",
+          "shotType": "bat",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1328,6 +1336,14 @@
           "opponentTricode": "WPG",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021090,
+          "goalIndex": 5,
+          "date": "2026-03-19",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

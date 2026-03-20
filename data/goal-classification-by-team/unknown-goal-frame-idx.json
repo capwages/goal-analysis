@@ -3707,6 +3707,28 @@
     "goalClassification": "Empty Net"
   },
   {
+    "gameId": 2025020949,
+    "goalIndex": 1,
+    "date": "2026-03-01",
+    "gamedayPath": "/gameday/CHI-UTA?gameId=2025020949&goal=1",
+    "teamAbbrev": "CHI",
+    "scorerId": 8476882,
+    "opponentTricode": "UTA",
+    "shotType": "snap",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025020952,
+    "goalIndex": 2,
+    "date": "2026-03-01",
+    "gamedayPath": "/gameday/CGY-ANA?gameId=2025020952&goal=2",
+    "teamAbbrev": "ANA",
+    "scorerId": 8483445,
+    "opponentTricode": "CGY",
+    "shotType": "bat",
+    "goalClassification": "Rebound/Scramble"
+  },
+  {
     "gameId": 2025020955,
     "goalIndex": 6,
     "date": "2026-03-02",
@@ -4134,5 +4156,71 @@
     "opponentTricode": "PIT",
     "shotType": "backhand",
     "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021083,
+    "goalIndex": 3,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/WPG-BOS?gameId=2025021083&goal=3",
+    "teamAbbrev": "BOS",
+    "scorerId": 8478042,
+    "opponentTricode": "WPG",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021084,
+    "goalIndex": 4,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/NYI-OTT?gameId=2025021084&goal=4",
+    "teamAbbrev": "OTT",
+    "scorerId": 8477998,
+    "opponentTricode": "NYI",
+    "shotType": "backhand",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021085,
+    "goalIndex": 1,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/MTL-DET?gameId=2025021085&goal=1",
+    "teamAbbrev": "MTL",
+    "scorerId": 8483515,
+    "opponentTricode": "DET",
+    "shotType": "snap",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021086,
+    "goalIndex": 8,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/NYR-CBJ?gameId=2025021086&goal=8",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8476923,
+    "opponentTricode": "NYR",
+    "shotType": "snap",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021089,
+    "goalIndex": 1,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/FLA-EDM?gameId=2025021089&goal=1",
+    "teamAbbrev": "FLA",
+    "scorerId": 8481133,
+    "opponentTricode": "EDM",
+    "shotType": "wrist",
+    "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021091,
+    "goalIndex": 4,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/UTA-VGK?gameId=2025021091&goal=4",
+    "teamAbbrev": "UTA",
+    "scorerId": 8480849,
+    "opponentTricode": "VGK",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
   }
 ]

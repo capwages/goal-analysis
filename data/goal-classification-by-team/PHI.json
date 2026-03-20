@@ -171,6 +171,14 @@
           "opponentTricode": "NYR",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021093,
+          "goalIndex": 5,
+          "date": "2026-03-19",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -477,6 +485,14 @@
           "opponentTricode": "WSH",
           "shotType": "snap",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021093,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -877,6 +893,14 @@
           "date": "2026-03-02",
           "opponentTricode": "TOR",
           "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021093,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "LAK",
+          "shotType": "backhand",
           "goalClassification": "Cycle"
         }
       ]

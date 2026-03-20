@@ -331,6 +331,14 @@
           "opponentTricode": "SJS",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021084,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "NYI",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -977,6 +985,14 @@
           "opponentTricode": "SJS",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021084,
+          "goalIndex": 5,
+          "date": "2026-03-19",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1315,6 +1331,14 @@
           "opponentTricode": "SEA",
           "shotType": "deflected",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021084,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

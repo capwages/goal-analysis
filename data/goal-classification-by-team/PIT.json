@@ -645,6 +645,14 @@
           "goalClassification": "Cycle"
         },
         {
+          "gameId": 2025020947,
+          "goalIndex": 3,
+          "date": "2026-03-01",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
           "gameId": 2025020977,
           "goalIndex": 2,
           "date": "2026-03-05",
@@ -774,6 +782,14 @@
           "goalIndex": 5,
           "date": "2026-01-31",
           "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020947,
+          "goalIndex": 4,
+          "date": "2026-03-01",
+          "opponentTricode": "VGK",
           "shotType": "wrist",
           "goalClassification": "Cycle"
         },
@@ -1471,6 +1487,14 @@
           "opponentTricode": "NYI",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020947,
+          "goalIndex": 5,
+          "date": "2026-03-01",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1754,6 +1778,14 @@
           "goalClassification": "Rush"
         },
         {
+          "gameId": 2025020947,
+          "goalIndex": 2,
+          "date": "2026-03-01",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
           "gameId": 2025021002,
           "goalIndex": 4,
           "date": "2026-03-08",
@@ -1953,6 +1985,14 @@
           "opponentTricode": "BUF",
           "shotType": "snap",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025020947,
+          "goalIndex": 1,
+          "date": "2026-03-01",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         },
         {
           "gameId": 2025021039,

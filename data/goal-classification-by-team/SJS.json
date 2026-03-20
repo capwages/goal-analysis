@@ -1203,6 +1203,14 @@
           "goalClassification": "Seam"
         },
         {
+          "gameId": 2025020950,
+          "goalIndex": 2,
+          "date": "2026-03-01",
+          "opponentTricode": "WPG",
+          "shotType": "bat",
+          "goalClassification": "Rush"
+        },
+        {
           "gameId": 2025020969,
           "goalIndex": 7,
           "date": "2026-03-03",
@@ -1722,6 +1730,14 @@
           "opponentTricode": "EDM",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020950,
+          "goalIndex": 3,
+          "date": "2026-03-01",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         },
         {
           "gameId": 2025020969,

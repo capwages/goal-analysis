@@ -524,6 +524,14 @@
           "opponentTricode": "CBJ",
           "shotType": "deflected",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021087,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -960,6 +968,14 @@
           "opponentTricode": "WPG",
           "shotType": "slap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021087,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1407,6 +1423,14 @@
           "opponentTricode": "SEA",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021087,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "SEA",
+          "shotType": "slap",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

@@ -507,6 +507,14 @@
           "opponentTricode": "CGY",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021087,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "NSH",
+          "shotType": "tip-in",
+          "goalClassification": "Rush"
         }
       ]
     },

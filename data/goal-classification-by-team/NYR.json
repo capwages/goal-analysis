@@ -151,6 +151,14 @@
           "opponentTricode": "LAK",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021086,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -378,6 +386,14 @@
           "goalIndex": 4,
           "date": "2026-03-18",
           "opponentTricode": "NJD",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021086,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "CBJ",
           "shotType": "snap",
           "goalClassification": "Broken Coverage"
         }
@@ -1319,6 +1335,14 @@
           "opponentTricode": "WPG",
           "shotType": "tip-in",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021086,
+          "goalIndex": 7,
+          "date": "2026-03-19",
+          "opponentTricode": "CBJ",
+          "shotType": "tip-in",
+          "goalClassification": "Net-front"
         }
       ]
     },

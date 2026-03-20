@@ -6,7 +6,6 @@ const cliProgress = require("cli-progress");
 
 const GAMECENTER_BASE = "https://api-web.nhle.com/v1/gamecenter";
 const DEFAULT_START_DATE = "2025-10-07";
-const DEFAULT_END_DATE = "2026-04-01";
 const DEFAULT_OUTPUT_DIR = path.resolve(
   process.cwd(),
   "data/goal-replay-archive",
@@ -24,7 +23,7 @@ const DEFAULT_SCHEDULE_FILE = path.join(
 function parseArgs(argv) {
   const out = {
     startDate: DEFAULT_START_DATE,
-    endDate: DEFAULT_END_DATE,
+    endDate: null,
     outputDir: DEFAULT_OUTPUT_DIR,
     scheduleFile: DEFAULT_SCHEDULE_FILE,
   };
@@ -59,7 +58,7 @@ Usage:
 
 Defaults:
   --start-date    ${DEFAULT_START_DATE}
-  --end-date      ${DEFAULT_END_DATE}
+  --end-date      today or last date in schedule (whichever is earlier)
   --output-dir    ${DEFAULT_OUTPUT_DIR}
   --schedule-file ${DEFAULT_SCHEDULE_FILE}
 `);
@@ -88,6 +87,18 @@ async function fetchJson(url, options = {}) {
     );
   }
   return res.json();
+}
+
+async function getLastScheduleDate(scheduleFile) {
+  const raw = await fs.readFile(scheduleFile, "utf8");
+  const data = JSON.parse(raw);
+  const games = Array.isArray(data?.games) ? data.games : [];
+  let last = "";
+  for (const game of games) {
+    const d = String(game?.gameDate || game?.gameDateTime || "").slice(0, 10);
+    if (d > last) last = d;
+  }
+  return last || null;
 }
 
 async function collectGameIdsFromScheduleFile(
@@ -152,10 +163,31 @@ async function directoryExists(dirPath) {
   }
 }
 
+async function isIncompleteGame(gameDir) {
+  try {
+    const pbpPath = path.join(gameDir, "pbp.json");
+    const raw = await fs.readFile(pbpPath, "utf8");
+    const data = JSON.parse(raw);
+    const state = data?.gameState;
+    return state === "FUT" || state === "PRE";
+  } catch {
+    return true;
+  }
+}
+
 async function run() {
-  const { startDate, endDate, outputDir, scheduleFile } = parseArgs(
-    process.argv,
-  );
+  const args = parseArgs(process.argv);
+  const { startDate, outputDir, scheduleFile } = args;
+  let { endDate } = args;
+
+  if (!endDate) {
+    const today = new Date().toISOString().slice(0, 10);
+    const lastScheduleDate = await getLastScheduleDate(scheduleFile);
+    endDate = lastScheduleDate && lastScheduleDate < today
+      ? lastScheduleDate
+      : today;
+  }
+
   assertDate(startDate, "--start-date");
   assertDate(endDate, "--end-date");
 
@@ -184,13 +216,14 @@ async function run() {
     const gameDir = path.join(outputDir, String(gameId));
     if (await directoryExists(gameDir)) {
       const errorFile = path.join(gameDir, "error.json");
-      try {
-        await fs.access(errorFile);
-        // Directory exists but has an error — retry it
+      const hasError = await fs.access(errorFile).then(() => true, () => false);
+      const incomplete = !hasError && await isIncompleteGame(gameDir);
+      if (hasError || incomplete) {
+        // Directory has an error or was fetched before the game was played — retry it
         await fs.rm(gameDir, { recursive: true });
         gameIdsToProcess.push(gameId);
-      } catch {
-        // No error file — already succeeded
+      } else {
+        // Completed successfully
         skippedExisting++;
       }
       continue;

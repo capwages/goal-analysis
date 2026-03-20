@@ -1210,6 +1210,14 @@
           "goalClassification": "Seam"
         },
         {
+          "gameId": 2025020951,
+          "goalIndex": 1,
+          "date": "2026-03-01",
+          "opponentTricode": "STL",
+          "shotType": "tip-in",
+          "goalClassification": "Rush"
+        },
+        {
           "gameId": 2025020967,
           "goalIndex": 6,
           "date": "2026-03-03",
@@ -1326,6 +1334,14 @@
           "date": "2026-03-08",
           "opponentTricode": "COL",
           "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021088,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
           "goalClassification": "Rush"
         }
       ]

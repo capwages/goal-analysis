@@ -2928,5 +2928,45 @@
     "scorerId": 8482074,
     "opponentTricode": "STL",
     "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021085,
+    "goalIndex": 1,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/MTL-DET?gameId=2025021085&goal=1",
+    "teamAbbrev": "MTL",
+    "scorerId": 8483515,
+    "opponentTricode": "DET",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021085,
+    "goalIndex": 3,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/MTL-DET?gameId=2025021085&goal=3",
+    "teamAbbrev": "DET",
+    "scorerId": 8479337,
+    "opponentTricode": "MTL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021086,
+    "goalIndex": 2,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/NYR-CBJ?gameId=2025021086&goal=2",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8480806,
+    "opponentTricode": "NYR",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021086,
+    "goalIndex": 8,
+    "date": "2026-03-19",
+    "gamedayPath": "/gameday/NYR-CBJ?gameId=2025021086&goal=8",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8476923,
+    "opponentTricode": "NYR",
+    "shotType": "snap"
   }
 ]

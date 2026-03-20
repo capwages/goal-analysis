@@ -291,3 +291,7 @@
 /gameday/BUF-VGK?gameId=2025021075&goal=1
 /gameday/PIT-CAR?gameId=2025021078&goal=5
 /gameday/STL-CGY?gameId=2025021081&goal=1
+/gameday/MTL-DET?gameId=2025021085&goal=1
+/gameday/MTL-DET?gameId=2025021085&goal=3
+/gameday/NYR-CBJ?gameId=2025021086&goal=2
+/gameday/NYR-CBJ?gameId=2025021086&goal=8

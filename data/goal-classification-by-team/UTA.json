@@ -703,6 +703,22 @@
           "opponentTricode": "DAL",
           "shotType": "snap",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021091,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021091,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1133,6 +1149,14 @@
           "opponentTricode": "CHI",
           "shotType": "tip-in",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021091,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1193,6 +1217,14 @@
           "date": "2026-03-16",
           "opponentTricode": "DAL",
           "shotType": "backhand",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021091,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
           "goalClassification": "Broken Coverage"
         }
       ]

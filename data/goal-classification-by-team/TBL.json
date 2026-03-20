@@ -377,6 +377,14 @@
           "opponentTricode": "SEA",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021090,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -446,6 +454,14 @@
           "opponentTricode": "CAR",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021090,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "VAN",
+          "shotType": "tip-in",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -765,6 +781,14 @@
           "opponentTricode": "DET",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021090,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "VAN",
+          "shotType": "tip-in",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1185,6 +1209,14 @@
           "opponentTricode": "BUF",
           "shotType": "slap",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021090,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "VAN",
+          "shotType": "slap",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1330,6 +1362,14 @@
           "date": "2026-03-17",
           "opponentTricode": "SEA",
           "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021090,
+          "goalIndex": 7,
+          "date": "2026-03-19",
+          "opponentTricode": "VAN",
+          "shotType": "deflected",
           "goalClassification": "Cycle"
         }
       ]
@@ -1584,6 +1624,14 @@
           "opponentTricode": "SEA",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021090,
+          "goalIndex": 8,
+          "date": "2026-03-19",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

@@ -859,6 +859,14 @@
           "goalClassification": "Cycle"
         },
         {
+          "gameId": 2025020952,
+          "goalIndex": 1,
+          "date": "2026-03-01",
+          "opponentTricode": "ANA",
+          "shotType": "tip-in",
+          "goalClassification": "Broken Coverage"
+        },
+        {
           "gameId": 2025020998,
           "goalIndex": 3,
           "date": "2026-03-07",
@@ -1016,6 +1024,14 @@
           "opponentTricode": "PIT",
           "shotType": "tip-in",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025020952,
+          "goalIndex": 3,
+          "date": "2026-03-01",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         },
         {
           "gameId": 2025021009,

@@ -1862,6 +1862,14 @@
           "opponentTricode": "OTT",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021085,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "DET",
+          "shotType": "snap",
+          "goalClassification": null
         }
       ]
     },

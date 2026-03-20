@@ -426,6 +426,14 @@
           "goalClassification": "Rebound/Scramble"
         },
         {
+          "gameId": 2025020951,
+          "goalIndex": 3,
+          "date": "2026-03-01",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
           "gameId": 2025021033,
           "goalIndex": 4,
           "date": "2026-03-12",
@@ -747,6 +755,14 @@
           "opponentTricode": "VGK",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020951,
+          "goalIndex": 4,
+          "date": "2026-03-01",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         },
         {
           "gameId": 2025020974,
@@ -1293,6 +1309,14 @@
           "opponentTricode": "CHI",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025020951,
+          "goalIndex": 2,
+          "date": "2026-03-01",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         },
         {
           "gameId": 2025020974,

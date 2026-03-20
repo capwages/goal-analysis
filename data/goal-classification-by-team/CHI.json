@@ -18,6 +18,14 @@
           "opponentTricode": "CGY",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025020949,
+          "goalIndex": 2,
+          "date": "2026-03-01",
+          "opponentTricode": "UTA",
+          "shotType": "backhand",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -139,6 +147,22 @@
           "date": "2026-01-27",
           "opponentTricode": "MIN",
           "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020949,
+          "goalIndex": 1,
+          "date": "2026-03-01",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020949,
+          "goalIndex": 4,
+          "date": "2026-03-01",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
           "goalClassification": "Cycle"
         },
         {
@@ -788,6 +812,14 @@
           "opponentTricode": "VAN",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021088,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -875,6 +907,14 @@
           "opponentTricode": "STL",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025020949,
+          "goalIndex": 3,
+          "date": "2026-03-01",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1369,6 +1409,14 @@
           "opponentTricode": "UTA",
           "shotType": "snap",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021088,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "MIN",
+          "shotType": "backhand",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

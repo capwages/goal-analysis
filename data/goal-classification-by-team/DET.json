@@ -350,6 +350,14 @@
           "opponentTricode": "CAR",
           "shotType": "snap",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021085,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -427,6 +435,14 @@
           "opponentTricode": "TBL",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021085,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "MTL",
+          "shotType": "deflected",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -970,6 +986,14 @@
           "opponentTricode": "FLA",
           "shotType": "bat",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021085,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "MTL",
+          "shotType": "backhand",
+          "goalClassification": null
         }
       ]
     },

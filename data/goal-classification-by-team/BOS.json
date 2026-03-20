@@ -406,6 +406,14 @@
           "opponentTricode": "NJD",
           "shotType": "backhand",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021083,
+          "goalIndex": 1,
+          "date": "2026-03-19",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -555,6 +563,14 @@
           "opponentTricode": "WSH",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021083,
+          "goalIndex": 3,
+          "date": "2026-03-19",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -736,6 +752,14 @@
           "opponentTricode": "MTL",
           "shotType": "tip-in",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021083,
+          "goalIndex": 4,
+          "date": "2026-03-19",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1482,6 +1506,14 @@
           "opponentTricode": "EDM",
           "shotType": "snap",
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021083,
+          "goalIndex": 7,
+          "date": "2026-03-19",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1495,6 +1527,19 @@
           "opponentTricode": "COL",
           "shotType": "tip-in",
           "goalClassification": "Seam"
+        }
+      ]
+    },
+    {
+      "id": 8482117,
+      "goals": [
+        {
+          "gameId": 2025021083,
+          "goalIndex": 2,
+          "date": "2026-03-19",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1867,6 +1912,14 @@
           "opponentTricode": "SJS",
           "shotType": "wrist",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021083,
+          "goalIndex": 6,
+          "date": "2026-03-19",
+          "opponentTricode": "WPG",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
         }
       ]
     },
