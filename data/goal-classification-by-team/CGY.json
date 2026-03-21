@@ -500,6 +500,19 @@
       ]
     },
     {
+      "id": 8478109,
+      "goals": [
+        {
+          "gameId": 2025021097,
+          "goalIndex": 2,
+          "date": "2026-03-20",
+          "opponentTricode": "FLA",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
       "id": 8478397,
       "goals": [
         {
@@ -756,6 +769,14 @@
           "opponentTricode": "DET",
           "shotType": "tip-in",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021097,
+          "goalIndex": 4,
+          "date": "2026-03-20",
+          "opponentTricode": "FLA",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -881,6 +902,14 @@
           "opponentTricode": "CAR",
           "shotType": "backhand",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021097,
+          "goalIndex": 1,
+          "date": "2026-03-20",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1324,6 +1353,14 @@
           "opponentTricode": "DET",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021097,
+          "goalIndex": 5,
+          "date": "2026-03-20",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },

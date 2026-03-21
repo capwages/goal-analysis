@@ -130,6 +130,14 @@
           "opponentTricode": "EDM",
           "shotType": "backhand",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021094,
+          "goalIndex": 2,
+          "date": "2026-03-20",
+          "opponentTricode": "TOR",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1089,6 +1097,14 @@
           "opponentTricode": "DET",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021094,
+          "goalIndex": 3,
+          "date": "2026-03-20",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1133,6 +1149,14 @@
           "date": "2026-03-18",
           "opponentTricode": "PIT",
           "shotType": "snap",
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021094,
+          "goalIndex": 5,
+          "date": "2026-03-20",
+          "opponentTricode": "TOR",
+          "shotType": "backhand",
           "goalClassification": "Broken Coverage"
         }
       ]
@@ -1665,6 +1689,14 @@
           "date": "2026-03-10",
           "opponentTricode": "PIT",
           "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021094,
+          "goalIndex": 7,
+          "date": "2026-03-20",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
           "goalClassification": "Cycle"
         }
       ]

@@ -1050,6 +1050,14 @@
           "opponentTricode": "EDM",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021097,
+          "goalIndex": 3,
+          "date": "2026-03-20",
+          "opponentTricode": "CGY",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },

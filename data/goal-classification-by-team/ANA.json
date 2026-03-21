@@ -82,6 +82,14 @@
           "opponentTricode": "TOR",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021098,
+          "goalIndex": 3,
+          "date": "2026-03-20",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -377,6 +385,14 @@
           "opponentTricode": "EDM",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021098,
+          "goalIndex": 5,
+          "date": "2026-03-20",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -793,6 +809,14 @@
           "opponentTricode": "WPG",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021098,
+          "goalIndex": 2,
+          "date": "2026-03-20",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1401,6 +1425,14 @@
           "opponentTricode": "PHI",
           "shotType": "backhand",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021098,
+          "goalIndex": 4,
+          "date": "2026-03-20",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "goalClassification": "Empty Net"
         }
       ]
     },

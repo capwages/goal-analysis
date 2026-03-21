@@ -4222,5 +4222,38 @@
     "opponentTricode": "VGK",
     "shotType": "wrist",
     "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021094,
+    "goalIndex": 3,
+    "date": "2026-03-20",
+    "gamedayPath": "/gameday/CAR-TOR?gameId=2025021094&goal=3",
+    "teamAbbrev": "CAR",
+    "scorerId": 8480762,
+    "opponentTricode": "TOR",
+    "shotType": "wrist",
+    "goalClassification": "Broken Coverage"
+  },
+  {
+    "gameId": 2025021094,
+    "goalIndex": 6,
+    "date": "2026-03-20",
+    "gamedayPath": "/gameday/CAR-TOR?gameId=2025021094&goal=6",
+    "teamAbbrev": "TOR",
+    "scorerId": 8477939,
+    "opponentTricode": "CAR",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021095,
+    "goalIndex": 2,
+    "date": "2026-03-20",
+    "gamedayPath": "/gameday/NJD-WSH?gameId=2025021095&goal=2",
+    "teamAbbrev": "WSH",
+    "scorerId": 8481656,
+    "opponentTricode": "NJD",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
   }
 ]

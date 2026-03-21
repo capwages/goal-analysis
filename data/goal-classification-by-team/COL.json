@@ -95,6 +95,14 @@
           "opponentTricode": "SEA",
           "shotType": "tip-in",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021096,
+          "goalIndex": 4,
+          "date": "2026-03-20",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -339,6 +347,14 @@
           "date": "2026-02-25",
           "opponentTricode": "UTA",
           "shotType": "slap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021096,
+          "goalIndex": 2,
+          "date": "2026-03-20",
+          "opponentTricode": "CHI",
+          "shotType": "tip-in",
           "goalClassification": "Cycle"
         }
       ]
@@ -1101,6 +1117,14 @@
           "opponentTricode": "EDM",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021096,
+          "goalIndex": 5,
+          "date": "2026-03-20",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1587,6 +1611,14 @@
           "opponentTricode": "WPG",
           "shotType": "snap",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021096,
+          "goalIndex": 1,
+          "date": "2026-03-20",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
+          "goalClassification": null
         }
       ]
     },

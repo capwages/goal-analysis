@@ -2968,5 +2968,15 @@
     "scorerId": 8476923,
     "opponentTricode": "NYR",
     "shotType": "snap"
+  },
+  {
+    "gameId": 2025021096,
+    "goalIndex": 1,
+    "date": "2026-03-20",
+    "gamedayPath": "/gameday/COL-CHI?gameId=2025021096&goal=1",
+    "teamAbbrev": "COL",
+    "scorerId": 8480039,
+    "opponentTricode": "CHI",
+    "shotType": "snap"
   }
 ]

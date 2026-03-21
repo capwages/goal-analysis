@@ -1458,6 +1458,14 @@
           "opponentTricode": "OTT",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021095,
+          "goalIndex": 2,
+          "date": "2026-03-20",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1814,6 +1822,14 @@
           "opponentTricode": "BUF",
           "shotType": "snap",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021095,
+          "goalIndex": 1,
+          "date": "2026-03-20",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         }
       ]
     },

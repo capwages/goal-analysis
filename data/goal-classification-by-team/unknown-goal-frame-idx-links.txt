@@ -382,3 +382,6 @@
 /gameday/NYR-CBJ?gameId=2025021086&goal=8
 /gameday/FLA-EDM?gameId=2025021089&goal=1
 /gameday/UTA-VGK?gameId=2025021091&goal=4
+/gameday/CAR-TOR?gameId=2025021094&goal=3
+/gameday/CAR-TOR?gameId=2025021094&goal=6
+/gameday/NJD-WSH?gameId=2025021095&goal=2

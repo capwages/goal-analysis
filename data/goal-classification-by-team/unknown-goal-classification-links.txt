@@ -295,3 +295,4 @@
 /gameday/MTL-DET?gameId=2025021085&goal=3
 /gameday/NYR-CBJ?gameId=2025021086&goal=2
 /gameday/NYR-CBJ?gameId=2025021086&goal=8
+/gameday/COL-CHI?gameId=2025021096&goal=1

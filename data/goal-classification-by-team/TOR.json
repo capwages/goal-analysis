@@ -186,6 +186,14 @@
           "opponentTricode": "ANA",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021094,
+          "goalIndex": 4,
+          "date": "2026-03-20",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -770,6 +778,14 @@
           "opponentTricode": "ANA",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021094,
+          "goalIndex": 6,
+          "date": "2026-03-20",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -839,6 +855,14 @@
           "opponentTricode": "BUF",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021094,
+          "goalIndex": 1,
+          "date": "2026-03-20",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
