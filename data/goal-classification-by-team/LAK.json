@@ -849,6 +849,14 @@
           "opponentTricode": "PHI",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021102,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "BUF",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },

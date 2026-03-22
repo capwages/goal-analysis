@@ -90,6 +90,14 @@
           "opponentTricode": "PIT",
           "shotType": "deflected",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021106,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "TOR",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -339,6 +347,14 @@
           "opponentTricode": "NYI",
           "shotType": "backhand",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021106,
+          "goalIndex": 3,
+          "date": "2026-03-21",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -432,6 +448,14 @@
           "opponentTricode": "ANA",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021106,
+          "goalIndex": 6,
+          "date": "2026-03-21",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1461,6 +1485,14 @@
           "opponentTricode": "VAN",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021106,
+          "goalIndex": 7,
+          "date": "2026-03-21",
+          "opponentTricode": "TOR",
+          "shotType": "backhand",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1835,6 +1867,14 @@
           "date": "2026-03-18",
           "opponentTricode": "WSH",
           "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021106,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
           "goalClassification": "Cycle"
         }
       ]

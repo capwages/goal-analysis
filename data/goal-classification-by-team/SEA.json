@@ -818,6 +818,14 @@
           "opponentTricode": "STL",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021104,
+          "goalIndex": 4,
+          "date": "2026-03-21",
+          "opponentTricode": "CBJ",
+          "shotType": "slap",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1086,6 +1094,14 @@
           "goalIndex": 5,
           "date": "2026-03-15",
           "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021104,
+          "goalIndex": 5,
+          "date": "2026-03-21",
+          "opponentTricode": "CBJ",
           "shotType": "wrist",
           "goalClassification": "Cycle"
         }

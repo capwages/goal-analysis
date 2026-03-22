@@ -4255,5 +4255,60 @@
     "opponentTricode": "NJD",
     "shotType": "wrist",
     "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021102,
+    "goalIndex": 2,
+    "date": "2026-03-21",
+    "gamedayPath": "/gameday/BUF-LAK?gameId=2025021102&goal=2",
+    "teamAbbrev": "BUF",
+    "scorerId": 8479420,
+    "opponentTricode": "LAK",
+    "shotType": "wrist",
+    "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021103,
+    "goalIndex": 4,
+    "date": "2026-03-21",
+    "gamedayPath": "/gameday/PHI-SJS?gameId=2025021103&goal=4",
+    "teamAbbrev": "PHI",
+    "scorerId": 8477948,
+    "opponentTricode": "SJS",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021107,
+    "goalIndex": 1,
+    "date": "2026-03-21",
+    "gamedayPath": "/gameday/STL-VAN?gameId=2025021107&goal=1",
+    "teamAbbrev": "STL",
+    "scorerId": 8480459,
+    "opponentTricode": "VAN",
+    "shotType": "deflected",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021109,
+    "goalIndex": 5,
+    "date": "2026-03-21",
+    "gamedayPath": "/gameday/TBL-EDM?gameId=2025021109&goal=5",
+    "teamAbbrev": "EDM",
+    "scorerId": 8484509,
+    "opponentTricode": "TBL",
+    "shotType": null,
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021109,
+    "goalIndex": 7,
+    "date": "2026-03-21",
+    "gamedayPath": "/gameday/TBL-EDM?gameId=2025021109&goal=7",
+    "teamAbbrev": "TBL",
+    "scorerId": 8478519,
+    "opponentTricode": "EDM",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
   }
 ]

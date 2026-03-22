@@ -714,6 +714,14 @@
           "opponentTricode": "NSH",
           "shotType": "snap",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021100,
+          "goalIndex": 4,
+          "date": "2026-03-21",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },

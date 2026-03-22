@@ -385,6 +385,22 @@
           "opponentTricode": "VAN",
           "shotType": "wrist",
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021109,
+          "goalIndex": 4,
+          "date": "2026-03-21",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021109,
+          "goalIndex": 6,
+          "date": "2026-03-21",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -789,6 +805,14 @@
           "opponentTricode": "VAN",
           "shotType": "tip-in",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021109,
+          "goalIndex": 3,
+          "date": "2026-03-21",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1371,6 +1395,22 @@
           "opponentTricode": "VAN",
           "shotType": "deflected",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021109,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "EDM",
+          "shotType": "backhand",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021109,
+          "goalIndex": 7,
+          "date": "2026-03-21",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },

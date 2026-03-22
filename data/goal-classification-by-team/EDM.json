@@ -1363,6 +1363,14 @@
           "opponentTricode": "STL",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021109,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "TBL",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2021,6 +2029,19 @@
           "opponentTricode": "NSH",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
+      "id": 8484509,
+      "goals": [
+        {
+          "gameId": 2025021109,
+          "goalIndex": 5,
+          "date": "2026-03-21",
+          "opponentTricode": "TBL",
+          "shotType": null,
+          "goalClassification": "Cycle"
         }
       ]
     },

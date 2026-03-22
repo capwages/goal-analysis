@@ -179,6 +179,14 @@
           "opponentTricode": "LAK",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021103,
+          "goalIndex": 4,
+          "date": "2026-03-21",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -288,6 +296,14 @@
           "opponentTricode": "TOR",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021103,
+          "goalIndex": 3,
+          "date": "2026-03-21",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -793,6 +809,14 @@
           "opponentTricode": "ANA",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021103,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -902,6 +926,14 @@
           "opponentTricode": "LAK",
           "shotType": "backhand",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021103,
+          "goalIndex": 5,
+          "date": "2026-03-21",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },

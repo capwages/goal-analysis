@@ -385,3 +385,8 @@
 /gameday/CAR-TOR?gameId=2025021094&goal=3
 /gameday/CAR-TOR?gameId=2025021094&goal=6
 /gameday/NJD-WSH?gameId=2025021095&goal=2
+/gameday/BUF-LAK?gameId=2025021102&goal=2
+/gameday/PHI-SJS?gameId=2025021103&goal=4
+/gameday/STL-VAN?gameId=2025021107&goal=1
+/gameday/TBL-EDM?gameId=2025021109&goal=5
+/gameday/TBL-EDM?gameId=2025021109&goal=7

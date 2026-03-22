@@ -1394,6 +1394,14 @@
           "opponentTricode": "OTT",
           "shotType": "slap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021099,
+          "goalIndex": 6,
+          "date": "2026-03-21",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1479,6 +1487,14 @@
           "opponentTricode": "ANA",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021099,
+          "goalIndex": 3,
+          "date": "2026-03-21",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1523,6 +1539,14 @@
           "date": "2026-01-27",
           "opponentTricode": "NJD",
           "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021099,
+          "goalIndex": 4,
+          "date": "2026-03-21",
+          "opponentTricode": "PIT",
+          "shotType": "backhand",
           "goalClassification": "Rush"
         }
       ]
@@ -1627,6 +1651,14 @@
           "opponentTricode": "PIT",
           "shotType": "snap",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021099,
+          "goalIndex": 7,
+          "date": "2026-03-21",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

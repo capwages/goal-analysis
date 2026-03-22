@@ -1224,6 +1224,14 @@
           "opponentTricode": "COL",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021101,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

@@ -457,6 +457,22 @@
           "opponentTricode": "CAR",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021099,
+          "goalIndex": 5,
+          "date": "2026-03-21",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021099,
+          "goalIndex": 8,
+          "date": "2026-03-21",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -808,6 +824,14 @@
           "opponentTricode": "VGK",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021099,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1792,6 +1816,14 @@
           "opponentTricode": "BOS",
           "shotType": "wrist",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021099,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
         }
       ]
     },

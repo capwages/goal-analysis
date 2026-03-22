@@ -250,6 +250,22 @@
           "opponentTricode": "SEA",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021100,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021100,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -531,6 +547,14 @@
           "date": "2026-03-19",
           "opponentTricode": "SEA",
           "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021100,
+          "goalIndex": 5,
+          "date": "2026-03-21",
+          "opponentTricode": "VGK",
+          "shotType": "deflected",
           "goalClassification": "Cycle"
         }
       ]
@@ -1183,6 +1207,14 @@
           "opponentTricode": "VAN",
           "shotType": "wrist",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021100,
+          "goalIndex": 3,
+          "date": "2026-03-21",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },

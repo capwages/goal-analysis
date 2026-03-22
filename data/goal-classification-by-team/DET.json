@@ -994,6 +994,14 @@
           "opponentTricode": "MTL",
           "shotType": "backhand",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021108,
+          "goalIndex": 3,
+          "date": "2026-03-21",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1402,6 +1410,14 @@
           "opponentTricode": "DAL",
           "shotType": "bat",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021108,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         }
       ]
     },

@@ -47,6 +47,14 @@
           "opponentTricode": "EDM",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021103,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

@@ -440,6 +440,14 @@
           "opponentTricode": "CAR",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021107,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -649,6 +657,14 @@
           "opponentTricode": "ANA",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021107,
+          "goalIndex": 4,
+          "date": "2026-03-21",
+          "opponentTricode": "VAN",
+          "shotType": "backhand",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -909,6 +925,14 @@
           "opponentTricode": "EDM",
           "shotType": "wrist",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021107,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "VAN",
+          "shotType": "deflected",
+          "goalClassification": "Cycle"
         }
       ]
     },

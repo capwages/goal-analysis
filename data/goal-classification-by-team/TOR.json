@@ -194,6 +194,14 @@
           "opponentTricode": "CAR",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021106,
+          "goalIndex": 4,
+          "date": "2026-03-21",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1846,6 +1854,14 @@
           "opponentTricode": "NYR",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021106,
+          "goalIndex": 5,
+          "date": "2026-03-21",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     }

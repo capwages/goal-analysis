@@ -310,6 +310,14 @@
           "opponentTricode": "NYR",
           "shotType": "snap",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021104,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "SEA",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -507,6 +515,14 @@
           "goalIndex": 4,
           "date": "2026-03-17",
           "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021104,
+          "goalIndex": 1,
+          "date": "2026-03-21",
+          "opponentTricode": "SEA",
           "shotType": "wrist",
           "goalClassification": "Cycle"
         }
@@ -1043,6 +1059,14 @@
           "opponentTricode": "CAR",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021104,
+          "goalIndex": 3,
+          "date": "2026-03-21",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1534,6 +1558,14 @@
           "opponentTricode": "STL",
           "shotType": "tip-in",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021104,
+          "goalIndex": 6,
+          "date": "2026-03-21",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1587,6 +1619,14 @@
           "opponentTricode": "TBL",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021104,
+          "goalIndex": 7,
+          "date": "2026-03-21",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },

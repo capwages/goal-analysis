@@ -180,6 +180,14 @@
           "opponentTricode": "WSH",
           "shotType": "snap",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021108,
+          "goalIndex": 4,
+          "date": "2026-03-21",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -193,6 +201,14 @@
           "opponentTricode": "VGK",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021108,
+          "goalIndex": 5,
+          "date": "2026-03-21",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -414,6 +430,14 @@
           "opponentTricode": "WPG",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021108,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "DET",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1649,6 +1673,14 @@
           "opponentTricode": "PIT",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021108,
+          "goalIndex": 6,
+          "date": "2026-03-21",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },

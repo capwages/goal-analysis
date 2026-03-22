@@ -528,6 +528,14 @@
           "opponentTricode": "CHI",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021101,
+          "goalIndex": 3,
+          "date": "2026-03-21",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1356,6 +1364,14 @@
           "opponentTricode": "UTA",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021101,
+          "goalIndex": 2,
+          "date": "2026-03-21",
+          "opponentTricode": "DAL",
+          "shotType": "backhand",
+          "goalClassification": "Rush"
         }
       ]
     },
