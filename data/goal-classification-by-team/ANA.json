@@ -263,6 +263,14 @@
           "opponentTricode": "MTL",
           "shotType": "tip-in",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 2,
+          "date": "2026-03-22",
+          "opponentTricode": "BUF",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -393,6 +401,14 @@
           "opponentTricode": "UTA",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 10,
+          "date": "2026-03-22",
+          "opponentTricode": "BUF",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -719,6 +735,22 @@
           "opponentTricode": "MTL",
           "shotType": "backhand",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 6,
+          "date": "2026-03-22",
+          "opponentTricode": "BUF",
+          "shotType": "backhand",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 11,
+          "date": "2026-03-22",
+          "opponentTricode": "BUF",
+          "shotType": "backhand",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -907,6 +939,14 @@
           "opponentTricode": "WPG",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 3,
+          "date": "2026-03-22",
+          "opponentTricode": "BUF",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1864,6 +1904,14 @@
           "opponentTricode": "NYI",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 5,
+          "date": "2026-03-22",
+          "opponentTricode": "BUF",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

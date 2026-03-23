@@ -296,3 +296,6 @@
 /gameday/NYR-CBJ?gameId=2025021086&goal=2
 /gameday/NYR-CBJ?gameId=2025021086&goal=8
 /gameday/COL-CHI?gameId=2025021096&goal=1
+/gameday/COL-WSH?gameId=2025021111&goal=2
+/gameday/LAK-UTA?gameId=2025021118&goal=5
+/gameday/LAK-UTA?gameId=2025021118&goal=7

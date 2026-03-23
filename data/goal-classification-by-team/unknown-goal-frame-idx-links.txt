@@ -390,3 +390,4 @@
 /gameday/STL-VAN?gameId=2025021107&goal=1
 /gameday/TBL-EDM?gameId=2025021109&goal=5
 /gameday/TBL-EDM?gameId=2025021109&goal=7
+/gameday/NSH-CHI?gameId=2025021113&goal=3

@@ -235,6 +235,14 @@
           "opponentTricode": "NYI",
           "shotType": "deflected",
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021110,
+          "goalIndex": 1,
+          "date": "2026-03-22",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1267,6 +1275,14 @@
           "opponentTricode": "NSH",
           "shotType": "wrist",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021110,
+          "goalIndex": 3,
+          "date": "2026-03-22",
+          "opponentTricode": "NYR",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },

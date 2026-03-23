@@ -122,6 +122,14 @@
           "opponentTricode": "NYI",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021116,
+          "goalIndex": 4,
+          "date": "2026-03-22",
+          "opponentTricode": "TBL",
+          "shotType": "slap",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -454,6 +462,14 @@
           "opponentTricode": "CAR",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021116,
+          "goalIndex": 7,
+          "date": "2026-03-22",
+          "opponentTricode": "TBL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -509,6 +525,14 @@
           "opponentTricode": "FLA",
           "shotType": "slap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021116,
+          "goalIndex": 2,
+          "date": "2026-03-22",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -777,6 +801,14 @@
           "opponentTricode": "FLA",
           "shotType": "backhand",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021116,
+          "goalIndex": 3,
+          "date": "2026-03-22",
+          "opponentTricode": "TBL",
+          "shotType": "snap",
+          "goalClassification": "Rush"
         }
       ]
     },

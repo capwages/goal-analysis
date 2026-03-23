@@ -1425,6 +1425,14 @@
           "opponentTricode": "MIN",
           "shotType": "backhand",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021113,
+          "goalIndex": 3,
+          "date": "2026-03-22",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1470,6 +1478,14 @@
           "opponentTricode": "CAR",
           "shotType": "snap",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021113,
+          "goalIndex": 1,
+          "date": "2026-03-22",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

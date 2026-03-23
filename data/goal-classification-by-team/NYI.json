@@ -841,6 +841,14 @@
           "opponentTricode": "STL",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021114,
+          "goalIndex": 1,
+          "date": "2026-03-22",
+          "opponentTricode": "CBJ",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         }
       ]
     },

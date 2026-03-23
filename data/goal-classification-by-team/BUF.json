@@ -436,6 +436,14 @@
           "opponentTricode": "SJS",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 1,
+          "date": "2026-03-22",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1523,6 +1531,14 @@
           "opponentTricode": "TOR",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 7,
+          "date": "2026-03-22",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1717,6 +1733,14 @@
           "opponentTricode": "VGK",
           "shotType": "backhand",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 4,
+          "date": "2026-03-22",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1777,6 +1801,14 @@
           "date": "2026-03-14",
           "opponentTricode": "TOR",
           "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 8,
+          "date": "2026-03-22",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
           "goalClassification": "Rebound/Scramble"
         }
       ]
@@ -2019,6 +2051,14 @@
           "opponentTricode": "LAK",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021117,
+          "goalIndex": 9,
+          "date": "2026-03-22",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },

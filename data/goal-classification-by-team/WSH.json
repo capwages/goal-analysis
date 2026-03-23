@@ -202,6 +202,14 @@
           "opponentTricode": "OTT",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021111,
+          "goalIndex": 4,
+          "date": "2026-03-22",
+          "opponentTricode": "COL",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1575,6 +1583,14 @@
           "opponentTricode": "CGY",
           "shotType": "snap",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021111,
+          "goalIndex": 1,
+          "date": "2026-03-22",
+          "opponentTricode": "COL",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         }
       ]
     },

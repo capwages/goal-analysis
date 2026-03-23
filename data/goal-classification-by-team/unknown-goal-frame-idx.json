@@ -4310,5 +4310,16 @@
     "opponentTricode": "EDM",
     "shotType": "wrist",
     "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021113,
+    "goalIndex": 3,
+    "date": "2026-03-22",
+    "gamedayPath": "/gameday/NSH-CHI?gameId=2025021113&goal=3",
+    "teamAbbrev": "CHI",
+    "scorerId": 8484144,
+    "opponentTricode": "NSH",
+    "shotType": "wrist",
+    "goalClassification": "Rush"
   }
 ]

@@ -2978,5 +2978,35 @@
     "scorerId": 8480039,
     "opponentTricode": "CHI",
     "shotType": "snap"
+  },
+  {
+    "gameId": 2025021111,
+    "goalIndex": 2,
+    "date": "2026-03-22",
+    "gamedayPath": "/gameday/COL-WSH?gameId=2025021111&goal=2",
+    "teamAbbrev": "COL",
+    "scorerId": 8476455,
+    "opponentTricode": "WSH",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021118,
+    "goalIndex": 5,
+    "date": "2026-03-22",
+    "gamedayPath": "/gameday/LAK-UTA?gameId=2025021118&goal=5",
+    "teamAbbrev": "UTA",
+    "scorerId": 8477951,
+    "opponentTricode": "LAK",
+    "shotType": "bat"
+  },
+  {
+    "gameId": 2025021118,
+    "goalIndex": 7,
+    "date": "2026-03-22",
+    "gamedayPath": "/gameday/LAK-UTA?gameId=2025021118&goal=7",
+    "teamAbbrev": "UTA",
+    "scorerId": 8477951,
+    "opponentTricode": "LAK",
+    "shotType": "snap"
   }
 ]

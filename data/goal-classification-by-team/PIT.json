@@ -1824,6 +1824,14 @@
           "opponentTricode": "WPG",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021112,
+          "goalIndex": 5,
+          "date": "2026-03-22",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "goalClassification": "Rush"
         }
       ]
     },

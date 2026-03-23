@@ -310,6 +310,22 @@
           "opponentTricode": "PHI",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021118,
+          "goalIndex": 5,
+          "date": "2026-03-22",
+          "opponentTricode": "LAK",
+          "shotType": "bat",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021118,
+          "goalIndex": 7,
+          "date": "2026-03-22",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": null
         }
       ]
     },
@@ -451,6 +467,22 @@
           "opponentTricode": "DAL",
           "shotType": "snap",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021118,
+          "goalIndex": 1,
+          "date": "2026-03-22",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021118,
+          "goalIndex": 3,
+          "date": "2026-03-22",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },

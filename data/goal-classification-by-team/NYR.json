@@ -396,6 +396,14 @@
           "opponentTricode": "CBJ",
           "shotType": "snap",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021110,
+          "goalIndex": 4,
+          "date": "2026-03-22",
+          "opponentTricode": "WPG",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1157,6 +1165,14 @@
           "opponentTricode": "WPG",
           "shotType": "tip-in",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021110,
+          "goalIndex": 2,
+          "date": "2026-03-22",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },

@@ -63,6 +63,14 @@
           "opponentTricode": "TOR",
           "shotType": "wrist",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021116,
+          "goalIndex": 1,
+          "date": "2026-03-22",
+          "opponentTricode": "CGY",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1241,6 +1249,14 @@
           "opponentTricode": "VAN",
           "shotType": "slap",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021116,
+          "goalIndex": 5,
+          "date": "2026-03-22",
+          "opponentTricode": "CGY",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1785,6 +1801,14 @@
           "date": "2026-02-05",
           "opponentTricode": "FLA",
           "shotType": "poke",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021116,
+          "goalIndex": 6,
+          "date": "2026-03-22",
+          "opponentTricode": "CGY",
+          "shotType": "snap",
           "goalClassification": "Cycle"
         }
       ]

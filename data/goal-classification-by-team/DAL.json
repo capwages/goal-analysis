@@ -1872,6 +1872,14 @@
           "opponentTricode": "UTA",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021115,
+          "goalIndex": 2,
+          "date": "2026-03-22",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1986,6 +1994,14 @@
           "opponentTricode": "CHI",
           "shotType": "backhand",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021115,
+          "goalIndex": 3,
+          "date": "2026-03-22",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     }
