@@ -355,6 +355,14 @@
           "opponentTricode": "TOR",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021119,
+          "goalIndex": 2,
+          "date": "2026-03-23",
+          "opponentTricode": "NYR",
+          "shotType": "snap",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1363,6 +1371,14 @@
           "opponentTricode": "NYI",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021119,
+          "goalIndex": 1,
+          "date": "2026-03-23",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
         }
       ]
     },
