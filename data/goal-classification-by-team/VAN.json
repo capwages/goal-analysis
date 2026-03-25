@@ -323,6 +323,14 @@
           "opponentTricode": "NSH",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021134,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -439,6 +447,14 @@
           "date": "2026-03-06",
           "opponentTricode": "CHI",
           "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021134,
+          "goalIndex": 1,
+          "date": "2026-03-24",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
           "goalClassification": "Cycle"
         }
       ]
@@ -1173,6 +1189,14 @@
           "goalIndex": 7,
           "date": "2026-03-17",
           "opponentTricode": "FLA",
+          "shotType": "snap",
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021134,
+          "goalIndex": 6,
+          "date": "2026-03-24",
+          "opponentTricode": "ANA",
           "shotType": "snap",
           "goalClassification": "Rebound/Scramble"
         }

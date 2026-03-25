@@ -1371,6 +1371,22 @@
           "opponentTricode": "TBL",
           "shotType": "tip-in",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021132,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021132,
+          "goalIndex": 7,
+          "date": "2026-03-24",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1512,6 +1528,22 @@
           "opponentTricode": "COL",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021132,
+          "goalIndex": 2,
+          "date": "2026-03-24",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021132,
+          "goalIndex": 6,
+          "date": "2026-03-24",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "goalClassification": null
         }
       ]
     },
@@ -2029,6 +2061,14 @@
           "opponentTricode": "NSH",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021132,
+          "goalIndex": 3,
+          "date": "2026-03-24",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },

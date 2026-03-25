@@ -140,6 +140,14 @@
           "opponentTricode": "FLA",
           "shotType": "wrist",
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 10,
+          "date": "2026-03-24",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -277,6 +285,14 @@
           "date": "2026-03-18",
           "opponentTricode": "NYR",
           "shotType": "wrist",
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
           "goalClassification": "Seam"
         }
       ]
@@ -448,6 +464,14 @@
           "opponentTricode": "NYR",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 8,
+          "date": "2026-03-24",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -588,6 +612,14 @@
           "date": "2026-03-20",
           "opponentTricode": "WSH",
           "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 3,
+          "date": "2026-03-24",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
           "goalClassification": "Cycle"
         }
       ]
@@ -1142,6 +1174,22 @@
           "opponentTricode": "NYR",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 1,
+          "date": "2026-03-24",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "goalClassification": "Rush"
         }
       ]
     },

@@ -4321,5 +4321,82 @@
     "opponentTricode": "NSH",
     "shotType": "wrist",
     "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021121,
+    "goalIndex": 7,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/CAR-MTL?gameId=2025021121&goal=7",
+    "teamAbbrev": "MTL",
+    "scorerId": 8478133,
+    "opponentTricode": "CAR",
+    "shotType": "snap",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021123,
+    "goalIndex": 3,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/SEA-FLA?gameId=2025021123&goal=3",
+    "teamAbbrev": "FLA",
+    "scorerId": 8477409,
+    "opponentTricode": "SEA",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021123,
+    "goalIndex": 6,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/SEA-FLA?gameId=2025021123&goal=6",
+    "teamAbbrev": "SEA",
+    "scorerId": 8482665,
+    "opponentTricode": "FLA",
+    "shotType": "wrist",
+    "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021126,
+    "goalIndex": 8,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/COL-PIT?gameId=2025021126&goal=8",
+    "teamAbbrev": "COL",
+    "scorerId": 8479525,
+    "opponentTricode": "PIT",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021127,
+    "goalIndex": 9,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/MIN-TBL?gameId=2025021127&goal=9",
+    "teamAbbrev": "TBL",
+    "scorerId": 8480995,
+    "opponentTricode": "MIN",
+    "shotType": null,
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021130,
+    "goalIndex": 7,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/NJD-DAL?gameId=2025021130&goal=7",
+    "teamAbbrev": "DAL",
+    "scorerId": 8480027,
+    "opponentTricode": "NJD",
+    "shotType": "snap",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021130,
+    "goalIndex": 10,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/NJD-DAL?gameId=2025021130&goal=10",
+    "teamAbbrev": "NJD",
+    "scorerId": 8476462,
+    "opponentTricode": "DAL",
+    "shotType": "snap",
+    "goalClassification": "Empty Net"
   }
 ]

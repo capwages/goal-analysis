@@ -188,6 +188,14 @@
           "opponentTricode": "DET",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021120,
+          "goalIndex": 1,
+          "date": "2026-03-24",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -860,6 +868,14 @@
           "date": "2026-03-14",
           "opponentTricode": "WSH",
           "shotType": "tip-in",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021120,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "TOR",
+          "shotType": "deflected",
           "goalClassification": "Cycle"
         }
       ]

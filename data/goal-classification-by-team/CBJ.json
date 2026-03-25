@@ -690,6 +690,14 @@
           "opponentTricode": "CHI",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021125,
+          "goalIndex": 3,
+          "date": "2026-03-24",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -905,6 +913,14 @@
           "opponentTricode": "CAR",
           "shotType": "wrist",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021125,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1067,6 +1083,14 @@
           "opponentTricode": "SEA",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021125,
+          "goalIndex": 2,
+          "date": "2026-03-24",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },

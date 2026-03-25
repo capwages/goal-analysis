@@ -79,6 +79,14 @@
           "opponentTricode": "NYR",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021125,
+          "goalIndex": 1,
+          "date": "2026-03-24",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1343,6 +1351,14 @@
           "opponentTricode": "WSH",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021125,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "CBJ",
+          "shotType": "slap",
+          "goalClassification": "Net-front"
         }
       ]
     },

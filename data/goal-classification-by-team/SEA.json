@@ -178,6 +178,14 @@
           "opponentTricode": "VAN",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021123,
+          "goalIndex": 7,
+          "date": "2026-03-24",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1170,6 +1178,14 @@
           "opponentTricode": "TBL",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021123,
+          "goalIndex": 8,
+          "date": "2026-03-24",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1319,6 +1335,14 @@
           "opponentTricode": "VAN",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021123,
+          "goalIndex": 6,
+          "date": "2026-03-24",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1417,6 +1441,14 @@
           "opponentTricode": "COL",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021123,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "FLA",
+          "shotType": "slap",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

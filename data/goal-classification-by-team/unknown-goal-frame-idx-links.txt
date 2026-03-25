@@ -391,3 +391,10 @@
 /gameday/TBL-EDM?gameId=2025021109&goal=5
 /gameday/TBL-EDM?gameId=2025021109&goal=7
 /gameday/NSH-CHI?gameId=2025021113&goal=3
+/gameday/CAR-MTL?gameId=2025021121&goal=7
+/gameday/SEA-FLA?gameId=2025021123&goal=3
+/gameday/SEA-FLA?gameId=2025021123&goal=6
+/gameday/COL-PIT?gameId=2025021126&goal=8
+/gameday/MIN-TBL?gameId=2025021127&goal=9
+/gameday/NJD-DAL?gameId=2025021130&goal=7
+/gameday/NJD-DAL?gameId=2025021130&goal=10

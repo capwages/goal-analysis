@@ -274,6 +274,14 @@
           "opponentTricode": "CHI",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021129,
+          "goalIndex": 7,
+          "date": "2026-03-24",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -367,6 +375,14 @@
           "opponentTricode": "MIN",
           "shotType": "wrist",
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021129,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -763,6 +779,14 @@
           "opponentTricode": "COL",
           "shotType": "wrist",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021129,
+          "goalIndex": 6,
+          "date": "2026-03-24",
+          "opponentTricode": "SJS",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1023,6 +1047,14 @@
           "date": "2026-03-22",
           "opponentTricode": "CHI",
           "shotType": "wrist",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021129,
+          "goalIndex": 1,
+          "date": "2026-03-24",
+          "opponentTricode": "SJS",
+          "shotType": "tip-in",
           "goalClassification": "Cycle"
         }
       ]
@@ -1453,6 +1485,14 @@
           "opponentTricode": "BOS",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021129,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "SJS",
+          "shotType": "deflected",
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1752,6 +1792,14 @@
           "opponentTricode": "WPG",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021129,
+          "goalIndex": 3,
+          "date": "2026-03-24",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
         }
       ]
     }

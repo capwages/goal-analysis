@@ -496,6 +496,14 @@
           "opponentTricode": "STL",
           "shotType": "backhand",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021131,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -985,6 +993,14 @@
           "opponentTricode": "STL",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021131,
+          "goalIndex": 1,
+          "date": "2026-03-24",
+          "opponentTricode": "VGK",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1389,6 +1405,14 @@
           "opponentTricode": "COL",
           "shotType": "wrist",
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021131,
+          "goalIndex": 2,
+          "date": "2026-03-24",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1641,6 +1665,14 @@
           "opponentTricode": "COL",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021131,
+          "goalIndex": 3,
+          "date": "2026-03-24",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
         }
       ]
     },

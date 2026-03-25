@@ -1232,6 +1232,14 @@
           "opponentTricode": "MIN",
           "shotType": "wrist",
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 7,
+          "date": "2026-03-24",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1571,6 +1579,14 @@
           "opponentTricode": "CHI",
           "shotType": "backhand",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 9,
+          "date": "2026-03-24",
+          "opponentTricode": "NJD",
+          "shotType": "tip-in",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1878,6 +1894,22 @@
           "goalIndex": 2,
           "date": "2026-03-22",
           "opponentTricode": "VGK",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 2,
+          "date": "2026-03-24",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021130,
+          "goalIndex": 6,
+          "date": "2026-03-24",
+          "opponentTricode": "NJD",
           "shotType": "snap",
           "goalClassification": "Cycle"
         }

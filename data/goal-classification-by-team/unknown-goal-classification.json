@@ -3008,5 +3008,35 @@
     "scorerId": 8477951,
     "opponentTricode": "LAK",
     "shotType": "snap"
+  },
+  {
+    "gameId": 2025021129,
+    "goalIndex": 9,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/SJS-NSH?gameId=2025021129&goal=9",
+    "teamAbbrev": "SJS",
+    "scorerId": 8484227,
+    "opponentTricode": "NSH",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021130,
+    "goalIndex": 2,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/NJD-DAL?gameId=2025021130&goal=2",
+    "teamAbbrev": "DAL",
+    "scorerId": 8482740,
+    "opponentTricode": "NJD",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021132,
+    "goalIndex": 6,
+    "date": "2026-03-24",
+    "gamedayPath": "/gameday/EDM-UTA?gameId=2025021132&goal=6",
+    "teamAbbrev": "EDM",
+    "scorerId": 8478458,
+    "opponentTricode": "UTA",
+    "shotType": "wrist"
   }
 ]

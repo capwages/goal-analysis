@@ -672,6 +672,14 @@
           "opponentTricode": "OTT",
           "shotType": "backhand",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021122,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1023,6 +1031,14 @@
           "opponentTricode": "CGY",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021122,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "OTT",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
         }
       ]
     },

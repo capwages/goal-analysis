@@ -47,6 +47,14 @@
           "opponentTricode": "CBJ",
           "shotType": "wrist",
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021132,
+          "goalIndex": 1,
+          "date": "2026-03-24",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -481,6 +489,14 @@
           "goalIndex": 3,
           "date": "2026-03-22",
           "opponentTricode": "LAK",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021132,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "EDM",
           "shotType": "snap",
           "goalClassification": "Cycle"
         }

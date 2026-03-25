@@ -474,6 +474,19 @@
       ]
     },
     {
+      "id": 8476874,
+      "goals": [
+        {
+          "gameId": 2025021133,
+          "goalIndex": 2,
+          "date": "2026-03-24",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
       "id": 8477346,
       "goals": [
         {
@@ -1472,6 +1485,19 @@
           "opponentTricode": "SJS",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        }
+      ]
+    },
+    {
+      "id": 8484768,
+      "goals": [
+        {
+          "gameId": 2025021133,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },

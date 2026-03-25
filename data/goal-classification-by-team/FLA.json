@@ -404,6 +404,14 @@
           "opponentTricode": "EDM",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021123,
+          "goalIndex": 3,
+          "date": "2026-03-24",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1291,6 +1299,14 @@
           "opponentTricode": "COL",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021123,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "SEA",
+          "shotType": null,
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1389,6 +1405,14 @@
           "opponentTricode": "SEA",
           "shotType": "backhand",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021123,
+          "goalIndex": 2,
+          "date": "2026-03-24",
+          "opponentTricode": "SEA",
+          "shotType": "deflected",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1401,6 +1425,19 @@
           "date": "2026-03-19",
           "opponentTricode": "EDM",
           "shotType": "wrist",
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
+      "id": 8481518,
+      "goals": [
+        {
+          "gameId": 2025021123,
+          "goalIndex": 1,
+          "date": "2026-03-24",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
           "goalClassification": "Rush"
         }
       ]

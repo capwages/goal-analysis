@@ -363,6 +363,14 @@
           "opponentTricode": "TOR",
           "shotType": "wrist",
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021121,
+          "goalIndex": 7,
+          "date": "2026-03-24",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1230,6 +1238,14 @@
           "opponentTricode": "NYI",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021121,
+          "goalIndex": 4,
+          "date": "2026-03-24",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1586,6 +1602,14 @@
           "opponentTricode": "TOR",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021121,
+          "goalIndex": 3,
+          "date": "2026-03-24",
+          "opponentTricode": "CAR",
+          "shotType": "tip-in",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1926,6 +1950,14 @@
           "opponentTricode": "NYI",
           "shotType": "snap",
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021121,
+          "goalIndex": 5,
+          "date": "2026-03-24",
+          "opponentTricode": "CAR",
+          "shotType": "deflected",
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2041,6 +2073,14 @@
           "goalIndex": 5,
           "date": "2026-03-11",
           "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021121,
+          "goalIndex": 6,
+          "date": "2026-03-24",
+          "opponentTricode": "CAR",
           "shotType": "wrist",
           "goalClassification": "Rush"
         }

@@ -832,6 +832,14 @@
           "opponentTricode": "WPG",
           "shotType": "wrist",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021126,
+          "goalIndex": 7,
+          "date": "2026-03-24",
+          "opponentTricode": "COL",
+          "shotType": "wrist",
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1832,6 +1840,14 @@
           "opponentTricode": "CAR",
           "shotType": "snap",
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021126,
+          "goalIndex": 2,
+          "date": "2026-03-24",
+          "opponentTricode": "COL",
+          "shotType": "slap",
+          "goalClassification": "Cycle"
         }
       ]
     },
