@@ -9,6 +9,12 @@
           "date": "2025-10-11",
           "opponentTricode": "PHI",
           "shotType": "snap",
+          "clip": {
+            "en": 6382637028112,
+            "fr": 6382635261112,
+            "enFull": 6382636837112,
+            "frFull": 6382635668112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -17,6 +23,12 @@
           "date": "2025-10-18",
           "opponentTricode": "LAK",
           "shotType": "snap",
+          "clip": {
+            "en": 6383057735112,
+            "fr": 6383057356112,
+            "enFull": 6383055866112,
+            "frFull": 6383057145112
+          },
           "goalClassification": null
         },
         {
@@ -25,6 +37,12 @@
           "date": "2025-10-18",
           "opponentTricode": "LAK",
           "shotType": "slap",
+          "clip": {
+            "en": 6383058323112,
+            "fr": 6383058035112,
+            "enFull": 6383055872112,
+            "frFull": 6383057165112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -33,6 +51,12 @@
           "date": "2025-11-15",
           "opponentTricode": "EDM",
           "shotType": "snap",
+          "clip": {
+            "en": 6385158149112,
+            "fr": 6385158148112,
+            "enFull": 6385158825112,
+            "frFull": 6385157744112
+          },
           "goalClassification": null
         },
         {
@@ -41,6 +65,12 @@
           "date": "2025-11-17",
           "opponentTricode": "BOS",
           "shotType": "backhand",
+          "clip": {
+            "en": 6385228164112,
+            "fr": 6385229724112,
+            "enFull": 6385228870112,
+            "frFull": 6385228451112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -49,6 +79,12 @@
           "date": "2025-11-21",
           "opponentTricode": "WPG",
           "shotType": "snap",
+          "clip": {
+            "en": 6385427531112,
+            "fr": 6385426717112,
+            "enFull": 6385428972112,
+            "frFull": 6385427895112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -57,6 +93,12 @@
           "date": "2025-11-21",
           "opponentTricode": "WPG",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6385431839112,
+            "fr": 6385432612112,
+            "enFull": 6385431641112,
+            "frFull": 6385432229112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -65,6 +107,12 @@
           "date": "2025-12-07",
           "opponentTricode": "SJS",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6386168100112,
+            "fr": 6386166939112,
+            "enFull": 6386168105112,
+            "frFull": 6386168104112
+          },
           "goalClassification": "Net-front"
         },
         {
@@ -73,6 +121,12 @@
           "date": "2025-12-09",
           "opponentTricode": "CBJ",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6386262780112,
+            "fr": 6386262950112,
+            "enFull": 6386263244112,
+            "frFull": 6386261591112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -81,6 +135,12 @@
           "date": "2025-12-19",
           "opponentTricode": "FLA",
           "shotType": "backhand",
+          "clip": {
+            "en": 6386727068112,
+            "fr": 6386728376112,
+            "enFull": 6386728278112,
+            "frFull": 6386727978112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -89,6 +149,12 @@
           "date": "2026-01-22",
           "opponentTricode": "CHI",
           "shotType": "wrist",
+          "clip": {
+            "en": 6388115533112,
+            "fr": 6388115534112,
+            "enFull": 6388115742112,
+            "frFull": 6388115639112
+          },
           "goalClassification": null
         },
         {
@@ -97,6 +163,12 @@
           "date": "2026-01-29",
           "opponentTricode": "UTA",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6388519904112,
+            "fr": 6388519903112,
+            "enFull": 6388518658112,
+            "frFull": 6388519059112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -105,6 +177,12 @@
           "date": "2026-02-01",
           "opponentTricode": "LAK",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6388642425112,
+            "fr": 6388643219112,
+            "enFull": 6388642911112,
+            "frFull": 6388643515112
+          },
           "goalClassification": null
         },
         {
@@ -113,6 +191,12 @@
           "date": "2026-02-03",
           "opponentTricode": "OTT",
           "shotType": "snap",
+          "clip": {
+            "en": 6388739130112,
+            "fr": 6388739625112,
+            "enFull": 6388740589112,
+            "frFull": 6388739930112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -121,6 +205,12 @@
           "date": "2026-02-05",
           "opponentTricode": "NYR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6388859030112,
+            "fr": 6388857507112,
+            "enFull": 6388857704112,
+            "frFull": 6388857103112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -129,6 +219,12 @@
           "date": "2026-03-06",
           "opponentTricode": "EDM",
           "shotType": "backhand",
+          "clip": {
+            "en": 6390528515112,
+            "fr": 6390528914112,
+            "enFull": 6390529219112,
+            "frFull": 6390528142112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -137,6 +233,12 @@
           "date": "2026-03-20",
           "opponentTricode": "TOR",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391295983112,
+            "fr": 6391296175112,
+            "enFull": 6391295499112,
+            "frFull": 6391294912112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -158,6 +260,12 @@
           "date": "2025-10-09",
           "opponentTricode": "NJD",
           "shotType": "deflected",
+          "clip": {
+            "en": 6382527229112,
+            "fr": 6382529184112,
+            "enFull": 6382531885112,
+            "frFull": 6382530826112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -166,6 +274,12 @@
           "date": "2025-10-11",
           "opponentTricode": "PHI",
           "shotType": "backhand",
+          "clip": {
+            "en": 6382634383112,
+            "fr": 6382635837112,
+            "enFull": 6382636421112,
+            "frFull": 6382634476112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -174,6 +288,11 @@
           "date": "2025-11-09",
           "opponentTricode": "TOR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384888069112,
+            "enFull": 6384887297112,
+            "frFull": 6384887770112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -182,6 +301,12 @@
           "date": "2025-11-14",
           "opponentTricode": "VAN",
           "shotType": "snap",
+          "clip": {
+            "en": 6385125782112,
+            "fr": 6385125684112,
+            "enFull": 6385125209112,
+            "frFull": 6385124315112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -190,6 +315,12 @@
           "date": "2025-11-17",
           "opponentTricode": "BOS",
           "shotType": "wrist",
+          "clip": {
+            "en": 6385233669112,
+            "fr": 6385234155112,
+            "enFull": 6385232219112,
+            "frFull": 6385232697112
+          },
           "goalClassification": null
         },
         {
@@ -198,6 +329,12 @@
           "date": "2025-12-06",
           "opponentTricode": "NSH",
           "shotType": "deflected",
+          "clip": {
+            "en": 6386136310112,
+            "fr": 6386134237112,
+            "enFull": 6386136219112,
+            "frFull": 6386134850112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -206,6 +343,12 @@
           "date": "2025-12-14",
           "opponentTricode": "PHI",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6386484690112,
+            "fr": 6386485773112,
+            "enFull": 6386486742112,
+            "frFull": 6386484418112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -214,6 +357,12 @@
           "date": "2026-01-04",
           "opponentTricode": "NJD",
           "shotType": "poke",
+          "clip": {
+            "en": 6387233630112,
+            "fr": 6387235579112,
+            "enFull": 6387235203112,
+            "frFull": 6387235309112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -222,6 +371,12 @@
           "date": "2026-01-08",
           "opponentTricode": "ANA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387447726112,
+            "fr": 6387447324112,
+            "enFull": 6387449388112,
+            "frFull": 6387447424112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -230,6 +385,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387844792112,
+            "fr": 6387844120112,
+            "enFull": 6387843142112,
+            "frFull": 6387844798112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -238,6 +399,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387845413112,
+            "fr": 6387845565112,
+            "enFull": 6387844070112,
+            "frFull": 6387845349112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -246,6 +413,12 @@
           "date": "2026-01-24",
           "opponentTricode": "OTT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6388257239112,
+            "fr": 6388258499112,
+            "enFull": 6388257835112,
+            "frFull": 6388257445112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -254,6 +427,12 @@
           "date": "2026-02-26",
           "opponentTricode": "TBL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390016795112,
+            "fr": 6390015266112,
+            "enFull": 6390016495112,
+            "frFull": 6390015712112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -262,6 +441,12 @@
           "date": "2026-02-28",
           "opponentTricode": "DET",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390180566112,
+            "fr": 6390181741112,
+            "enFull": 6390182045112,
+            "frFull": 6390180172112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -270,6 +455,12 @@
           "date": "2026-03-18",
           "opponentTricode": "PIT",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391150315112,
+            "fr": 6391152175112,
+            "enFull": 6391151499112,
+            "frFull": 6391152292112
+          },
           "goalClassification": null
         }
       ]
@@ -283,6 +474,12 @@
           "date": "2025-10-30",
           "opponentTricode": "NYI",
           "shotType": "wrap-around",
+          "clip": {
+            "en": 6384317269112,
+            "fr": 6384317167112,
+            "enFull": 6384314711112,
+            "frFull": 6384316382112
+          },
           "goalClassification": null
         }
       ]
@@ -296,6 +493,12 @@
           "date": "2025-11-17",
           "opponentTricode": "BOS",
           "shotType": "snap",
+          "clip": {
+            "en": 6385229749112,
+            "fr": 6385230137112,
+            "enFull": 6385229063112,
+            "frFull": 6385229658112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -304,6 +507,12 @@
           "date": "2025-12-30",
           "opponentTricode": "PIT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6387087414112,
+            "fr": 6387086440112,
+            "enFull": 6387088002112,
+            "frFull": 6387087319112
+          },
           "goalClassification": null
         },
         {
@@ -312,6 +521,12 @@
           "date": "2026-01-08",
           "opponentTricode": "ANA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6387444741112,
+            "fr": 6387444650112,
+            "enFull": 6387444648112,
+            "frFull": 6387444159112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -320,6 +535,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "backhand",
+          "clip": {
+            "en": 6387838712112,
+            "fr": 6387840556112,
+            "enFull": 6387838014112,
+            "frFull": 6387840562112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -328,6 +549,12 @@
           "date": "2026-01-31",
           "opponentTricode": "WSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6388608329112,
+            "fr": 6388609593112,
+            "enFull": 6388609201112,
+            "frFull": 6388609981112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -336,6 +563,12 @@
           "date": "2026-03-10",
           "opponentTricode": "PIT",
           "shotType": "backhand",
+          "clip": {
+            "en": 6390709721112,
+            "fr": 6390707631112,
+            "enFull": 6390709599112,
+            "frFull": 6390709224112
+          },
           "goalClassification": "Net-front"
         },
         {
@@ -344,6 +577,12 @@
           "date": "2026-03-12",
           "opponentTricode": "STL",
           "shotType": "snap",
+          "clip": {
+            "en": 6390818379112,
+            "fr": 6390817294112,
+            "enFull": 6390818274112,
+            "frFull": 6390817201112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -352,6 +591,12 @@
           "date": "2026-03-22",
           "opponentTricode": "PIT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391411094112,
+            "fr": 6391413134112,
+            "enFull": 6391411488112,
+            "frFull": 6391412355112
+          },
           "goalClassification": "Empty Net"
         }
       ]
@@ -365,6 +610,11 @@
           "date": "2025-10-14",
           "opponentTricode": "SJS",
           "shotType": "wrist",
+          "clip": {
+            "en": 6382778140112,
+            "fr": 6382777630112,
+            "enFull": 6382778239112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -373,6 +623,12 @@
           "date": "2025-11-23",
           "opponentTricode": "BUF",
           "shotType": "wrist",
+          "clip": {
+            "en": 6385493288112,
+            "fr": 6385492773112,
+            "enFull": 6385493877112,
+            "frFull": 6385493367112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -381,6 +637,12 @@
           "date": "2025-11-26",
           "opponentTricode": "NYR",
           "shotType": "snap",
+          "clip": {
+            "en": 6385631524112,
+            "fr": 6385630642112,
+            "enFull": 6385632317112,
+            "frFull": 6385631438112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -389,6 +651,12 @@
           "date": "2025-12-27",
           "opponentTricode": "DET",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386987893112,
+            "fr": 6386987579112,
+            "enFull": 6386987902112,
+            "frFull": 6386988680112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -397,6 +665,12 @@
           "date": "2026-01-06",
           "opponentTricode": "DAL",
           "shotType": "slap",
+          "clip": {
+            "en": 6387323276112,
+            "fr": 6387322508112,
+            "enFull": 6387323771112,
+            "frFull": 6387325045112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -405,6 +679,12 @@
           "date": "2026-01-12",
           "opponentTricode": "DET",
           "shotType": "slap",
+          "clip": {
+            "en": 6387635541112,
+            "fr": 6387634268112,
+            "enFull": 6387636878112,
+            "frFull": 6387636346112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -413,6 +693,12 @@
           "date": "2026-01-29",
           "opponentTricode": "UTA",
           "shotType": "slap",
+          "clip": {
+            "en": 6388514686112,
+            "fr": 6388515558112,
+            "enFull": 6388516356112,
+            "frFull": 6388514299112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -421,6 +707,12 @@
           "date": "2026-01-29",
           "opponentTricode": "UTA",
           "shotType": "snap",
+          "clip": {
+            "en": 6388519049112,
+            "fr": 6388518255112,
+            "enFull": 6388518539112,
+            "frFull": 6388518842112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -429,6 +721,12 @@
           "date": "2026-01-31",
           "opponentTricode": "WSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6388610029112,
+            "fr": 6388610999112,
+            "enFull": 6388611594112,
+            "frFull": 6388609942112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -437,6 +735,12 @@
           "date": "2026-02-28",
           "opponentTricode": "DET",
           "shotType": "snap",
+          "clip": {
+            "en": 6390187749112,
+            "fr": 6390189510112,
+            "enFull": 6390189515112,
+            "frFull": 6390188345112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -445,6 +749,12 @@
           "date": "2026-03-06",
           "opponentTricode": "EDM",
           "shotType": "slap",
+          "clip": {
+            "en": 6390522355112,
+            "fr": 6390521654112,
+            "enFull": 6390522558112,
+            "frFull": 6390522455112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -458,6 +768,12 @@
           "date": "2025-10-28",
           "opponentTricode": "VGK",
           "shotType": "snap",
+          "clip": {
+            "en": 6384211195112,
+            "fr": 6384210495112,
+            "enFull": 6384213357112,
+            "frFull": 6384210995112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -466,6 +782,12 @@
           "date": "2025-10-30",
           "opponentTricode": "NYI",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384315523112,
+            "fr": 6384315808112,
+            "enFull": 6384315226112,
+            "frFull": 6384316301112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -474,6 +796,12 @@
           "date": "2025-11-28",
           "opponentTricode": "WPG",
           "shotType": "snap",
+          "clip": {
+            "en": 6385716627112,
+            "fr": 6385715750112,
+            "enFull": 6385716355112,
+            "frFull": 6385715852112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -482,6 +810,12 @@
           "date": "2025-12-09",
           "opponentTricode": "CBJ",
           "shotType": "snap",
+          "clip": {
+            "en": 6386263658112,
+            "fr": 6386262797112,
+            "enFull": 6386264141112,
+            "frFull": 6386263474112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -490,6 +824,12 @@
           "date": "2025-12-27",
           "opponentTricode": "DET",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386992191112,
+            "fr": 6386990421112,
+            "enFull": 6386990626112,
+            "frFull": 6386992193112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -498,6 +838,12 @@
           "date": "2025-12-29",
           "opponentTricode": "NYR",
           "shotType": "deflected",
+          "clip": {
+            "en": 6387052863112,
+            "fr": 6387053662112,
+            "enFull": 6387051330112,
+            "frFull": 6387051409112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -506,6 +852,12 @@
           "date": "2026-01-10",
           "opponentTricode": "SEA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387548517112,
+            "fr": 6387550172112,
+            "enFull": 6387548119112,
+            "frFull": 6387548722112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -514,6 +866,12 @@
           "date": "2026-03-06",
           "opponentTricode": "EDM",
           "shotType": "backhand",
+          "clip": {
+            "en": 6390524643112,
+            "fr": 6390523872112,
+            "enFull": 6390524357112,
+            "frFull": 6390523880112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -522,6 +880,12 @@
           "date": "2026-03-14",
           "opponentTricode": "TBL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390950593112,
+            "fr": 6390951583112,
+            "enFull": 6390949222112,
+            "frFull": 6390951477112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -530,6 +894,12 @@
           "date": "2026-03-18",
           "opponentTricode": "PIT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391148258112,
+            "fr": 6391148168112,
+            "enFull": 6391149833112,
+            "frFull": 6391149620112
+          },
           "goalClassification": "Rush"
         }
       ]
@@ -543,6 +913,12 @@
           "date": "2025-10-14",
           "opponentTricode": "SJS",
           "shotType": "poke",
+          "clip": {
+            "en": 6382775357112,
+            "fr": 6382776543112,
+            "enFull": 6382774649112,
+            "frFull": 6382774785112
+          },
           "goalClassification": "Net-front"
         },
         {
@@ -551,6 +927,12 @@
           "date": "2025-12-06",
           "opponentTricode": "NSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6386137718112,
+            "fr": 6386137304112,
+            "enFull": 6386138013112,
+            "frFull": 6386136445112
+          },
           "goalClassification": null
         },
         {
@@ -559,6 +941,12 @@
           "date": "2025-12-14",
           "opponentTricode": "PHI",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386485739112,
+            "fr": 6386485154112,
+            "enFull": 6386484272112,
+            "frFull": 6386485255112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -567,6 +955,12 @@
           "date": "2026-01-06",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6387328748112,
+            "fr": 6387329909112,
+            "enFull": 6387328168112,
+            "frFull": 6387328546112
+          },
           "goalClassification": "Net-front"
         },
         {
@@ -575,6 +969,12 @@
           "date": "2026-01-10",
           "opponentTricode": "SEA",
           "shotType": "deflected",
+          "clip": {
+            "en": 6387548542112,
+            "fr": 6387548445112,
+            "enFull": 6387548442112,
+            "frFull": 6387550697112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -583,6 +983,12 @@
           "date": "2026-01-24",
           "opponentTricode": "OTT",
           "shotType": "backhand",
+          "clip": {
+            "en": 6388255623112,
+            "fr": 6388257784112,
+            "enFull": 6388257505112,
+            "frFull": 6388256045112
+          },
           "goalClassification": "Broken Coverage"
         }
       ]
@@ -596,6 +1002,12 @@
           "date": "2025-11-04",
           "opponentTricode": "NYR",
           "shotType": "snap",
+          "clip": {
+            "en": 6384528307112,
+            "fr": 6384527916112,
+            "enFull": 6384527622112,
+            "frFull": 6384529168112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -604,6 +1016,12 @@
           "date": "2025-11-06",
           "opponentTricode": "MIN",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6384768432112,
+            "fr": 6384767081112,
+            "enFull": 6384768339112,
+            "frFull": 6384767558112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -612,6 +1030,12 @@
           "date": "2025-11-11",
           "opponentTricode": "WSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6384977438112,
+            "fr": 6384977732112,
+            "enFull": 6384976776112,
+            "frFull": 6384975882112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -620,6 +1044,12 @@
           "date": "2025-11-15",
           "opponentTricode": "EDM",
           "shotType": "snap",
+          "clip": {
+            "en": 6385155425112,
+            "fr": 6385154142112,
+            "enFull": 6385155610112,
+            "frFull": 6385156004112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -628,6 +1058,12 @@
           "date": "2025-11-30",
           "opponentTricode": "CGY",
           "shotType": "snap",
+          "clip": {
+            "en": 6385777035112,
+            "fr": 6385775571112,
+            "enFull": 6385776842112,
+            "frFull": 6385777527112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -636,6 +1072,12 @@
           "date": "2025-12-06",
           "opponentTricode": "NSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6386136988112,
+            "fr": 6386136586112,
+            "enFull": 6386134651112,
+            "frFull": 6386136312112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -644,6 +1086,12 @@
           "date": "2025-12-11",
           "opponentTricode": "WSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6386356268112,
+            "fr": 6386356071112,
+            "enFull": 6386354429112,
+            "frFull": 6386354112112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -652,6 +1100,12 @@
           "date": "2025-12-13",
           "opponentTricode": "PHI",
           "shotType": "snap",
+          "clip": {
+            "en": 6386454100112,
+            "fr": 6386453503112,
+            "enFull": 6386455646112,
+            "frFull": 6386453000112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -660,6 +1114,12 @@
           "date": "2026-01-01",
           "opponentTricode": "MTL",
           "shotType": "snap",
+          "clip": {
+            "en": 6387145969112,
+            "fr": 6387143920112,
+            "enFull": 6387144420112,
+            "frFull": 6387144313112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -668,6 +1128,12 @@
           "date": "2026-01-03",
           "opponentTricode": "COL",
           "shotType": "snap",
+          "clip": {
+            "en": 6387205868112,
+            "fr": 6387204280112,
+            "enFull": 6387203328112,
+            "frFull": 6387205370112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -676,6 +1142,12 @@
           "date": "2026-01-04",
           "opponentTricode": "NJD",
           "shotType": null,
+          "clip": {
+            "en": 6387234751112,
+            "fr": 6387233097112,
+            "enFull": 6387233578112,
+            "frFull": 6387232606112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -684,6 +1156,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "slap",
+          "clip": {
+            "en": 6387837820112,
+            "fr": 6387836175112,
+            "enFull": 6387837055112,
+            "frFull": 6387837827112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -692,6 +1170,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387843815112,
+            "fr": 6387844790112,
+            "enFull": 6387842845112,
+            "frFull": 6387844117112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -700,6 +1184,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387842756112,
+            "fr": 6387842767112,
+            "enFull": 6387845122112,
+            "frFull": 6387844811112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -708,6 +1198,12 @@
           "date": "2026-02-26",
           "opponentTricode": "TBL",
           "shotType": "snap",
+          "clip": {
+            "en": 6390014524112,
+            "fr": 6390014132112,
+            "enFull": 6390014219112,
+            "frFull": 6390015306112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -716,6 +1212,12 @@
           "date": "2026-03-02",
           "opponentTricode": "SEA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390298924112,
+            "fr": 6390299420112,
+            "enFull": 6390299027112,
+            "frFull": 6390298730112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -724,6 +1226,12 @@
           "date": "2026-03-04",
           "opponentTricode": "VAN",
           "shotType": "snap",
+          "clip": {
+            "en": 6390409513112,
+            "fr": 6390409994112,
+            "enFull": 6390407650112,
+            "frFull": 6390409524112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -732,6 +1240,12 @@
           "date": "2026-03-04",
           "opponentTricode": "VAN",
           "shotType": "slap",
+          "clip": {
+            "en": 6390409135112,
+            "fr": 6390409422112,
+            "enFull": 6390409033112,
+            "frFull": 6390408339112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -740,6 +1254,12 @@
           "date": "2026-03-04",
           "opponentTricode": "VAN",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390413016112,
+            "fr": 6390412824112,
+            "enFull": 6390411166112,
+            "frFull": 6390412531112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -748,6 +1268,12 @@
           "date": "2026-03-06",
           "opponentTricode": "EDM",
           "shotType": "snap",
+          "clip": {
+            "en": 6390520770112,
+            "fr": 6390521981112,
+            "enFull": 6390522373112,
+            "frFull": 6390521989112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -756,6 +1282,12 @@
           "date": "2026-03-22",
           "opponentTricode": "PIT",
           "shotType": "slap",
+          "clip": {
+            "en": 6391407042112,
+            "fr": 6391407134112,
+            "enFull": 6391408417112,
+            "frFull": 6391407824112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -777,6 +1309,12 @@
           "date": "2025-10-16",
           "opponentTricode": "ANA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6382874946112,
+            "fr": 6382874763112,
+            "enFull": 6382876000112,
+            "frFull": 6382875906112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -785,6 +1323,12 @@
           "date": "2025-10-20",
           "opponentTricode": "VGK",
           "shotType": "wrist",
+          "clip": {
+            "en": 6383444361112,
+            "fr": 6383444557112,
+            "enFull": 6383442298112,
+            "frFull": 6383443380112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -793,6 +1337,12 @@
           "date": "2025-10-23",
           "opponentTricode": "COL",
           "shotType": "deflected",
+          "clip": {
+            "en": 6383666116112,
+            "fr": 6383664949112,
+            "enFull": 6383663373112,
+            "frFull": 6383664259112
+          },
           "goalClassification": null
         },
         {
@@ -801,6 +1351,12 @@
           "date": "2025-10-25",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6384071893112,
+            "fr": 6384072593112,
+            "enFull": 6384071395112,
+            "frFull": 6384070213112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -809,6 +1365,12 @@
           "date": "2025-11-08",
           "opponentTricode": "BUF",
           "shotType": "snap",
+          "clip": {
+            "en": 6384849387112,
+            "fr": 6384849787112,
+            "enFull": 6384849391112,
+            "frFull": 6384849092112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -817,6 +1379,12 @@
           "date": "2025-11-09",
           "opponentTricode": "TOR",
           "shotType": "snap",
+          "clip": {
+            "en": 6384885441112,
+            "fr": 6384885436112,
+            "enFull": 6384885238112,
+            "frFull": 6384884861112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -825,6 +1393,12 @@
           "date": "2025-11-14",
           "opponentTricode": "VAN",
           "shotType": "snap",
+          "clip": {
+            "en": 6385126802112,
+            "fr": 6385126800112,
+            "enFull": 6385126526112,
+            "frFull": 6385126139112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -833,6 +1407,12 @@
           "date": "2025-11-19",
           "opponentTricode": "MIN",
           "shotType": "wrist",
+          "clip": {
+            "en": 6385336484112,
+            "fr": 6385335624112,
+            "enFull": 6385335627112,
+            "frFull": 6385337262112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -841,6 +1421,12 @@
           "date": "2025-12-06",
           "opponentTricode": "NSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6386140365112,
+            "fr": 6386139958112,
+            "enFull": 6386141629112,
+            "frFull": 6386140366112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -849,6 +1435,12 @@
           "date": "2025-12-17",
           "opponentTricode": "NSH",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386629521112,
+            "fr": 6386628821112,
+            "enFull": 6386628538112,
+            "frFull": 6386631087112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -857,6 +1449,12 @@
           "date": "2025-12-17",
           "opponentTricode": "NSH",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386631423112,
+            "fr": 6386629946112,
+            "enFull": 6386632300112,
+            "frFull": 6386632418112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -865,6 +1463,12 @@
           "date": "2025-12-19",
           "opponentTricode": "FLA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386731152112,
+            "fr": 6386731261112,
+            "enFull": 6386732139112,
+            "frFull": 6386733103112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -873,6 +1477,12 @@
           "date": "2025-12-19",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6386733119112,
+            "fr": 6386732710112,
+            "enFull": 6386733904112,
+            "frFull": 6386733121112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -881,6 +1491,12 @@
           "date": "2025-12-29",
           "opponentTricode": "NYR",
           "shotType": "snap",
+          "clip": {
+            "en": 6387047444112,
+            "fr": 6387046767112,
+            "enFull": 6387047537112,
+            "frFull": 6387049313112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -889,6 +1505,12 @@
           "date": "2026-01-01",
           "opponentTricode": "MTL",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6387143543112,
+            "fr": 6387145696112,
+            "enFull": 6387145594112,
+            "frFull": 6387144242112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -897,6 +1519,12 @@
           "date": "2026-01-01",
           "opponentTricode": "MTL",
           "shotType": "snap",
+          "clip": {
+            "en": 6387149913112,
+            "fr": 6387149915112,
+            "enFull": 6387147472112,
+            "frFull": 6387150015112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -905,6 +1533,12 @@
           "date": "2026-01-03",
           "opponentTricode": "COL",
           "shotType": "backhand",
+          "clip": {
+            "en": 6387204047112,
+            "fr": 6387202499112,
+            "enFull": 6387201619112,
+            "frFull": 6387204149112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -913,6 +1547,12 @@
           "date": "2026-01-31",
           "opponentTricode": "WSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6388609109112,
+            "fr": 6388610275112,
+            "enFull": 6388610094112,
+            "frFull": 6388609215112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -921,6 +1561,12 @@
           "date": "2026-02-01",
           "opponentTricode": "LAK",
           "shotType": "snap",
+          "clip": {
+            "en": 6388647439112,
+            "fr": 6388646852112,
+            "enFull": 6388644906112,
+            "frFull": 6388647341112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -929,6 +1575,12 @@
           "date": "2026-02-03",
           "opponentTricode": "OTT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6388734725112,
+            "fr": 6388734051112,
+            "enFull": 6388734358112,
+            "frFull": 6388735822112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -937,6 +1589,12 @@
           "date": "2026-02-26",
           "opponentTricode": "TBL",
           "shotType": "slap",
+          "clip": {
+            "en": 6390026607112,
+            "fr": 6390026512112,
+            "enFull": 6390025260112,
+            "frFull": 6390026712112
+          },
           "goalClassification": "Net-front"
         },
         {
@@ -945,6 +1603,12 @@
           "date": "2026-02-28",
           "opponentTricode": "DET",
           "shotType": "snap",
+          "clip": {
+            "en": 6390181869112,
+            "fr": 6390182255112,
+            "enFull": 6390181188112,
+            "frFull": 6390181297112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -953,6 +1617,12 @@
           "date": "2026-03-04",
           "opponentTricode": "VAN",
           "shotType": "backhand",
+          "clip": {
+            "en": 6390410206112,
+            "fr": 6390410106112,
+            "enFull": 6390408848112,
+            "frFull": 6390409616112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -961,6 +1631,12 @@
           "date": "2026-03-14",
           "opponentTricode": "TBL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390945982112,
+            "fr": 6390948720112,
+            "enFull": 6390948335112,
+            "frFull": 6390948821112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -969,6 +1645,12 @@
           "date": "2026-03-22",
           "opponentTricode": "PIT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391404778112,
+            "fr": 6391403965112,
+            "enFull": 6391404070112,
+            "frFull": 6391404513112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -982,6 +1664,12 @@
           "date": "2026-01-08",
           "opponentTricode": "ANA",
           "shotType": "slap",
+          "clip": {
+            "en": 6387444201112,
+            "fr": 6387443918112,
+            "enFull": 6387446360112,
+            "frFull": 6387445176112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -990,6 +1678,12 @@
           "date": "2026-03-22",
           "opponentTricode": "PIT",
           "shotType": "slap",
+          "clip": {
+            "en": 6391406742112,
+            "fr": 6391406845112,
+            "enFull": 6391409283112,
+            "frFull": 6391407528112
+          },
           "goalClassification": "Broken Coverage"
         }
       ]
@@ -1003,6 +1697,12 @@
           "date": "2025-10-14",
           "opponentTricode": "SJS",
           "shotType": "slap",
+          "clip": {
+            "en": 6382774238112,
+            "fr": 6382774125112,
+            "enFull": 6382773071112,
+            "frFull": 6382774129112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1011,6 +1711,12 @@
           "date": "2025-11-04",
           "opponentTricode": "NYR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384529046112,
+            "fr": 6384531108112,
+            "enFull": 6384530231112,
+            "frFull": 6384530059112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1019,6 +1725,12 @@
           "date": "2025-11-06",
           "opponentTricode": "MIN",
           "shotType": "snap",
+          "clip": {
+            "en": 6384766339112,
+            "fr": 6384766745112,
+            "enFull": 6384765274112,
+            "frFull": 6384765945112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1027,6 +1739,12 @@
           "date": "2025-11-09",
           "opponentTricode": "TOR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384888922112,
+            "fr": 6384886884112,
+            "enFull": 6384888824112,
+            "frFull": 6384887744112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1035,6 +1753,12 @@
           "date": "2026-03-04",
           "opponentTricode": "VAN",
           "shotType": "snap",
+          "clip": {
+            "en": 6390409510112,
+            "fr": 6390409593112,
+            "enFull": 6390408918112,
+            "frFull": 6390409592112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1043,6 +1767,11 @@
           "date": "2026-03-07",
           "opponentTricode": "CGY",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390575849112,
+            "fr": 6390574006112,
+            "frFull": 6390576339112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1051,6 +1780,12 @@
           "date": "2026-03-18",
           "opponentTricode": "PIT",
           "shotType": "slap",
+          "clip": {
+            "en": 6391154776112,
+            "fr": 6391154401112,
+            "enFull": 6391153511112,
+            "frFull": 6391153912112
+          },
           "goalClassification": "Seam"
         }
       ]
@@ -1064,6 +1799,12 @@
           "date": "2025-10-09",
           "opponentTricode": "NJD",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6382535036112,
+            "fr": 6382534751112,
+            "enFull": 6382534359112,
+            "frFull": 6382532994112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1072,6 +1813,12 @@
           "date": "2025-10-14",
           "opponentTricode": "SJS",
           "shotType": "backhand",
+          "clip": {
+            "en": 6382775066112,
+            "fr": 6382774974112,
+            "enFull": 6382774670112,
+            "frFull": 6382776144112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1080,6 +1827,12 @@
           "date": "2025-10-23",
           "opponentTricode": "COL",
           "shotType": "snap",
+          "clip": {
+            "en": 6383661506112,
+            "fr": 6383660028112,
+            "enFull": 6383661813112,
+            "frFull": 6383677586112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1088,6 +1841,12 @@
           "date": "2025-11-08",
           "opponentTricode": "BUF",
           "shotType": "snap",
+          "clip": {
+            "en": 6384855202112,
+            "fr": 6384855201112,
+            "enFull": 6384853666112,
+            "frFull": 6384853324112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1096,6 +1855,12 @@
           "date": "2025-11-15",
           "opponentTricode": "EDM",
           "shotType": "snap",
+          "clip": {
+            "en": 6385155884112,
+            "fr": 6385154799112,
+            "enFull": 6385155881112,
+            "frFull": 6385154408112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1104,6 +1869,12 @@
           "date": "2025-12-09",
           "opponentTricode": "CBJ",
           "shotType": "snap",
+          "clip": {
+            "en": 6386260692112,
+            "fr": 6386261854112,
+            "enFull": 6386261652112,
+            "frFull": 6386261855112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1112,6 +1883,12 @@
           "date": "2025-12-20",
           "opponentTricode": "TBL",
           "shotType": "slap",
+          "clip": {
+            "en": 6386768989112,
+            "fr": 6386768691112,
+            "enFull": 6386770359112,
+            "frFull": 6386767917112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1120,6 +1897,12 @@
           "date": "2025-12-23",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6386884868112,
+            "fr": 6386884666112,
+            "enFull": 6386883559112,
+            "frFull": 6386886102112
+          },
           "goalClassification": null
         },
         {
@@ -1128,6 +1911,12 @@
           "date": "2025-12-27",
           "opponentTricode": "DET",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386986377112,
+            "fr": 6386985673112,
+            "enFull": 6386985472112,
+            "frFull": 6386987036112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1136,6 +1925,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387844357112,
+            "fr": 6387845136112,
+            "enFull": 6387846613112,
+            "frFull": 6387846119112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1144,6 +1939,12 @@
           "date": "2026-02-28",
           "opponentTricode": "DET",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390185472112,
+            "fr": 6390185186112,
+            "enFull": 6390184613112,
+            "frFull": 6390184295112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1152,6 +1953,12 @@
           "date": "2026-03-20",
           "opponentTricode": "TOR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391296411112,
+            "fr": 6391296898112,
+            "enFull": 6391294735112,
+            "frFull": 6391295245112
+          },
           "goalClassification": "Broken Coverage"
         }
       ]
@@ -1165,6 +1972,12 @@
           "date": "2025-10-09",
           "opponentTricode": "NJD",
           "shotType": "snap",
+          "clip": {
+            "en": 6382530731112,
+            "fr": 6382528650112,
+            "enFull": 6382529648112,
+            "frFull": 6382531596112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1173,6 +1986,12 @@
           "date": "2025-10-09",
           "opponentTricode": "NJD",
           "shotType": "slap",
+          "clip": {
+            "en": 6382532871112,
+            "fr": 6382532381112,
+            "enFull": 6382532775112,
+            "frFull": 6382534336112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1181,6 +2000,12 @@
           "date": "2026-01-06",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6387321199112,
+            "fr": 6387322957112,
+            "enFull": 6387322379112,
+            "frFull": 6387322564112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1189,6 +2014,12 @@
           "date": "2026-01-06",
           "opponentTricode": "DAL",
           "shotType": "slap",
+          "clip": {
+            "en": 6387325225112,
+            "fr": 6387326392112,
+            "enFull": 6387324598112,
+            "frFull": 6387325314112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1197,6 +2028,12 @@
           "date": "2026-03-18",
           "opponentTricode": "PIT",
           "shotType": "snap",
+          "clip": {
+            "en": 6391152720112,
+            "fr": 6391152926112,
+            "enFull": 6391153892112,
+            "frFull": 6391154388112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1205,6 +2042,12 @@
           "date": "2026-03-20",
           "opponentTricode": "TOR",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391297121112,
+            "fr": 6391297300112,
+            "enFull": 6391296621112,
+            "frFull": 6391296807112
+          },
           "goalClassification": "Broken Coverage"
         }
       ]
@@ -1218,6 +2061,12 @@
           "date": "2025-10-18",
           "opponentTricode": "LAK",
           "shotType": "backhand",
+          "clip": {
+            "en": 6383059459112,
+            "fr": 6383060425112,
+            "enFull": 6383058862112,
+            "frFull": 6383059160112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1226,6 +2075,12 @@
           "date": "2025-11-08",
           "opponentTricode": "BUF",
           "shotType": "slap",
+          "clip": {
+            "en": 6384852725112,
+            "fr": 6384852841112,
+            "enFull": 6384852337112,
+            "frFull": 6384851639112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1239,6 +2094,12 @@
           "date": "2025-10-28",
           "opponentTricode": "VGK",
           "shotType": "slap",
+          "clip": {
+            "en": 6384207855112,
+            "fr": 6384211315112,
+            "enFull": 6384208962112,
+            "frFull": 6384209077112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1247,6 +2108,12 @@
           "date": "2025-10-30",
           "opponentTricode": "NYI",
           "shotType": "snap",
+          "clip": {
+            "en": 6384320783112,
+            "fr": 6384322934112,
+            "enFull": 6384321758112,
+            "frFull": 6384322743112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1255,6 +2122,12 @@
           "date": "2025-11-06",
           "opponentTricode": "MIN",
           "shotType": "snap",
+          "clip": {
+            "en": 6384766828112,
+            "fr": 6384766637112,
+            "enFull": 6384766423112,
+            "frFull": 6384767118112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1263,6 +2136,12 @@
           "date": "2025-11-08",
           "opponentTricode": "BUF",
           "shotType": "slap",
+          "clip": {
+            "en": 6384852809112,
+            "fr": 6384850913112,
+            "enFull": 6384852301112,
+            "frFull": 6384852814112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1271,6 +2150,12 @@
           "date": "2025-11-14",
           "opponentTricode": "VAN",
           "shotType": "snap",
+          "clip": {
+            "en": 6385121141112,
+            "fr": 6385120593112,
+            "enFull": 6385119689112,
+            "frFull": 6385121429112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1279,6 +2164,12 @@
           "date": "2025-11-14",
           "opponentTricode": "VAN",
           "shotType": "slap",
+          "clip": {
+            "en": 6385119396112,
+            "fr": 6385121059112,
+            "enFull": 6385120961112,
+            "frFull": 6385119983112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1287,6 +2178,12 @@
           "date": "2025-11-21",
           "opponentTricode": "WPG",
           "shotType": "slap",
+          "clip": {
+            "en": 6385436193112,
+            "fr": 6385437384112,
+            "enFull": 6385436482112,
+            "frFull": 6385435803112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1295,6 +2192,12 @@
           "date": "2025-12-20",
           "opponentTricode": "TBL",
           "shotType": "backhand",
+          "clip": {
+            "en": 6386774126112,
+            "fr": 6386774127112,
+            "enFull": 6386774932112,
+            "frFull": 6386773464112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1303,6 +2206,12 @@
           "date": "2025-12-23",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6386887777112,
+            "fr": 6386888650112,
+            "enFull": 6386887966112,
+            "frFull": 6386887780112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1311,6 +2220,12 @@
           "date": "2025-12-27",
           "opponentTricode": "DET",
           "shotType": "snap",
+          "clip": {
+            "en": 6386991959112,
+            "fr": 6386990997112,
+            "enFull": 6386989518112,
+            "frFull": 6386990110112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1319,6 +2234,12 @@
           "date": "2026-01-01",
           "opponentTricode": "MTL",
           "shotType": "snap",
+          "clip": {
+            "en": 6387144037112,
+            "fr": 6387143638112,
+            "enFull": 6387145795112,
+            "frFull": 6387145114112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1327,6 +2248,12 @@
           "date": "2026-01-03",
           "opponentTricode": "COL",
           "shotType": "backhand",
+          "clip": {
+            "en": 6387205478112,
+            "fr": 6387205967112,
+            "enFull": 6387206071112,
+            "frFull": 6387204407112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1335,6 +2262,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387840841112,
+            "fr": 6387841337112,
+            "enFull": 6387841813112,
+            "frFull": 6387842592112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1343,6 +2276,12 @@
           "date": "2026-01-17",
           "opponentTricode": "NJD",
           "shotType": "snap",
+          "clip": {
+            "en": 6387885228112,
+            "fr": 6387885804112,
+            "enFull": 6387883933112,
+            "frFull": 6387884730112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1351,6 +2290,12 @@
           "date": "2026-01-17",
           "opponentTricode": "NJD",
           "shotType": "snap",
+          "clip": {
+            "en": 6387883464112,
+            "fr": 6387884640112,
+            "enFull": 6387885023112,
+            "frFull": 6387884451112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1359,6 +2304,12 @@
           "date": "2026-01-17",
           "opponentTricode": "NJD",
           "shotType": "snap",
+          "clip": {
+            "en": 6387886895112,
+            "fr": 6387887600112,
+            "enFull": 6387887292112,
+            "frFull": 6387887878112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1367,6 +2318,12 @@
           "date": "2026-01-19",
           "opponentTricode": "BUF",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6387950887112,
+            "fr": 6387950016112,
+            "enFull": 6387950505112,
+            "frFull": 6387950609112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1375,6 +2332,12 @@
           "date": "2026-01-24",
           "opponentTricode": "OTT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6388259364112,
+            "fr": 6388260042112,
+            "enFull": 6388259634112,
+            "frFull": 6388261013112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1383,6 +2346,12 @@
           "date": "2026-01-29",
           "opponentTricode": "UTA",
           "shotType": "snap",
+          "clip": {
+            "en": 6388508747112,
+            "fr": 6388507650112,
+            "enFull": 6388509907112,
+            "frFull": 6388508851112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1391,6 +2360,12 @@
           "date": "2026-01-29",
           "opponentTricode": "UTA",
           "shotType": "snap",
+          "clip": {
+            "en": 6388520182112,
+            "fr": 6388518824112,
+            "enFull": 6388520391112,
+            "frFull": 6388519034112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1399,6 +2374,12 @@
           "date": "2026-02-05",
           "opponentTricode": "NYR",
           "shotType": "snap",
+          "clip": {
+            "en": 6388846099112,
+            "fr": 6388846871112,
+            "enFull": 6388847931112,
+            "frFull": 6388847449112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1407,6 +2388,12 @@
           "date": "2026-03-04",
           "opponentTricode": "VAN",
           "shotType": "snap",
+          "clip": {
+            "en": 6390407279112,
+            "fr": 6390406107112,
+            "enFull": 6390407663112,
+            "frFull": 6390405524112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1415,6 +2402,10 @@
           "date": "2026-03-07",
           "opponentTricode": "CGY",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390575568112,
+            "fr": 6390576776112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1423,6 +2414,12 @@
           "date": "2026-03-14",
           "opponentTricode": "TBL",
           "shotType": "snap",
+          "clip": {
+            "en": 6390944761112,
+            "fr": 6390945549112,
+            "enFull": 6390944955112,
+            "frFull": 6390946721112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1431,6 +2428,12 @@
           "date": "2026-03-17",
           "opponentTricode": "CBJ",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391101941112,
+            "fr": 6391101942112,
+            "enFull": 6391100093112,
+            "frFull": 6391100201112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]
@@ -1444,6 +2447,12 @@
           "date": "2025-10-09",
           "opponentTricode": "NJD",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6382532482112,
+            "fr": 6382535531112,
+            "enFull": 6382535329112,
+            "frFull": 6382532894112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1452,6 +2461,12 @@
           "date": "2025-10-09",
           "opponentTricode": "NJD",
           "shotType": "wrist",
+          "clip": {
+            "en": 6382532984112,
+            "fr": 6382535334112,
+            "enFull": 6382532487112,
+            "frFull": 6382534651112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -1460,6 +2475,12 @@
           "date": "2025-10-11",
           "opponentTricode": "PHI",
           "shotType": "slap",
+          "clip": {
+            "en": 6382636510112,
+            "fr": 6382638457112,
+            "enFull": 6382638852112,
+            "frFull": 6382636588112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1468,6 +2489,12 @@
           "date": "2025-10-16",
           "opponentTricode": "ANA",
           "shotType": "snap",
+          "clip": {
+            "en": 6382870732112,
+            "fr": 6382871524112,
+            "enFull": 6382872383112,
+            "frFull": 6382870629112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1476,6 +2503,12 @@
           "date": "2025-10-16",
           "opponentTricode": "ANA",
           "shotType": "slap",
+          "clip": {
+            "en": 6382872816112,
+            "fr": 6382872150112,
+            "enFull": 6382872152112,
+            "frFull": 6382873789112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1484,6 +2517,12 @@
           "date": "2025-10-18",
           "opponentTricode": "LAK",
           "shotType": "wrist",
+          "clip": {
+            "en": 6383061777112,
+            "fr": 6383060498112,
+            "enFull": 6383061778112,
+            "frFull": 6383061957112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1492,6 +2531,12 @@
           "date": "2025-10-23",
           "opponentTricode": "COL",
           "shotType": "backhand",
+          "clip": {
+            "en": 6383661950112,
+            "fr": 6383662532112,
+            "enFull": 6383663527112,
+            "frFull": 6383662640112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1500,6 +2545,12 @@
           "date": "2025-11-04",
           "opponentTricode": "NYR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384531280112,
+            "fr": 6384531570112,
+            "enFull": 6384533120112,
+            "frFull": 6384533715112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -1508,6 +2559,12 @@
           "date": "2025-11-08",
           "opponentTricode": "BUF",
           "shotType": "snap",
+          "clip": {
+            "en": 6384856113112,
+            "fr": 6384854756112,
+            "enFull": 6384854271112,
+            "frFull": 6384855153112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -1516,6 +2573,12 @@
           "date": "2025-11-09",
           "opponentTricode": "TOR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384886715112,
+            "fr": 6384886623112,
+            "enFull": 6384886626112,
+            "frFull": 6384886034112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1524,6 +2587,12 @@
           "date": "2025-11-21",
           "opponentTricode": "WPG",
           "shotType": "wrist",
+          "clip": {
+            "en": 6385431386112,
+            "fr": 6385431383112,
+            "enFull": 6385432097112,
+            "frFull": 6385432597112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1532,6 +2601,12 @@
           "date": "2025-11-26",
           "opponentTricode": "NYR",
           "shotType": "snap",
+          "clip": {
+            "en": 6385634675112,
+            "fr": 6385635617112,
+            "enFull": 6385634673112,
+            "frFull": 6385635819112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1540,6 +2615,12 @@
           "date": "2025-11-28",
           "opponentTricode": "WPG",
           "shotType": "snap",
+          "clip": {
+            "en": 6385711246112,
+            "fr": 6385711344112,
+            "enFull": 6385711730112,
+            "frFull": 6385711057112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1548,6 +2629,12 @@
           "date": "2025-11-28",
           "opponentTricode": "WPG",
           "shotType": "snap",
+          "clip": {
+            "en": 6385716427112,
+            "fr": 6385715949112,
+            "enFull": 6385716147112,
+            "frFull": 6385715561112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1556,6 +2643,12 @@
           "date": "2025-11-28",
           "opponentTricode": "WPG",
           "shotType": "backhand",
+          "clip": {
+            "en": 6385716377112,
+            "fr": 6385716266112,
+            "enFull": 6385716925112,
+            "frFull": 6385716539112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -1564,6 +2657,12 @@
           "date": "2025-12-04",
           "opponentTricode": "TOR",
           "shotType": "snap",
+          "clip": {
+            "en": 6385987675112,
+            "fr": 6385989064112,
+            "enFull": 6385988103112,
+            "frFull": 6385988387112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1572,6 +2671,12 @@
           "date": "2025-12-09",
           "opponentTricode": "CBJ",
           "shotType": "snap",
+          "clip": {
+            "en": 6386258848112,
+            "fr": 6386260514112,
+            "enFull": 6386258581112,
+            "frFull": 6386258774112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1580,6 +2685,12 @@
           "date": "2025-12-13",
           "opponentTricode": "PHI",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386457894112,
+            "fr": 6386456022112,
+            "enFull": 6386456023112,
+            "frFull": 6386457228112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1588,6 +2699,12 @@
           "date": "2025-12-17",
           "opponentTricode": "NSH",
           "shotType": "slap",
+          "clip": {
+            "en": 6386629427112,
+            "fr": 6386628537112,
+            "enFull": 6386631275112,
+            "frFull": 6386630594112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1596,6 +2713,12 @@
           "date": "2026-01-06",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6387326885112,
+            "fr": 6387326108112,
+            "enFull": 6387325817112,
+            "frFull": 6387325999112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1604,6 +2727,12 @@
           "date": "2026-01-12",
           "opponentTricode": "DET",
           "shotType": "wrist",
+          "clip": {
+            "en": 6387634934112,
+            "fr": 6387632975112,
+            "enFull": 6387632985112,
+            "frFull": 6387634948112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1612,6 +2741,12 @@
           "date": "2026-01-19",
           "opponentTricode": "BUF",
           "shotType": "wrist",
+          "clip": {
+            "en": 6387954237112,
+            "fr": 6387954238112,
+            "enFull": 6387954160112,
+            "frFull": 6387955194112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1620,6 +2755,12 @@
           "date": "2026-01-24",
           "opponentTricode": "OTT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6388256901112,
+            "fr": 6388257792112,
+            "enFull": 6388255451112,
+            "frFull": 6388257106112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1628,6 +2769,12 @@
           "date": "2026-02-03",
           "opponentTricode": "OTT",
           "shotType": "slap",
+          "clip": {
+            "en": 6388738039112,
+            "fr": 6388737158112,
+            "enFull": 6388738044112,
+            "frFull": 6388737646112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1636,6 +2783,12 @@
           "date": "2026-02-03",
           "opponentTricode": "OTT",
           "shotType": "wrist",
+          "clip": {
+            "en": 6388736656112,
+            "fr": 6388737549112,
+            "enFull": 6388736658112,
+            "frFull": 6388737467112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1644,6 +2797,12 @@
           "date": "2026-02-26",
           "opponentTricode": "TBL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390020559112,
+            "fr": 6390020276112,
+            "enFull": 6390018891112,
+            "frFull": 6390019972112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1652,6 +2811,12 @@
           "date": "2026-03-07",
           "opponentTricode": "CGY",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390570820112,
+            "fr": 6390571993112,
+            "enFull": 6390570254112,
+            "frFull": 6390571997112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1660,6 +2825,12 @@
           "date": "2026-03-10",
           "opponentTricode": "PIT",
           "shotType": "snap",
+          "clip": {
+            "en": 6390710298112,
+            "fr": 6390708800112,
+            "enFull": 6390709526112,
+            "frFull": 6390709611112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1668,6 +2839,12 @@
           "date": "2026-03-22",
           "opponentTricode": "PIT",
           "shotType": "snap",
+          "clip": {
+            "en": 6391409135112,
+            "fr": 6391409049112,
+            "enFull": 6391410503112,
+            "frFull": 6391408939112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1681,6 +2858,12 @@
           "date": "2025-10-16",
           "opponentTricode": "ANA",
           "shotType": "snap",
+          "clip": {
+            "en": 6382873255112,
+            "fr": 6382873538112,
+            "enFull": 6382873946112,
+            "frFull": 6382875493112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1689,6 +2872,12 @@
           "date": "2025-11-01",
           "opponentTricode": "BOS",
           "shotType": "slap",
+          "clip": {
+            "en": 6384398837112,
+            "fr": 6384398834112,
+            "enFull": 6384398450112,
+            "frFull": 6384400001112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1697,6 +2886,12 @@
           "date": "2025-11-28",
           "opponentTricode": "WPG",
           "shotType": "slap",
+          "clip": {
+            "en": 6385715493112,
+            "fr": 6385715787112,
+            "enFull": 6385716062112,
+            "frFull": 6385714897112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1705,6 +2900,12 @@
           "date": "2025-12-13",
           "opponentTricode": "PHI",
           "shotType": "slap",
+          "clip": {
+            "en": 6386455746112,
+            "fr": 6386455486112,
+            "enFull": 6386454892112,
+            "frFull": 6386456651112
+          },
           "goalClassification": "Net-front"
         },
         {
@@ -1713,6 +2914,12 @@
           "date": "2026-01-01",
           "opponentTricode": "MTL",
           "shotType": "slap",
+          "clip": {
+            "en": 6387145134112,
+            "fr": 6387146896112,
+            "enFull": 6387144922112,
+            "frFull": 6387144633112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1721,6 +2928,12 @@
           "date": "2026-01-16",
           "opponentTricode": "FLA",
           "shotType": "slap",
+          "clip": {
+            "en": 6387840608112,
+            "fr": 6387841677112,
+            "enFull": 6387839728112,
+            "frFull": 6387840609112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -1729,6 +2942,12 @@
           "date": "2026-02-01",
           "opponentTricode": "LAK",
           "shotType": "snap",
+          "clip": {
+            "en": 6388646738112,
+            "fr": 6388646545112,
+            "enFull": 6388646355112,
+            "frFull": 6388644386112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1737,6 +2956,12 @@
           "date": "2026-03-07",
           "opponentTricode": "CGY",
           "shotType": "slap",
+          "clip": {
+            "en": 6390575549112,
+            "fr": 6390576449112,
+            "enFull": 6390573805112,
+            "frFull": 6390574211112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1745,6 +2970,12 @@
           "date": "2026-03-10",
           "opponentTricode": "PIT",
           "shotType": "snap",
+          "clip": {
+            "en": 6390711202112,
+            "fr": 6390711694112,
+            "enFull": 6390710802112,
+            "frFull": 6390711992112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1753,6 +2984,12 @@
           "date": "2026-03-20",
           "opponentTricode": "TOR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391297956112,
+            "fr": 6391299639112,
+            "enFull": 6391299147112,
+            "frFull": 6391300112112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1766,6 +3003,12 @@
           "date": "2025-10-11",
           "opponentTricode": "PHI",
           "shotType": "snap",
+          "clip": {
+            "en": 6382633285112,
+            "fr": 6382635230112,
+            "enFull": 6382633287112,
+            "frFull": 6382632882112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1774,6 +3017,12 @@
           "date": "2025-10-23",
           "opponentTricode": "COL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6383666652112,
+            "fr": 6383664980112,
+            "enFull": 6383666466112,
+            "frFull": 6383665854112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1782,6 +3031,12 @@
           "date": "2025-10-28",
           "opponentTricode": "VGK",
           "shotType": "snap",
+          "clip": {
+            "en": 6384214018112,
+            "fr": 6384214812112,
+            "enFull": 6384216673112,
+            "frFull": 6384214815112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1790,6 +3045,12 @@
           "date": "2025-10-30",
           "opponentTricode": "NYI",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384321186112,
+            "fr": 6384322673112,
+            "enFull": 6384320984112,
+            "frFull": 6384320985112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1798,6 +3059,12 @@
           "date": "2025-11-09",
           "opponentTricode": "TOR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384888089112,
+            "fr": 6384889261112,
+            "enFull": 6384889060112,
+            "frFull": 6384888188112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1806,6 +3073,12 @@
           "date": "2025-12-11",
           "opponentTricode": "WSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6386360160112,
+            "fr": 6386361926112,
+            "enFull": 6386360283112,
+            "frFull": 6386361738112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1814,6 +3087,12 @@
           "date": "2026-01-04",
           "opponentTricode": "NJD",
           "shotType": "wrist",
+          "clip": {
+            "en": 6387237387112,
+            "fr": 6387235342112,
+            "enFull": 6387237385112,
+            "frFull": 6387236207112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1822,6 +3101,12 @@
           "date": "2026-01-06",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6387323524112,
+            "fr": 6387322713112,
+            "enFull": 6387324279112,
+            "frFull": 6387324773112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -1830,6 +3115,12 @@
           "date": "2026-01-08",
           "opponentTricode": "ANA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387445155112,
+            "fr": 6387446147112,
+            "enFull": 6387445361112,
+            "frFull": 6387444480112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1838,6 +3129,12 @@
           "date": "2026-01-10",
           "opponentTricode": "SEA",
           "shotType": "snap",
+          "clip": {
+            "en": 6387543859112,
+            "fr": 6387542459112,
+            "enFull": 6387542275112,
+            "frFull": 6387543075112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1846,6 +3143,12 @@
           "date": "2026-02-26",
           "opponentTricode": "TBL",
           "shotType": "snap",
+          "clip": {
+            "en": 6390015588112,
+            "fr": 6390013253112,
+            "enFull": 6390015129112,
+            "frFull": 6390014618112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1854,6 +3157,12 @@
           "date": "2026-03-10",
           "opponentTricode": "PIT",
           "shotType": "snap",
+          "clip": {
+            "en": 6390701864112,
+            "fr": 6390701565112,
+            "enFull": 6390702132112,
+            "frFull": 6390702623112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1862,6 +3171,12 @@
           "date": "2026-03-14",
           "opponentTricode": "TBL",
           "shotType": "snap",
+          "clip": {
+            "en": 6390951603112,
+            "fr": 6390951895112,
+            "enFull": 6390952867112,
+            "frFull": 6390952183112
+          },
           "goalClassification": "Empty Net"
         },
         {
@@ -1870,6 +3185,12 @@
           "date": "2026-03-18",
           "opponentTricode": "PIT",
           "shotType": "snap",
+          "clip": {
+            "en": 6391152896112,
+            "fr": 6391152399112,
+            "enFull": 6391151525112,
+            "frFull": 6391152605112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1883,6 +3204,12 @@
           "date": "2025-10-14",
           "opponentTricode": "SJS",
           "shotType": "slap",
+          "clip": {
+            "en": 6382777464112,
+            "fr": 6382778262112,
+            "enFull": 6382777073112,
+            "frFull": 6382776797112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1891,6 +3218,12 @@
           "date": "2025-10-25",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6384069569112,
+            "fr": 6384069568112,
+            "enFull": 6384069381112,
+            "frFull": 6384071459112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1899,6 +3232,12 @@
           "date": "2025-10-30",
           "opponentTricode": "NYI",
           "shotType": "wrist",
+          "clip": {
+            "en": 6384321644112,
+            "fr": 6384321837112,
+            "enFull": 6384322824112,
+            "frFull": 6384319374112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1907,6 +3246,12 @@
           "date": "2025-11-06",
           "opponentTricode": "MIN",
           "shotType": "snap",
+          "clip": {
+            "en": 6384765734112,
+            "fr": 6384765440112,
+            "enFull": 6384765335112,
+            "frFull": 6384765249112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1915,6 +3260,12 @@
           "date": "2025-11-19",
           "opponentTricode": "MIN",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6385334782112,
+            "fr": 6385334875112,
+            "enFull": 6385334685112,
+            "frFull": 6385335478112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1923,6 +3274,12 @@
           "date": "2025-11-19",
           "opponentTricode": "MIN",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6385337397112,
+            "fr": 6385337290112,
+            "enFull": 6385336609112,
+            "frFull": 6385336317112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1931,6 +3288,12 @@
           "date": "2025-12-06",
           "opponentTricode": "NSH",
           "shotType": "backhand",
+          "clip": {
+            "en": 6386139413112,
+            "fr": 6386138086112,
+            "enFull": 6386138189112,
+            "frFull": 6386140321112
+          },
           "goalClassification": null
         },
         {
@@ -1939,6 +3302,12 @@
           "date": "2025-12-06",
           "opponentTricode": "NSH",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386139396112,
+            "fr": 6386140943112,
+            "enFull": 6386140489112,
+            "frFull": 6386140292112
+          },
           "goalClassification": "Rebound/Scramble"
         },
         {
@@ -1947,6 +3316,12 @@
           "date": "2025-12-17",
           "opponentTricode": "NSH",
           "shotType": "backhand",
+          "clip": {
+            "en": 6386627354112,
+            "fr": 6386626470112,
+            "enFull": 6386626674112,
+            "frFull": 6386625714112
+          },
           "goalClassification": "Net-front"
         },
         {
@@ -1955,6 +3330,12 @@
           "date": "2025-12-20",
           "opponentTricode": "TBL",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6386769202112,
+            "fr": 6386769677112,
+            "enFull": 6386768219112,
+            "frFull": 6386768999112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1963,6 +3344,12 @@
           "date": "2025-12-27",
           "opponentTricode": "DET",
           "shotType": "deflected",
+          "clip": {
+            "en": 6386985772112,
+            "fr": 6386986052112,
+            "enFull": 6386986832112,
+            "frFull": 6386987225112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1971,6 +3358,12 @@
           "date": "2025-12-29",
           "opponentTricode": "NYR",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6387055291112,
+            "fr": 6387053131112,
+            "enFull": 6387054831112,
+            "frFull": 6387054830112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1979,6 +3372,12 @@
           "date": "2026-01-08",
           "opponentTricode": "ANA",
           "shotType": "backhand",
+          "clip": {
+            "en": 6387447202112,
+            "fr": 6387446517112,
+            "enFull": 6387445531112,
+            "frFull": 6387447685112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1987,6 +3386,12 @@
           "date": "2026-01-12",
           "opponentTricode": "DET",
           "shotType": "wrist",
+          "clip": {
+            "en": 6387634406112,
+            "fr": 6387632876112,
+            "enFull": 6387631877112,
+            "frFull": 6387634715112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1995,6 +3400,12 @@
           "date": "2026-01-17",
           "opponentTricode": "NJD",
           "shotType": "backhand",
+          "clip": {
+            "en": 6387888521112,
+            "fr": 6387888132112,
+            "enFull": 6387886670112,
+            "frFull": 6387888624112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -2003,6 +3414,12 @@
           "date": "2026-01-22",
           "opponentTricode": "CHI",
           "shotType": "snap",
+          "clip": {
+            "en": 6388118665112,
+            "fr": 6388118464112,
+            "enFull": 6388117660112,
+            "frFull": 6388120013112
+          },
           "goalClassification": "Net-front"
         },
         {
@@ -2011,6 +3428,12 @@
           "date": "2026-02-28",
           "opponentTricode": "DET",
           "shotType": "wrist",
+          "clip": {
+            "en": 6390187767112,
+            "fr": 6390189137112,
+            "enFull": 6390188142112,
+            "frFull": 6390189239112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -2019,6 +3442,12 @@
           "date": "2026-03-06",
           "opponentTricode": "EDM",
           "shotType": "slap",
+          "clip": {
+            "en": 6390528870112,
+            "fr": 6390528665112,
+            "enFull": 6390527629112,
+            "frFull": 6390528080112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -2027,6 +3456,12 @@
           "date": "2026-03-06",
           "opponentTricode": "EDM",
           "shotType": "snap",
+          "clip": {
+            "en": 6390530290112,
+            "fr": 6390529427112,
+            "enFull": 6390530386112,
+            "frFull": 6390528323112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -2035,6 +3470,12 @@
           "date": "2026-03-18",
           "opponentTricode": "PIT",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391152846112,
+            "fr": 6391150594112,
+            "enFull": 6391151557112,
+            "frFull": 6391152249112
+          },
           "goalClassification": "Rush"
         }
       ]
@@ -2048,6 +3489,12 @@
           "date": "2026-01-22",
           "opponentTricode": "CHI",
           "shotType": "snap",
+          "clip": {
+            "en": 6388111910112,
+            "fr": 6388112508112,
+            "enFull": 6388113778112,
+            "frFull": 6388113673112
+          },
           "goalClassification": "Seam"
         }
       ]
@@ -2061,6 +3508,12 @@
           "date": "2025-10-30",
           "opponentTricode": "NYI",
           "shotType": "snap",
+          "clip": {
+            "en": 6384317163112,
+            "fr": 6384314700112,
+            "enFull": 6384316669112,
+            "frFull": 6384315005112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -2069,6 +3522,12 @@
           "date": "2025-12-20",
           "opponentTricode": "TBL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6386770392112,
+            "fr": 6386770872112,
+            "enFull": 6386770483112,
+            "frFull": 6386770306112
+          },
           "goalClassification": "Net-front"
         }
       ]
@@ -2082,6 +3541,12 @@
           "date": "2025-11-08",
           "opponentTricode": "BUF",
           "shotType": "snap",
+          "clip": {
+            "en": 6384855062112,
+            "fr": 6384856315112,
+            "enFull": 6384855822112,
+            "frFull": 6384855068112
+          },
           "goalClassification": "Empty Net"
         }
       ]
