@@ -163,6 +163,12 @@
           "date": "2026-03-24",
           "opponentTricode": "VAN",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391599255112,
+            "fr": 6391600392112,
+            "enFull": 6391599518112,
+            "frFull": 6391600683112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]
@@ -718,6 +724,12 @@
           "date": "2026-03-24",
           "opponentTricode": "VAN",
           "shotType": "bat",
+          "clip": {
+            "en": 6391601183112,
+            "fr": 6391600888112,
+            "enFull": 6391599345112,
+            "frFull": 6391601185112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -726,6 +738,12 @@
           "date": "2026-03-24",
           "opponentTricode": "VAN",
           "shotType": "snap",
+          "clip": {
+            "en": 6391603646112,
+            "fr": 6391603464112,
+            "enFull": 6391603486112,
+            "frFull": 6391604138112
+          },
           "goalClassification": "Rush"
         }
       ]
@@ -1310,6 +1328,11 @@
           "date": "2026-03-24",
           "opponentTricode": "VAN",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391604697112,
+            "fr": 6391604802112,
+            "enFull": 6391604396112
+          },
           "goalClassification": "Empty Net"
         }
       ]
@@ -1931,6 +1954,12 @@
           "date": "2026-03-24",
           "opponentTricode": "VAN",
           "shotType": "snap",
+          "clip": {
+            "en": 6391604154112,
+            "fr": 6391604447112,
+            "enFull": 6391605221112,
+            "frFull": 6391605038112
+          },
           "goalClassification": "Seam"
         }
       ]

@@ -1050,6 +1050,12 @@
           "date": "2026-03-24",
           "opponentTricode": "NSH",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391583274112,
+            "fr": 6391583456112,
+            "enFull": 6391581782112,
+            "frFull": 6391583366112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2084,6 +2090,11 @@
           "date": "2026-03-24",
           "opponentTricode": "NSH",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391592759112,
+            "fr": 6391592264112,
+            "enFull": 6391593711112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -2092,6 +2103,12 @@
           "date": "2026-03-24",
           "opponentTricode": "NSH",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391596751112,
+            "fr": 6391596158112,
+            "enFull": 6391593446112,
+            "frFull": 6391595954112
+          },
           "goalClassification": null
         }
       ]

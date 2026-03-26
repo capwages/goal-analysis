@@ -1950,6 +1950,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CGY",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391588141112,
+            "fr": 6391588312112,
+            "enFull": 6391587535112,
+            "frFull": 6391588706112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -1958,6 +1964,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CGY",
           "shotType": "snap",
+          "clip": {
+            "en": 6391598002112,
+            "fr": 6391598403112,
+            "enFull": 6391598409112,
+            "frFull": 6391599668112
+          },
           "goalClassification": "Rush"
         }
       ]

@@ -458,6 +458,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CHI",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391575893112,
+            "fr": 6391576681112,
+            "enFull": 6391575296112,
+            "frFull": 6391575103112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2108,6 +2114,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CHI",
           "shotType": "snap",
+          "clip": {
+            "en": 6391589791112,
+            "fr": 6391589023112,
+            "enFull": 6391589892112,
+            "frFull": 6391589028112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2551,6 +2563,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CHI",
           "shotType": "snap",
+          "clip": {
+            "en": 6391591727112,
+            "fr": 6391590708112,
+            "enFull": 6391595051112,
+            "frFull": 6391589840112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]

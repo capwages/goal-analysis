@@ -1631,6 +1631,12 @@
           "date": "2026-03-24",
           "opponentTricode": "WPG",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391590389112,
+            "fr": 6391588346112,
+            "enFull": 6391590679112,
+            "frFull": 6391590001112
+          },
           "goalClassification": "Cycle"
         }
       ]

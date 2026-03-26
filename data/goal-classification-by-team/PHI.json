@@ -140,6 +140,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CBJ",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391578917112,
+            "fr": 6391579883112,
+            "enFull": 6391579207112,
+            "frFull": 6391580274112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2298,6 +2304,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CBJ",
           "shotType": "slap",
+          "clip": {
+            "en": 6391590957112,
+            "fr": 6391590855112,
+            "enFull": 6391592813112,
+            "frFull": 6391592718112
+          },
           "goalClassification": "Net-front"
         }
       ]

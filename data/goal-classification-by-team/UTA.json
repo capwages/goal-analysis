@@ -79,6 +79,12 @@
           "date": "2026-03-24",
           "opponentTricode": "EDM",
           "shotType": "snap",
+          "clip": {
+            "en": 6391593272112,
+            "fr": 6391594053112,
+            "enFull": 6391594918112,
+            "frFull": 6391594728112
+          },
           "goalClassification": "Rush"
         }
       ]
@@ -833,6 +839,12 @@
           "date": "2026-03-24",
           "opponentTricode": "EDM",
           "shotType": "snap",
+          "clip": {
+            "en": 6391598225112,
+            "fr": 6391597935112,
+            "enFull": 6391598415112,
+            "frFull": 6391598132112
+          },
           "goalClassification": "Cycle"
         }
       ]

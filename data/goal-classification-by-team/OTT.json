@@ -369,6 +369,12 @@
           "date": "2026-03-24",
           "opponentTricode": "DET",
           "shotType": "snap",
+          "clip": {
+            "en": 6391582288112,
+            "fr": 6391584822112,
+            "enFull": 6391582990112,
+            "frFull": 6391584826112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1758,6 +1764,12 @@
           "date": "2026-03-24",
           "opponentTricode": "DET",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391580887112,
+            "fr": 6391580805112,
+            "enFull": 6391580020112,
+            "frFull": 6391579808112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -3378,6 +3390,12 @@
           "date": "2026-03-24",
           "opponentTricode": "DET",
           "shotType": "snap",
+          "clip": {
+            "en": 6391582874112,
+            "fr": 6391582786112,
+            "enFull": 6391582491112,
+            "frFull": 6391583359112
+          },
           "goalClassification": "Cycle"
         }
       ]

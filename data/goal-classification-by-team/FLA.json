@@ -704,6 +704,12 @@
           "date": "2026-03-24",
           "opponentTricode": "SEA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391586814112,
+            "fr": 6391587787112,
+            "enFull": 6391587119112,
+            "frFull": 6391587298112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2220,6 +2226,12 @@
           "date": "2026-03-24",
           "opponentTricode": "SEA",
           "shotType": null,
+          "clip": {
+            "en": 6391589509112,
+            "fr": 6391588621112,
+            "enFull": 6391588831112,
+            "frFull": 6391590085112
+          },
           "goalClassification": "Rush"
         }
       ]
@@ -2392,6 +2404,12 @@
           "date": "2026-03-24",
           "opponentTricode": "SEA",
           "shotType": "deflected",
+          "clip": {
+            "en": 6391586022112,
+            "fr": 6391588158112,
+            "enFull": 6391586618112,
+            "frFull": 6391587023112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]
@@ -2424,6 +2442,12 @@
           "date": "2026-03-24",
           "opponentTricode": "SEA",
           "shotType": "snap",
+          "clip": {
+            "en": 6391582095112,
+            "fr": 6391580154112,
+            "enFull": 6391582000112,
+            "frFull": 6391580068112
+          },
           "goalClassification": "Rush"
         }
       ]

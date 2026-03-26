@@ -282,6 +282,34 @@
             "frFull": 6390706181112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021135,
+          "goalIndex": 2,
+          "date": "2026-03-25",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391689294112,
+            "fr": 6391690667112,
+            "enFull": 6391690276112,
+            "frFull": 6391689579112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021135,
+          "goalIndex": 5,
+          "date": "2026-03-25",
+          "opponentTricode": "BOS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391695177112,
+            "fr": 6391695597112,
+            "enFull": 6391694693112,
+            "frFull": 6391695678112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3517,6 +3545,20 @@
             "frFull": 6391423211112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021135,
+          "goalIndex": 4,
+          "date": "2026-03-25",
+          "opponentTricode": "BOS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391695579112,
+            "fr": 6391695076112,
+            "enFull": 6391697138112,
+            "frFull": 6391696737112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },

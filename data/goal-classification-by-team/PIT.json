@@ -1437,6 +1437,11 @@
           "date": "2026-03-24",
           "opponentTricode": "COL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391592709112,
+            "fr": 6391591658112,
+            "enFull": 6391591058112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]
@@ -3133,6 +3138,12 @@
           "date": "2026-03-24",
           "opponentTricode": "COL",
           "shotType": "slap",
+          "clip": {
+            "en": 6391577976112,
+            "fr": 6391577001112,
+            "enFull": 6391577488112,
+            "frFull": 6391577204112
+          },
           "goalClassification": "Cycle"
         }
       ]

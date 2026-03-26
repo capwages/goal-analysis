@@ -1158,6 +1158,12 @@
           "date": "2026-03-24",
           "opponentTricode": "OTT",
           "shotType": "snap",
+          "clip": {
+            "en": 6391587297112,
+            "fr": 6391588391112,
+            "enFull": 6391586926112,
+            "frFull": 6391587530112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1768,6 +1774,12 @@
           "date": "2026-03-24",
           "opponentTricode": "OTT",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391585238112,
+            "fr": 6391584181112,
+            "enFull": 6391583698112,
+            "frFull": 6391585742112
+          },
           "goalClassification": "Cycle"
         }
       ]

@@ -603,6 +603,12 @@
           "date": "2026-03-24",
           "opponentTricode": "TBL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391578957112,
+            "fr": 6391579146112,
+            "enFull": 6391581014112,
+            "frFull": 6391580705112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -929,6 +935,12 @@
           "date": "2026-03-24",
           "opponentTricode": "TBL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391586627112,
+            "fr": 6391588663112,
+            "enFull": 6391588968112,
+            "frFull": 6391588478112
+          },
           "goalClassification": "Broken Coverage"
         }
       ]
@@ -3152,6 +3164,12 @@
           "date": "2026-03-24",
           "opponentTricode": "TBL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391583440112,
+            "fr": 6391583919112,
+            "enFull": 6391583558112,
+            "frFull": 6391582072112
+          },
           "goalClassification": "Broken Coverage"
         }
       ]

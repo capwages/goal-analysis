@@ -622,6 +622,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CAR",
           "shotType": "snap",
+          "clip": {
+            "en": 6391592635112,
+            "fr": 6391592640112,
+            "enFull": 6391596258112,
+            "frFull": 6391593217112
+          },
           "goalClassification": "Empty Net"
         }
       ]
@@ -2114,6 +2120,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CAR",
           "shotType": "snap",
+          "clip": {
+            "en": 6391582154112,
+            "fr": 6391581673112,
+            "enFull": 6391582258112,
+            "frFull": 6391581757112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2730,6 +2742,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CAR",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391578381112,
+            "fr": 6391576426112,
+            "enFull": 6391576430112,
+            "frFull": 6391577705112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -3311,6 +3329,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CAR",
           "shotType": "deflected",
+          "clip": {
+            "en": 6391584219112,
+            "fr": 6391583358112,
+            "enFull": 6391582079112,
+            "frFull": 6391582871112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -3520,6 +3544,12 @@
           "date": "2026-03-24",
           "opponentTricode": "CAR",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391588954112,
+            "fr": 6391590037112,
+            "enFull": 6391594819112,
+            "frFull": 6391592505112
+          },
           "goalClassification": "Rush"
         }
       ]

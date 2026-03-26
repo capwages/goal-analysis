@@ -943,6 +943,12 @@
           "date": "2026-03-24",
           "opponentTricode": "NYI",
           "shotType": "snap",
+          "clip": {
+            "en": 6391581088112,
+            "fr": 6391580905112,
+            "enFull": 6391580600112,
+            "frFull": 6391580319112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1409,6 +1415,12 @@
           "date": "2026-03-24",
           "opponentTricode": "NYI",
           "shotType": "snap",
+          "clip": {
+            "en": 6391579021112,
+            "fr": 6391579022112,
+            "enFull": 6391580785112,
+            "frFull": 6391579400112
+          },
           "goalClassification": "Seam"
         }
       ]
@@ -1998,6 +2010,12 @@
           "date": "2026-03-24",
           "opponentTricode": "NYI",
           "shotType": "snap",
+          "clip": {
+            "en": 6391581865112,
+            "fr": 6391583606112,
+            "enFull": 6391582539112,
+            "frFull": 6391581467112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2552,6 +2570,12 @@
           "date": "2026-03-24",
           "opponentTricode": "NYI",
           "shotType": "snap",
+          "clip": {
+            "en": 6391577999112,
+            "fr": 6391577302112,
+            "enFull": 6391577815112,
+            "frFull": 6391577516112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]

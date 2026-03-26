@@ -398,3 +398,4 @@
 /gameday/MIN-TBL?gameId=2025021127&goal=9
 /gameday/NJD-DAL?gameId=2025021130&goal=7
 /gameday/NJD-DAL?gameId=2025021130&goal=10
+/gameday/BOS-BUF?gameId=2025021135&goal=4

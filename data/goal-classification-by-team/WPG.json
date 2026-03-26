@@ -850,6 +850,11 @@
           "date": "2026-03-24",
           "opponentTricode": "VGK",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391597182112,
+            "fr": 6391598064112,
+            "enFull": 6391597468112
+          },
           "goalClassification": "Empty Net"
         }
       ]
@@ -1689,6 +1694,12 @@
           "date": "2026-03-24",
           "opponentTricode": "VGK",
           "shotType": "slap",
+          "clip": {
+            "en": 6391586053112,
+            "fr": 6391585372112,
+            "enFull": 6391585164112,
+            "frFull": 6391585093112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2381,6 +2392,12 @@
           "date": "2026-03-24",
           "opponentTricode": "VGK",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391588559112,
+            "fr": 6391586809112,
+            "enFull": 6391586331112,
+            "frFull": 6391588461112
+          },
           "goalClassification": "Seam"
         }
       ]
@@ -2815,6 +2832,12 @@
           "date": "2026-03-24",
           "opponentTricode": "VGK",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391587405112,
+            "fr": 6391586934112,
+            "enFull": 6391586726112,
+            "frFull": 6391588673112
+          },
           "goalClassification": "Rush"
         }
       ]

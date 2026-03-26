@@ -2108,6 +2108,12 @@
           "date": "2026-03-24",
           "opponentTricode": "NJD",
           "shotType": "snap",
+          "clip": {
+            "en": 6391590645112,
+            "fr": 6391591897112,
+            "enFull": 6391594717112,
+            "frFull": 6391591533112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2683,6 +2689,11 @@
           "date": "2026-03-24",
           "opponentTricode": "NJD",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391595986112,
+            "fr": 6391596954112,
+            "enFull": 6391599320112
+          },
           "goalClassification": "Rush"
         }
       ]
@@ -3228,6 +3239,12 @@
           "date": "2026-03-24",
           "opponentTricode": "NJD",
           "shotType": "snap",
+          "clip": {
+            "en": 6391584038112,
+            "fr": 6391584226112,
+            "enFull": 6391582696112,
+            "frFull": 6391582695112
+          },
           "goalClassification": null
         },
         {
@@ -3236,6 +3253,11 @@
           "date": "2026-03-24",
           "opponentTricode": "NJD",
           "shotType": "snap",
+          "clip": {
+            "en": 6391587303112,
+            "fr": 6391587890112,
+            "enFull": 6391587504112
+          },
           "goalClassification": "Cycle"
         }
       ]

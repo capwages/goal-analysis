@@ -551,6 +551,12 @@
           "date": "2026-03-24",
           "opponentTricode": "ANA",
           "shotType": "snap",
+          "clip": {
+            "en": 6391599854112,
+            "fr": 6391600632112,
+            "enFull": 6391600635112,
+            "frFull": 6391600634112
+          },
           "goalClassification": "Seam"
         }
       ]
@@ -760,6 +766,12 @@
           "date": "2026-03-24",
           "opponentTricode": "ANA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391596172112,
+            "fr": 6391595387112,
+            "enFull": 6391594917112,
+            "frFull": 6391595007112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2013,6 +2025,12 @@
           "date": "2026-03-24",
           "opponentTricode": "ANA",
           "shotType": "snap",
+          "clip": {
+            "en": 6391604526112,
+            "fr": 6391604527112,
+            "enFull": 6391604528112,
+            "frFull": 6391602886112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]

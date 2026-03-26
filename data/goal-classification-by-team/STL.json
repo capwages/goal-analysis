@@ -1128,6 +1128,12 @@
           "date": "2026-03-24",
           "opponentTricode": "WSH",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391598679112,
+            "fr": 6391597698112,
+            "enFull": 6391599068112,
+            "frFull": 6391597799112
+          },
           "goalClassification": "Empty Net"
         }
       ]
@@ -2503,6 +2509,12 @@
           "date": "2026-03-24",
           "opponentTricode": "WSH",
           "shotType": "slap",
+          "clip": {
+            "en": 6391587293112,
+            "fr": 6391588367112,
+            "enFull": 6391587597112,
+            "frFull": 6391586817112
+          },
           "goalClassification": "Seam"
         }
       ]
@@ -2674,6 +2686,12 @@
           "date": "2026-03-24",
           "opponentTricode": "WSH",
           "shotType": "snap",
+          "clip": {
+            "en": 6391597764112,
+            "fr": 6391596702112,
+            "enFull": 6391596410112,
+            "frFull": 6391597859112
+          },
           "goalClassification": "Cycle"
         }
       ]

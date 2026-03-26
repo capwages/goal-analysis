@@ -485,6 +485,12 @@
           "date": "2026-03-24",
           "opponentTricode": "SJS",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391591841112,
+            "fr": 6391590674112,
+            "enFull": 6391592582112,
+            "frFull": 6391592410112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -652,6 +658,12 @@
           "date": "2026-03-24",
           "opponentTricode": "SJS",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391584363112,
+            "fr": 6391585058112,
+            "enFull": 6391583399112,
+            "frFull": 6391585047112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1337,6 +1349,11 @@
           "date": "2026-03-24",
           "opponentTricode": "SJS",
           "shotType": "slap",
+          "clip": {
+            "en": 6391585200112,
+            "fr": 6391587141112,
+            "enFull": 6391585800112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1797,6 +1814,12 @@
           "date": "2026-03-24",
           "opponentTricode": "SJS",
           "shotType": "tip-in",
+          "clip": {
+            "en": 6391583708112,
+            "fr": 6391581966112,
+            "enFull": 6391582438112,
+            "frFull": 6391582437112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2521,6 +2544,11 @@
           "date": "2026-03-24",
           "opponentTricode": "SJS",
           "shotType": "deflected",
+          "clip": {
+            "en": 6391585940112,
+            "fr": 6391584374112,
+            "enFull": 6391585836112
+          },
           "goalClassification": "Broken Coverage"
         }
       ]
@@ -3026,6 +3054,12 @@
           "date": "2026-03-24",
           "opponentTricode": "SJS",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391584337112,
+            "fr": 6391585425112,
+            "enFull": 6391583073112,
+            "frFull": 6391583778112
+          },
           "goalClassification": "Seam"
         }
       ]

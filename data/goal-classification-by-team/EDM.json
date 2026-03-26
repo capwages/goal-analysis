@@ -2354,6 +2354,12 @@
           "date": "2026-03-24",
           "opponentTricode": "UTA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391598913112,
+            "fr": 6391599781112,
+            "enFull": 6391598915112,
+            "frFull": 6391599302112
+          },
           "goalClassification": "Rush"
         },
         {
@@ -2362,6 +2368,10 @@
           "date": "2026-03-24",
           "opponentTricode": "UTA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391603470112,
+            "fr": 6391604728112
+          },
           "goalClassification": "Empty Net"
         }
       ]
@@ -2613,6 +2623,12 @@
           "date": "2026-03-24",
           "opponentTricode": "UTA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391594092112,
+            "fr": 6391595140112,
+            "enFull": 6391594769112,
+            "frFull": 6391595141112
+          },
           "goalClassification": "Seam"
         },
         {
@@ -2621,6 +2637,12 @@
           "date": "2026-03-24",
           "opponentTricode": "UTA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391597844112,
+            "fr": 6391598924112,
+            "enFull": 6391598028112,
+            "frFull": 6391599890112
+          },
           "goalClassification": null
         }
       ]
@@ -3500,6 +3522,12 @@
           "date": "2026-03-24",
           "opponentTricode": "UTA",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391599769112,
+            "fr": 6391598230112,
+            "enFull": 6391599679112,
+            "frFull": 6391598330112
+          },
           "goalClassification": "Cycle"
         }
       ]

@@ -1183,6 +1183,12 @@
           "date": "2026-03-24",
           "opponentTricode": "PHI",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391581367112,
+            "fr": 6391581440112,
+            "enFull": 6391581370112,
+            "frFull": 6391581249112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]
@@ -1551,6 +1557,12 @@
           "date": "2026-03-24",
           "opponentTricode": "PHI",
           "shotType": "snap",
+          "clip": {
+            "en": 6391588203112,
+            "fr": 6391588026112,
+            "enFull": 6391587805112,
+            "frFull": 6391587241112
+          },
           "goalClassification": "Seam"
         }
       ]
@@ -1835,6 +1847,12 @@
           "date": "2026-03-24",
           "opponentTricode": "PHI",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391581346112,
+            "fr": 6391580553112,
+            "enFull": 6391581434112,
+            "frFull": 6391582023112
+          },
           "goalClassification": "Rush"
         }
       ]

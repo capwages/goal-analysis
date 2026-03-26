@@ -243,6 +243,11 @@
           "date": "2026-03-24",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6391598062112,
+            "fr": 6391597963112,
+            "enFull": 6391600187112
+          },
           "goalClassification": "Empty Net"
         }
       ]
@@ -485,6 +490,12 @@
           "date": "2026-03-24",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6391584080112,
+            "fr": 6391584079112,
+            "enFull": 6391583978112,
+            "frFull": 6391584083112
+          },
           "goalClassification": "Seam"
         }
       ]
@@ -783,6 +794,11 @@
           "date": "2026-03-24",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6391595947112,
+            "fr": 6391594794112,
+            "enFull": 6391597241112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1034,6 +1050,12 @@
           "date": "2026-03-24",
           "opponentTricode": "DAL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391584053112,
+            "fr": 6391584330112,
+            "enFull": 6391584643112,
+            "frFull": 6391584335112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1991,6 +2013,12 @@
           "date": "2026-03-24",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6391582933112,
+            "fr": 6391583135112,
+            "enFull": 6391583812112,
+            "frFull": 6391583711112
+          },
           "goalClassification": "Cycle"
         },
         {
@@ -1999,6 +2027,12 @@
           "date": "2026-03-24",
           "opponentTricode": "DAL",
           "shotType": "snap",
+          "clip": {
+            "en": 6391585770112,
+            "fr": 6391586067112,
+            "enFull": 6391585102112,
+            "frFull": 6391584697112
+          },
           "goalClassification": "Rush"
         }
       ]

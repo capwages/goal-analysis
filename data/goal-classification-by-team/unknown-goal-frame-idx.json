@@ -4398,5 +4398,16 @@
     "opponentTricode": "DAL",
     "shotType": "snap",
     "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021135,
+    "goalIndex": 4,
+    "date": "2026-03-25",
+    "gamedayPath": "/gameday/BOS-BUF?gameId=2025021135&goal=4",
+    "teamAbbrev": "BUF",
+    "scorerId": 8484145,
+    "opponentTricode": "BOS",
+    "shotType": "wrist",
+    "goalClassification": "Net-front"
   }
 ]

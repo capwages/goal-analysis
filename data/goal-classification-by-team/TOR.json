@@ -350,6 +350,20 @@
             "frFull": 6391360427112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021136,
+          "goalIndex": 6,
+          "date": "2026-03-25",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391697047112,
+            "fr": 6391695972112,
+            "enFull": 6391695190112,
+            "frFull": 6391697448112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -850,6 +864,20 @@
             "frFull": 6385276747112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021136,
+          "goalIndex": 1,
+          "date": "2026-03-25",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391689052112,
+            "fr": 6391687678112,
+            "enFull": 6391688579112,
+            "frFull": 6391686409112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1002,6 +1030,12 @@
           "date": "2026-03-24",
           "opponentTricode": "BOS",
           "shotType": "backhand",
+          "clip": {
+            "en": 6391585191112,
+            "fr": 6391585862112,
+            "enFull": 6391586464112,
+            "frFull": 6391586354112
+          },
           "goalClassification": "Rush"
         }
       ]
@@ -1370,6 +1404,12 @@
           "date": "2026-03-24",
           "opponentTricode": "BOS",
           "shotType": "snap",
+          "clip": {
+            "en": 6391588397112,
+            "fr": 6391589085112,
+            "enFull": 6391589114112,
+            "frFull": 6391589383112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -1501,6 +1541,20 @@
             "frFull": 6391290704112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021136,
+          "goalIndex": 3,
+          "date": "2026-03-25",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391691405112,
+            "fr": 6391691511112,
+            "enFull": 6391690952112,
+            "frFull": 6391690149112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2328,6 +2382,20 @@
           "shotType": "wrap-around",
           "clip": {},
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021136,
+          "goalIndex": 2,
+          "date": "2026-03-25",
+          "opponentTricode": "NYR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391688790112,
+            "fr": 6391688994112,
+            "enFull": 6391687829112,
+            "frFull": 6391687214112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3064,6 +3132,12 @@
           "date": "2026-03-24",
           "opponentTricode": "BOS",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391581662112,
+            "fr": 6391583526112,
+            "enFull": 6391582954112,
+            "frFull": 6391582551112
+          },
           "goalClassification": "Broken Coverage"
         },
         {
@@ -3072,6 +3146,12 @@
           "date": "2026-03-24",
           "opponentTricode": "BOS",
           "shotType": "poke",
+          "clip": {
+            "en": 6391594024112,
+            "fr": 6391592555112,
+            "enFull": 6391594640112,
+            "frFull": 6391592941112
+          },
           "goalClassification": "Empty Net"
         }
       ]

@@ -818,6 +818,12 @@
           "date": "2026-03-24",
           "opponentTricode": "LAK",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391595710112,
+            "fr": 6391596873112,
+            "enFull": 6391595318112,
+            "frFull": 6391596304112
+          },
           "goalClassification": "Cycle"
         }
       ]
@@ -2511,6 +2517,12 @@
           "date": "2026-03-24",
           "opponentTricode": "LAK",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391600420112,
+            "fr": 6391601686112,
+            "enFull": 6391601411112,
+            "frFull": 6391601307112
+          },
           "goalClassification": "Cycle"
         }
       ]

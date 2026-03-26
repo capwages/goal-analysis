@@ -247,6 +247,12 @@
           "date": "2026-03-24",
           "opponentTricode": "MTL",
           "shotType": "wrist",
+          "clip": {
+            "en": 6391577881112,
+            "fr": 6391578083112,
+            "enFull": 6391578780112,
+            "frFull": 6391578482112
+          },
           "goalClassification": "Rush"
         }
       ]
@@ -1296,6 +1302,12 @@
           "date": "2026-03-24",
           "opponentTricode": "MTL",
           "shotType": "snap",
+          "clip": {
+            "en": 6391575514112,
+            "fr": 6391576084112,
+            "enFull": 6391576480112,
+            "frFull": 6391576206112
+          },
           "goalClassification": "Cycle"
         }
       ]
