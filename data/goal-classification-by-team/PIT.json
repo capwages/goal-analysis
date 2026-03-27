@@ -814,6 +814,20 @@
             "frFull": 6391343996112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021138,
+          "goalIndex": 4,
+          "date": "2026-03-26",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391793627112,
+            "fr": 6391794614112,
+            "enFull": 6391794039112,
+            "frFull": 6391793335112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1443,6 +1457,34 @@
             "enFull": 6391591058112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021138,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391790897112,
+            "fr": 6391791893112,
+            "enFull": 6391790406112,
+            "frFull": 6391790322112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021138,
+          "goalIndex": 5,
+          "date": "2026-03-26",
+          "opponentTricode": "OTT",
+          "shotType": "slap",
+          "clip": {
+            "en": 6391799039112,
+            "fr": 6391797301112,
+            "enFull": 6391798370112,
+            "frFull": 6391799042112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

@@ -856,6 +856,34 @@
             "enFull": 6391597468112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021145,
+          "goalIndex": 1,
+          "date": "2026-03-26",
+          "opponentTricode": "COL",
+          "shotType": "slap",
+          "clip": {
+            "en": 6391795727112,
+            "fr": 6391795155112,
+            "enFull": 6391795332112,
+            "frFull": 6391795253112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021145,
+          "goalIndex": 5,
+          "date": "2026-03-26",
+          "opponentTricode": "COL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6391805708112,
+            "fr": 6391805508112,
+            "enFull": 6391804810112,
+            "frFull": 6391803477112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

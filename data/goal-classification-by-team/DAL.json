@@ -385,6 +385,20 @@
             "frFull": 6390830347112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021141,
+          "goalIndex": 3,
+          "date": "2026-03-26",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391799469112,
+            "fr": 6391799582112,
+            "enFull": 6391799994112,
+            "frFull": 6391800282112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

@@ -4409,5 +4409,60 @@
     "opponentTricode": "BOS",
     "shotType": "wrist",
     "goalClassification": "Net-front"
+  },
+  {
+    "gameId": 2025021139,
+    "goalIndex": 4,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/SEA-TBL?gameId=2025021139&goal=4",
+    "teamAbbrev": "SEA",
+    "scorerId": 8482259,
+    "opponentTricode": "TBL",
+    "shotType": "snap",
+    "goalClassification": "Rebound/Scramble"
+  },
+  {
+    "gameId": 2025021140,
+    "goalIndex": 2,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/MIN-FLA?gameId=2025021140&goal=2",
+    "teamAbbrev": "MIN",
+    "scorerId": 8477451,
+    "opponentTricode": "FLA",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021143,
+    "goalIndex": 3,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/SJS-STL?gameId=2025021143&goal=3",
+    "teamAbbrev": "STL",
+    "scorerId": 8482077,
+    "opponentTricode": "SJS",
+    "shotType": "backhand",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021146,
+    "goalIndex": 2,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/WSH-UTA?gameId=2025021146&goal=2",
+    "teamAbbrev": "UTA",
+    "scorerId": 8482699,
+    "opponentTricode": "WSH",
+    "shotType": "slap",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021148,
+    "goalIndex": 4,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/EDM-VGK?gameId=2025021148&goal=4",
+    "teamAbbrev": "VGK",
+    "scorerId": 8475913,
+    "opponentTricode": "EDM",
+    "shotType": "backhand",
+    "goalClassification": "Cycle"
   }
 ]

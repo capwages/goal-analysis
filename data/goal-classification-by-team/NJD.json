@@ -800,6 +800,20 @@
             "enFull": 6391597241112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021144,
+          "goalIndex": 6,
+          "date": "2026-03-26",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391806135112,
+            "fr": 6391805933112,
+            "enFull": 6391804563112,
+            "frFull": 6391805935112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1057,6 +1071,20 @@
             "frFull": 6391584335112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021144,
+          "goalIndex": 1,
+          "date": "2026-03-26",
+          "opponentTricode": "NSH",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6391796744112,
+            "fr": 6391796745112,
+            "enFull": 6391798511112,
+            "frFull": 6391795667112
+          },
+          "goalClassification": null
         }
       ]
     },
@@ -1613,6 +1641,34 @@
             "frFull": 6391148382112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021144,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "NSH",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6391799464112,
+            "fr": 6391798984112,
+            "enFull": 6391799944112,
+            "frFull": 6391800993112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021144,
+          "goalIndex": 5,
+          "date": "2026-03-26",
+          "opponentTricode": "NSH",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6391804537112,
+            "fr": 6391804626112,
+            "enFull": 6391805913112,
+            "frFull": 6391804935112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },

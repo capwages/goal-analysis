@@ -3038,5 +3038,55 @@
     "scorerId": 8478458,
     "opponentTricode": "UTA",
     "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021142,
+    "goalIndex": 5,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/CHI-PHI?gameId=2025021142&goal=5",
+    "teamAbbrev": "PHI",
+    "scorerId": 8480220,
+    "opponentTricode": "CHI",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021143,
+    "goalIndex": 3,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/SJS-STL?gameId=2025021143&goal=3",
+    "teamAbbrev": "STL",
+    "scorerId": 8482077,
+    "opponentTricode": "SJS",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021144,
+    "goalIndex": 1,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/NJD-NSH?gameId=2025021144&goal=1",
+    "teamAbbrev": "NJD",
+    "scorerId": 8479407,
+    "opponentTricode": "NSH",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021144,
+    "goalIndex": 2,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/NJD-NSH?gameId=2025021144&goal=2",
+    "teamAbbrev": "NJD",
+    "scorerId": 8480002,
+    "opponentTricode": "NSH",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025021146,
+    "goalIndex": 2,
+    "date": "2026-03-26",
+    "gamedayPath": "/gameday/WSH-UTA?gameId=2025021146&goal=2",
+    "teamAbbrev": "UTA",
+    "scorerId": 8482699,
+    "opponentTricode": "WSH",
+    "shotType": "slap"
   }
 ]

@@ -540,6 +540,20 @@
             "frFull": 6391348576112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021137,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "MTL",
+          "shotType": "slap",
+          "clip": {
+            "en": 6391790726112,
+            "fr": 6391792277112,
+            "enFull": 6391792195112,
+            "frFull": 6391791891112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

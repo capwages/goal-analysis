@@ -2006,6 +2006,20 @@
             "frFull": 6391157197112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021143,
+          "goalIndex": 3,
+          "date": "2026-03-26",
+          "opponentTricode": "SJS",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391805381112,
+            "fr": 6391805382112,
+            "enFull": 6391806558112,
+            "frFull": 6391806457112
+          },
+          "goalClassification": null
         }
       ]
     },
@@ -2660,6 +2674,20 @@
             "frFull": 6390989326112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021143,
+          "goalIndex": 1,
+          "date": "2026-03-26",
+          "opponentTricode": "SJS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391801491112,
+            "fr": 6391800623112,
+            "enFull": 6391800443112,
+            "frFull": 6391799643112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

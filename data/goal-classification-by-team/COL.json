@@ -1768,6 +1768,34 @@
             "frFull": 6391577171112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021145,
+          "goalIndex": 3,
+          "date": "2026-03-26",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391801828112,
+            "fr": 6391800550112,
+            "enFull": 6391802357112,
+            "frFull": 6391803695112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021145,
+          "goalIndex": 4,
+          "date": "2026-03-26",
+          "opponentTricode": "WPG",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6391803811112,
+            "fr": 6391803237112,
+            "enFull": 6391803899112,
+            "frFull": 6391802537112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3510,6 +3538,20 @@
             "frFull": 6388294066112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021145,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391795179112,
+            "fr": 6391796552112,
+            "enFull": 6391796564112,
+            "frFull": 6391796260112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

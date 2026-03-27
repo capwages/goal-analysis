@@ -529,6 +529,34 @@
             "frFull": 6388865451112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021148,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "EDM",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391805500112,
+            "fr": 6391806983112,
+            "enFull": 6391807731112,
+            "frFull": 6391807055112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021148,
+          "goalIndex": 4,
+          "date": "2026-03-26",
+          "opponentTricode": "EDM",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391807105112,
+            "fr": 6391806501112,
+            "enFull": 6391808771112,
+            "frFull": 6391808083112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1542,6 +1570,20 @@
             "fr": 6391418833112,
             "enFull": 6391419888112,
             "frFull": 6391419112112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021148,
+          "goalIndex": 6,
+          "date": "2026-03-26",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391810792112,
+            "fr": 6391810420112,
+            "enFull": 6391810599112,
+            "frFull": 6391811106112
           },
           "goalClassification": "Rebound/Scramble"
         }

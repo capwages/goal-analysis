@@ -198,6 +198,25 @@
       ]
     },
     {
+      "id": 8477346,
+      "goals": [
+        {
+          "gameId": 2025021146,
+          "goalIndex": 9,
+          "date": "2026-03-26",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391809415112,
+            "fr": 6391809200112,
+            "enFull": 6391809201112,
+            "frFull": 6391809884112
+          },
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
       "id": 8477951,
       "goals": [
         {
@@ -2950,6 +2969,34 @@
             "frFull": 6391301041112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021146,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "WSH",
+          "shotType": "slap",
+          "clip": {
+            "en": 6391799419112,
+            "fr": 6391799420112,
+            "enFull": 6391799319112,
+            "frFull": 6391801078112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021146,
+          "goalIndex": 3,
+          "date": "2026-03-26",
+          "opponentTricode": "WSH",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391802376112,
+            "fr": 6391801221112,
+            "enFull": 6391800634112,
+            "frFull": 6391802580112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3182,6 +3229,20 @@
           "opponentTricode": "CBJ",
           "shotType": "slap",
           "clip": {},
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021146,
+          "goalIndex": 4,
+          "date": "2026-03-26",
+          "opponentTricode": "WSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391801445112,
+            "fr": 6391803018112,
+            "enFull": 6391801154112,
+            "frFull": 6391801449112
+          },
           "goalClassification": "Rebound/Scramble"
         }
       ]

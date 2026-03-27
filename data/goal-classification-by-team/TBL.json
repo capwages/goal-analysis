@@ -30,6 +30,20 @@
             "frFull": 6390604687112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021139,
+          "goalIndex": 6,
+          "date": "2026-03-26",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391794576112,
+            "fr": 6391795362112,
+            "enFull": 6391793983112,
+            "frFull": 6391796426112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1423,6 +1437,20 @@
             "frFull": 6391588981112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021139,
+          "goalIndex": 5,
+          "date": "2026-03-26",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391794449112,
+            "fr": 6391794656112,
+            "enFull": 6391794156112,
+            "frFull": 6391796010112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2502,6 +2530,20 @@
             "frFull": 6391370265112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021139,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391792497112,
+            "fr": 6391792496112,
+            "enFull": 6391790234112,
+            "frFull": 6391790838112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

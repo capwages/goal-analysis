@@ -302,3 +302,8 @@
 /gameday/SJS-NSH?gameId=2025021129&goal=9
 /gameday/NJD-DAL?gameId=2025021130&goal=2
 /gameday/EDM-UTA?gameId=2025021132&goal=6
+/gameday/CHI-PHI?gameId=2025021142&goal=5
+/gameday/SJS-STL?gameId=2025021143&goal=3
+/gameday/NJD-NSH?gameId=2025021144&goal=1
+/gameday/NJD-NSH?gameId=2025021144&goal=2
+/gameday/WSH-UTA?gameId=2025021146&goal=2

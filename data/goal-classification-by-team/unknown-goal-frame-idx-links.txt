@@ -399,3 +399,8 @@
 /gameday/NJD-DAL?gameId=2025021130&goal=7
 /gameday/NJD-DAL?gameId=2025021130&goal=10
 /gameday/BOS-BUF?gameId=2025021135&goal=4
+/gameday/SEA-TBL?gameId=2025021139&goal=4
+/gameday/MIN-FLA?gameId=2025021140&goal=2
+/gameday/SJS-STL?gameId=2025021143&goal=3
+/gameday/WSH-UTA?gameId=2025021146&goal=2
+/gameday/EDM-VGK?gameId=2025021148&goal=4

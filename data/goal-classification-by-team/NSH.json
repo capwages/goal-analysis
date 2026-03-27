@@ -492,6 +492,20 @@
             "frFull": 6391592410112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021144,
+          "goalIndex": 4,
+          "date": "2026-03-26",
+          "opponentTricode": "NJD",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391799494112,
+            "fr": 6391800295112,
+            "enFull": 6391800178112,
+            "frFull": 6391799898112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2743,6 +2757,20 @@
             "frFull": 6390717500112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021144,
+          "goalIndex": 3,
+          "date": "2026-03-26",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391798003112,
+            "fr": 6391798401112,
+            "enFull": 6391798601112,
+            "frFull": 6391799575112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

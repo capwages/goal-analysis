@@ -842,6 +842,20 @@
             "frFull": 6390709231112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021143,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391804407112,
+            "fr": 6391803336112,
+            "enFull": 6391804322112,
+            "frFull": 6391803831112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

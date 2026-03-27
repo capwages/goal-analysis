@@ -554,6 +554,20 @@
             "frFull": 6388851707112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021138,
+          "goalIndex": 3,
+          "date": "2026-03-26",
+          "opponentTricode": "PIT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391792652112,
+            "fr": 6391793524112,
+            "enFull": 6391792441112,
+            "frFull": 6391794297112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -1471,6 +1485,34 @@
             "frFull": 6390991537112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021138,
+          "goalIndex": 1,
+          "date": "2026-03-26",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391789894112,
+            "fr": 6391789488112,
+            "enFull": 6391787923112,
+            "frFull": 6391789687112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021138,
+          "goalIndex": 6,
+          "date": "2026-03-26",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391798671112,
+            "fr": 6391799853112,
+            "enFull": 6391798284112,
+            "frFull": 6391798662112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

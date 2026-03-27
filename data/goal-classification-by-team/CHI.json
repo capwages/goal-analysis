@@ -2474,6 +2474,20 @@
             "frFull": 6391409190112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021142,
+          "goalIndex": 4,
+          "date": "2026-03-26",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391795941112,
+            "fr": 6391795270112,
+            "enFull": 6391794789112,
+            "frFull": 6391796049112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

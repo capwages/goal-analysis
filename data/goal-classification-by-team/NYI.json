@@ -1453,6 +1453,20 @@
             "frFull": 6391414834112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021141,
+          "goalIndex": 1,
+          "date": "2026-03-26",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391788798112,
+            "fr": 6391789021112,
+            "enFull": 6391788911112,
+            "frFull": 6391790764112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2570,6 +2584,20 @@
             "frFull": 6391589840112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021141,
+          "goalIndex": 2,
+          "date": "2026-03-26",
+          "opponentTricode": "DAL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6391798446112,
+            "fr": 6391797958112,
+            "enFull": 6391796608112,
+            "frFull": 6391797961112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

@@ -530,6 +530,20 @@
             "frFull": 6391107334112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021148,
+          "goalIndex": 5,
+          "date": "2026-03-26",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391809458112,
+            "fr": 6391808176112,
+            "enFull": 6391807586112,
+            "frFull": 6391808214112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2373,6 +2387,20 @@
             "fr": 6391604728112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021148,
+          "goalIndex": 3,
+          "date": "2026-03-26",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391807157112,
+            "fr": 6391807067112,
+            "enFull": 6391808149112,
+            "frFull": 6391806706112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3009,6 +3037,20 @@
             "frFull": 6390824975112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021148,
+          "goalIndex": 7,
+          "date": "2026-03-26",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391814296112,
+            "fr": 6391812150112,
+            "enFull": 6391814209112,
+            "frFull": 6391812454112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3527,6 +3569,20 @@
             "fr": 6391598230112,
             "enFull": 6391599679112,
             "frFull": 6391598330112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021148,
+          "goalIndex": 1,
+          "date": "2026-03-26",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391802245112,
+            "fr": 6391802857112,
+            "enFull": 6391802541112,
+            "frFull": 6391803249112
           },
           "goalClassification": "Cycle"
         }
