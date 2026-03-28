@@ -1409,6 +1409,20 @@
             "frFull": 6391350435112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021150,
+          "goalIndex": 4,
+          "date": "2026-03-27",
+          "opponentTricode": "DET",
+          "shotType": "slap",
+          "clip": {
+            "en": 6391896415112,
+            "fr": 6391896127112,
+            "enFull": 6391896129112,
+            "frFull": 6391896325112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2148,6 +2162,20 @@
             "frFull": 6391352509112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021150,
+          "goalIndex": 6,
+          "date": "2026-03-27",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391903118112,
+            "fr": 6391903896112,
+            "enFull": 6391903512112,
+            "frFull": 6391902922112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

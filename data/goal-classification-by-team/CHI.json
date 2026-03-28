@@ -2591,6 +2591,20 @@
             "frFull": 6391577516112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021151,
+          "goalIndex": 1,
+          "date": "2026-03-27",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391893699112,
+            "fr": 6391893206112,
+            "enFull": 6391893413112,
+            "frFull": 6391894210112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
