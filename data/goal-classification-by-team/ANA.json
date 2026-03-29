@@ -2615,6 +2615,20 @@
             "frFull": 6391309144112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021154,
+          "goalIndex": 5,
+          "date": "2026-03-28",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391986934112,
+            "fr": 6391987022112,
+            "enFull": 6391986846112,
+            "frFull": 6391987218112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3370,6 +3384,20 @@
             "fr": 6391421437112,
             "enFull": 6391421057112,
             "frFull": 6391422120112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021154,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "EDM",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6391985836112,
+            "fr": 6391986322112,
+            "enFull": 6391985545112,
+            "frFull": 6391987304112
           },
           "goalClassification": "Rebound/Scramble"
         }

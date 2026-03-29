@@ -878,6 +878,20 @@
             "frFull": 6391686409112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021160,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392002102112,
+            "fr": 6392003790112,
+            "enFull": 6392002532112,
+            "frFull": 6392002515112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

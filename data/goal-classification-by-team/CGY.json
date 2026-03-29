@@ -820,6 +820,15 @@
             "frFull": 6391425102112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "VAN",
+          "shotType": "tip-in",
+          "clip": {},
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -838,6 +847,15 @@
             "enFull": 6391595318112,
             "frFull": 6391596304112
           },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 5,
+          "date": "2026-03-28",
+          "opponentTricode": "VAN",
+          "shotType": "poke",
+          "clip": {},
           "goalClassification": "Cycle"
         }
       ]
@@ -1404,6 +1422,15 @@
             "frFull": 6391421301112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 6,
+          "date": "2026-03-28",
+          "opponentTricode": "VAN",
+          "shotType": "backhand",
+          "clip": {},
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1631,6 +1658,20 @@
             "frFull": 6391300836112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 2,
+          "date": "2026-03-28",
+          "opponentTricode": "VAN",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392007761112,
+            "fr": 6392007871112,
+            "enFull": 6392008463112,
+            "frFull": 6392009536112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2392,6 +2433,20 @@
             "frFull": 6391306484112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392008243112,
+            "fr": 6392007165112,
+            "enFull": 6392007864112,
+            "frFull": 6392009634112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2467,6 +2522,15 @@
             "frFull": 6387873874112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 10,
+          "date": "2026-03-28",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2538,6 +2602,15 @@
             "frFull": 6391601307112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 8,
+          "date": "2026-03-28",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Seam"
         }
       ]
     },

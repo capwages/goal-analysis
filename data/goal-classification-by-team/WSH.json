@@ -1291,6 +1291,15 @@
             "frFull": 6388612512112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021166,
+          "goalIndex": 8,
+          "date": "2026-03-28",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "clip": {},
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1478,6 +1487,15 @@
             "frFull": 6391808099112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021166,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "VGK",
+          "shotType": "tip-in",
+          "clip": {},
+          "goalClassification": null
         }
       ]
     },
@@ -2788,6 +2806,15 @@
             "frFull": 6391397338112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021166,
+          "goalIndex": 2,
+          "date": "2026-03-28",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "clip": {},
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2835,6 +2862,15 @@
             "frFull": 6390652662112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021166,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Rush"
         }
       ]
     },

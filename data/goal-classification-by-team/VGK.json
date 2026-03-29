@@ -235,6 +235,20 @@
       ]
     },
     {
+      "id": 8475343,
+      "goals": [
+        {
+          "gameId": 2025021166,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "clip": {},
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
       "id": 8475913,
       "goals": [
         {
@@ -1680,6 +1694,15 @@
             "frFull": 6391590001112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021166,
+          "goalIndex": 5,
+          "date": "2026-03-28",
+          "opponentTricode": "WSH",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2021,6 +2044,15 @@
             "frFull": 6390835897112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021166,
+          "goalIndex": 6,
+          "date": "2026-03-28",
+          "opponentTricode": "WSH",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2381,6 +2413,15 @@
             "frFull": 6390834310112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021166,
+          "goalIndex": 7,
+          "date": "2026-03-28",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "clip": {},
+          "goalClassification": "Net-front"
         }
       ]
     },

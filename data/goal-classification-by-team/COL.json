@@ -628,6 +628,20 @@
             "frFull": 6391404067112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021162,
+          "goalIndex": 2,
+          "date": "2026-03-28",
+          "opponentTricode": "WPG",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6391994337112,
+            "fr": 6391995606112,
+            "enFull": 6391994053112,
+            "frFull": 6391994522112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3421,6 +3435,20 @@
             "frFull": 6391580117112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021162,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "WPG",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392002264112,
+            "fr": 6392002170112,
+            "enFull": 6392001008112,
+            "frFull": 6392000118112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

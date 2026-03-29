@@ -1069,6 +1069,20 @@
             "frFull": 6388700478112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 5,
+          "date": "2026-03-28",
+          "opponentTricode": "PIT",
+          "shotType": "slap",
+          "clip": {
+            "en": 6391989279112,
+            "fr": 6391987901112,
+            "enFull": 6391988099112,
+            "frFull": 6391989158112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2129,6 +2143,20 @@
             "frFull": 6391591533112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391989646112,
+            "fr": 6391988173112,
+            "enFull": 6391988773112,
+            "frFull": 6391988470112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2709,6 +2737,34 @@
             "enFull": 6391599320112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 8,
+          "date": "2026-03-28",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391994843112,
+            "fr": 6391995431112,
+            "enFull": 6391995136112,
+            "frFull": 6391994730112
+          },
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 9,
+          "date": "2026-03-28",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391995452112,
+            "fr": 6391994547112,
+            "enFull": 6391995057112,
+            "frFull": 6391994652112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -3320,6 +3376,20 @@
             "frFull": 6390300289112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 6,
+          "date": "2026-03-28",
+          "opponentTricode": "PIT",
+          "shotType": "slap",
+          "clip": {
+            "en": 6391989694112,
+            "fr": 6391990170112,
+            "enFull": 6391990177112,
+            "frFull": 6391988211112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3479,6 +3549,20 @@
             "frFull": 6391417885112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 2,
+          "date": "2026-03-28",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391986589112,
+            "fr": 6391988328112,
+            "enFull": 6391987280112,
+            "frFull": 6391988822112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     }

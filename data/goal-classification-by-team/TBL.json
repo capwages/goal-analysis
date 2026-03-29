@@ -1451,6 +1451,20 @@
             "frFull": 6391796010112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021152,
+          "goalIndex": 6,
+          "date": "2026-03-28",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391976613112,
+            "fr": 6391976207112,
+            "enFull": 6391976306112,
+            "frFull": 6391975429112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3005,6 +3019,20 @@
             "enFull": 6391599564112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021152,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391965684112,
+            "fr": 6391966444112,
+            "enFull": 6391967918112,
+            "frFull": 6391968220112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -3064,6 +3092,20 @@
             "fr": 6390949753112,
             "enFull": 6390949469112,
             "frFull": 6390947900112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021152,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391967246112,
+            "fr": 6391966776112,
+            "enFull": 6391967843112,
+            "frFull": 6391968629112
           },
           "goalClassification": "Rebound/Scramble"
         }
@@ -3571,6 +3613,20 @@
             "frFull": 6385152034112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021152,
+          "goalIndex": 5,
+          "date": "2026-03-28",
+          "opponentTricode": "OTT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391973018112,
+            "fr": 6391972819112,
+            "enFull": 6391972323112,
+            "frFull": 6391973518112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

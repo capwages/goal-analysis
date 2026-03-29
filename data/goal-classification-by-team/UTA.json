@@ -86,6 +86,34 @@
             "frFull": 6391594728112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021164,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "LAK",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392002911112,
+            "fr": 6392002108112,
+            "enFull": 6392001926112,
+            "frFull": 6392003400112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021164,
+          "goalIndex": 5,
+          "date": "2026-03-28",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392010139112,
+            "fr": 6392009472112,
+            "enFull": 6392009554112,
+            "frFull": 6392009859112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -582,6 +610,19 @@
             "frFull": 6391428887112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021164,
+          "goalIndex": 6,
+          "date": "2026-03-28",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392009082112,
+            "fr": 6392010259112,
+            "enFull": 6392009573112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2175,6 +2216,15 @@
             "frFull": 6391224581112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021164,
+          "goalIndex": 8,
+          "date": "2026-03-28",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -3244,6 +3294,34 @@
             "frFull": 6391801449112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021164,
+          "goalIndex": 2,
+          "date": "2026-03-28",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392004059112,
+            "fr": 6392004823112,
+            "enFull": 6392006496112,
+            "frFull": 6392005522112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021164,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392005042112,
+            "fr": 6392006923112,
+            "enFull": 6392006526112,
+            "frFull": 6392006147112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

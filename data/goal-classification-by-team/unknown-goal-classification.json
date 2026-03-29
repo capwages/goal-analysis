@@ -3088,5 +3088,75 @@
     "scorerId": 8482699,
     "opponentTricode": "WSH",
     "shotType": "slap"
+  },
+  {
+    "gameId": 2025021152,
+    "goalIndex": 1,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/OTT-TBL?gameId=2025021152&goal=1",
+    "teamAbbrev": "OTT",
+    "scorerId": 8481528,
+    "opponentTricode": "TBL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021153,
+    "goalIndex": 6,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/FLA-NYI?gameId=2025021153&goal=6",
+    "teamAbbrev": "NYI",
+    "scorerId": 8482476,
+    "opponentTricode": "FLA",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021154,
+    "goalIndex": 3,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/ANA-EDM?gameId=2025021154&goal=3",
+    "teamAbbrev": "EDM",
+    "scorerId": 8483512,
+    "opponentTricode": "ANA",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021160,
+    "goalIndex": 5,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/TOR-STL?gameId=2025021160&goal=5",
+    "teamAbbrev": "STL",
+    "scorerId": 8482077,
+    "opponentTricode": "TOR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021163,
+    "goalIndex": 2,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/PHI-DET?gameId=2025021163&goal=2",
+    "teamAbbrev": "PHI",
+    "scorerId": 8480015,
+    "opponentTricode": "DET",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021163,
+    "goalIndex": 3,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/PHI-DET?gameId=2025021163&goal=3",
+    "teamAbbrev": "PHI",
+    "scorerId": 8480220,
+    "opponentTricode": "DET",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021166,
+    "goalIndex": 3,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/WSH-VGK?gameId=2025021166&goal=3",
+    "teamAbbrev": "WSH",
+    "scorerId": 8478463,
+    "opponentTricode": "VGK",
+    "shotType": "tip-in"
   }
 ]

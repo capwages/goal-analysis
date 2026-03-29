@@ -828,6 +828,20 @@
             "frFull": 6391793335112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391989426112,
+            "fr": 6391988645112,
+            "enFull": 6391986081112,
+            "frFull": 6391989029112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1943,6 +1957,20 @@
             "frFull": 6391053540112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "DAL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6391982127112,
+            "fr": 6391983299112,
+            "enFull": 6391984073112,
+            "frFull": 6391981737112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2355,6 +2383,20 @@
             "frFull": 6391056596112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021156,
+          "goalIndex": 7,
+          "date": "2026-03-28",
+          "opponentTricode": "DAL",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6391995291112,
+            "fr": 6391994993112,
+            "enFull": 6391993223112,
+            "frFull": 6391993141112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

@@ -404,3 +404,9 @@
 /gameday/SJS-STL?gameId=2025021143&goal=3
 /gameday/WSH-UTA?gameId=2025021146&goal=2
 /gameday/EDM-VGK?gameId=2025021148&goal=4
+/gameday/DAL-PIT?gameId=2025021156&goal=8
+/gameday/NJD-CAR?gameId=2025021157&goal=6
+/gameday/TOR-STL?gameId=2025021160&goal=5
+/gameday/PHI-DET?gameId=2025021163&goal=2
+/gameday/PHI-DET?gameId=2025021163&goal=3
+/gameday/WSH-VGK?gameId=2025021166&goal=5

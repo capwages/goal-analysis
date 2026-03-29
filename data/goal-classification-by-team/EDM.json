@@ -544,6 +544,20 @@
             "frFull": 6391808214112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021154,
+          "goalIndex": 6,
+          "date": "2026-03-28",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391987184112,
+            "fr": 6391986593112,
+            "enFull": 6391986072112,
+            "frFull": 6391987560112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -2401,6 +2415,20 @@
             "frFull": 6391806706112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021154,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "ANA",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391981652112,
+            "fr": 6391981563112,
+            "enFull": 6391980090112,
+            "frFull": 6391981854112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2672,6 +2700,20 @@
             "frFull": 6391599890112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021154,
+          "goalIndex": 2,
+          "date": "2026-03-28",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391985007112,
+            "fr": 6391983857112,
+            "enFull": 6391985605112,
+            "frFull": 6391984836112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3585,6 +3627,20 @@
             "frFull": 6391803249112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021154,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "ANA",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6391984048112,
+            "fr": 6391986296112,
+            "enFull": 6391986113112,
+            "frFull": 6391986596112
+          },
+          "goalClassification": null
         }
       ]
     },

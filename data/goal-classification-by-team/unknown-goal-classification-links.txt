@@ -307,3 +307,10 @@
 /gameday/NJD-NSH?gameId=2025021144&goal=1
 /gameday/NJD-NSH?gameId=2025021144&goal=2
 /gameday/WSH-UTA?gameId=2025021146&goal=2
+/gameday/OTT-TBL?gameId=2025021152&goal=1
+/gameday/FLA-NYI?gameId=2025021153&goal=6
+/gameday/ANA-EDM?gameId=2025021154&goal=3
+/gameday/TOR-STL?gameId=2025021160&goal=5
+/gameday/PHI-DET?gameId=2025021163&goal=2
+/gameday/PHI-DET?gameId=2025021163&goal=3
+/gameday/WSH-VGK?gameId=2025021166&goal=3

@@ -161,6 +161,15 @@
             "frFull": 6391788029112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021163,
+          "goalIndex": 8,
+          "date": "2026-03-28",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1427,6 +1436,48 @@
             "frFull": 6391349733112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021163,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391998209112,
+            "fr": 6392000647112,
+            "enFull": 6391999680112,
+            "frFull": 6391998889112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021163,
+          "goalIndex": 2,
+          "date": "2026-03-28",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392006299112,
+            "fr": 6392006109112,
+            "enFull": 6392006606112,
+            "frFull": 6392004646112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021163,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "DET",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392007981112,
+            "fr": 6392007982112,
+            "enFull": 6392008379112,
+            "frFull": 6392010043112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1640,6 +1691,20 @@
             "fr": 6391794377112,
             "enFull": 6391796547112,
             "frFull": 6391796639112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021163,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392007213112,
+            "fr": 6392006053112,
+            "enFull": 6392006058112,
+            "frFull": 6392007422112
           },
           "goalClassification": null
         }

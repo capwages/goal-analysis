@@ -2195,6 +2195,34 @@
             "frFull": 6391797484112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021153,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "NYI",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6391961431112,
+            "fr": 6391961829112,
+            "enFull": 6391962993112,
+            "frFull": 6391961916112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021153,
+          "goalIndex": 2,
+          "date": "2026-03-28",
+          "opponentTricode": "NYI",
+          "shotType": "between-legs",
+          "clip": {
+            "en": 6391965185112,
+            "fr": 6391965590112,
+            "enFull": 6391963163112,
+            "frFull": 6391964210112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

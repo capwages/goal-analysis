@@ -4464,5 +4464,71 @@
     "opponentTricode": "EDM",
     "shotType": "backhand",
     "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021156,
+    "goalIndex": 8,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/DAL-PIT?gameId=2025021156&goal=8",
+    "teamAbbrev": "DAL",
+    "scorerId": 8482145,
+    "opponentTricode": "PIT",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021157,
+    "goalIndex": 6,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/NJD-CAR?gameId=2025021157&goal=6",
+    "teamAbbrev": "CAR",
+    "scorerId": 8482093,
+    "opponentTricode": "NJD",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021160,
+    "goalIndex": 5,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/TOR-STL?gameId=2025021160&goal=5",
+    "teamAbbrev": "STL",
+    "scorerId": 8482077,
+    "opponentTricode": "TOR",
+    "shotType": "snap",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021163,
+    "goalIndex": 2,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/PHI-DET?gameId=2025021163&goal=2",
+    "teamAbbrev": "PHI",
+    "scorerId": 8480015,
+    "opponentTricode": "DET",
+    "shotType": "wrist",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021163,
+    "goalIndex": 3,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/PHI-DET?gameId=2025021163&goal=3",
+    "teamAbbrev": "PHI",
+    "scorerId": 8480220,
+    "opponentTricode": "DET",
+    "shotType": "wrist",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021166,
+    "goalIndex": 5,
+    "date": "2026-03-28",
+    "gamedayPath": "/gameday/WSH-VGK?gameId=2025021166&goal=5",
+    "teamAbbrev": "VGK",
+    "scorerId": 8478397,
+    "opponentTricode": "WSH",
+    "shotType": "wrist",
+    "goalClassification": "Rush"
   }
 ]

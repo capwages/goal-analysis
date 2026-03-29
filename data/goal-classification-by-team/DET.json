@@ -1254,6 +1254,15 @@
             "frFull": 6387120924112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021163,
+          "goalIndex": 5,
+          "date": "2026-03-28",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {},
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1762,6 +1771,15 @@
             "frFull": 6391890024112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021163,
+          "goalIndex": 6,
+          "date": "2026-03-28",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2504,6 +2522,15 @@
             "enFull": 6391892490112,
             "frFull": 6391890528112
           },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021163,
+          "goalIndex": 7,
+          "date": "2026-03-28",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {},
           "goalClassification": "Cycle"
         }
       ]

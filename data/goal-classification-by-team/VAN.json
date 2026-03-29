@@ -773,6 +773,15 @@
             "frFull": 6391595007112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 7,
+          "date": "2026-03-28",
+          "opponentTricode": "CGY",
+          "shotType": "tip-in",
+          "clip": {},
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1789,6 +1798,15 @@
             "frFull": 6390409974112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 9,
+          "date": "2026-03-28",
+          "opponentTricode": "CGY",
+          "shotType": "tip-in",
+          "clip": {},
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2317,6 +2335,15 @@
             "enFull": 6391228255112,
             "frFull": 6391227072112
           },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021165,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "CGY",
+          "shotType": "snap",
+          "clip": {},
           "goalClassification": "Rebound/Scramble"
         }
       ]

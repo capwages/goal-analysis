@@ -315,6 +315,20 @@
             "frFull": 6391228157112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021164,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "UTA",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392005323112,
+            "fr": 6392005114112,
+            "enFull": 6392005914112,
+            "frFull": 6392005821112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -1293,6 +1307,15 @@
             "frFull": 6390891348112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021164,
+          "goalIndex": 7,
+          "date": "2026-03-28",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "clip": {},
+          "goalClassification": "Cycle"
         }
       ]
     },

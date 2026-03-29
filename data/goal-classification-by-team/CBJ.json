@@ -2818,6 +2818,20 @@
             "frFull": 6391356509112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021158,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "SJS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6391991346112,
+            "fr": 6391989306112,
+            "enFull": 6391991163112,
+            "frFull": 6391988712112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2975,6 +2989,20 @@
             "fr": 6391100707112,
             "enFull": 6391100216112,
             "frFull": 6391100109112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021158,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391982499112,
+            "fr": 6391982328112,
+            "enFull": 6391984378112,
+            "frFull": 6391982631112
           },
           "goalClassification": "Cycle"
         }

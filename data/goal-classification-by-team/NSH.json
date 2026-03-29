@@ -2635,6 +2635,20 @@
             "frFull": 6390561262112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021161,
+          "goalIndex": 5,
+          "date": "2026-03-28",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392005934112,
+            "fr": 6392006426112,
+            "enFull": 6392005933112,
+            "frFull": 6392005938112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

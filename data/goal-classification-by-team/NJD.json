@@ -1,6 +1,25 @@
 {
   "players": [
     {
+      "id": 8474149,
+      "goals": [
+        {
+          "gameId": 2025021157,
+          "goalIndex": 7,
+          "date": "2026-03-28",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391994257112,
+            "fr": 6391995806112,
+            "enFull": 6391996604112,
+            "frFull": 6391995428112
+          },
+          "goalClassification": "Rebound/Scramble"
+        }
+      ]
+    },
+    {
       "id": 8475455,
       "goals": [
         {
@@ -814,6 +833,20 @@
             "frFull": 6391805935112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021157,
+          "goalIndex": 1,
+          "date": "2026-03-28",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391985416112,
+            "fr": 6391985326112,
+            "enFull": 6391986412112,
+            "frFull": 6391984462112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

@@ -2176,6 +2176,20 @@
             "frFull": 6391902922112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021159,
+          "goalIndex": 3,
+          "date": "2026-03-28",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391992653112,
+            "fr": 6391993200112,
+            "enFull": 6391993700112,
+            "frFull": 6391992544112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2307,6 +2321,20 @@
             "frFull": 6390116058112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021159,
+          "goalIndex": 4,
+          "date": "2026-03-28",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6391997125112,
+            "fr": 6391996852112,
+            "enFull": 6391995865112,
+            "frFull": 6391997735112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
