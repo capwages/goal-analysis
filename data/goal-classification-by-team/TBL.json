@@ -44,6 +44,20 @@
             "frFull": 6391796426112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021168,
+          "goalIndex": 5,
+          "date": "2026-03-29",
+          "opponentTricode": "NSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392093377112,
+            "fr": 6392094173112,
+            "enFull": 6392093115112,
+            "frFull": 6392092310112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1465,6 +1479,20 @@
             "frFull": 6391975429112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021168,
+          "goalIndex": 2,
+          "date": "2026-03-29",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392090445112,
+            "fr": 6392088193112,
+            "enFull": 6392090535112,
+            "frFull": 6392089678112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -3033,6 +3061,20 @@
             "frFull": 6391968220112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021168,
+          "goalIndex": 3,
+          "date": "2026-03-29",
+          "opponentTricode": "NSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392092014112,
+            "fr": 6392092594112,
+            "enFull": 6392092494112,
+            "frFull": 6392090826112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

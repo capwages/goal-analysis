@@ -1138,6 +1138,20 @@
             "frFull": 6391495076112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021167,
+          "goalIndex": 2,
+          "date": "2026-03-29",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392074437112,
+            "fr": 6392074248112,
+            "enFull": 6392074445112,
+            "frFull": 6392075446112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1756,6 +1770,20 @@
             "frFull": 6390821293112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021167,
+          "goalIndex": 3,
+          "date": "2026-03-29",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392077497112,
+            "fr": 6392076225112,
+            "enFull": 6392075749112,
+            "frFull": 6392076736112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -2752,6 +2780,20 @@
             "frFull": 6391897423112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021167,
+          "goalIndex": 1,
+          "date": "2026-03-29",
+          "opponentTricode": "FLA",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392074097112,
+            "fr": 6392074711112,
+            "enFull": 6392074903112,
+            "frFull": 6392075391112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

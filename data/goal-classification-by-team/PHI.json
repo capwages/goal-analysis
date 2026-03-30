@@ -914,6 +914,20 @@
             "frFull": 6391227758112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021172,
+          "goalIndex": 1,
+          "date": "2026-03-29",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392096567112,
+            "fr": 6392097745112,
+            "enFull": 6392099110112,
+            "frFull": 6392096569112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2018,6 +2032,20 @@
             "fr": 6390761257112,
             "enFull": 6390763604112,
             "frFull": 6390762157112
+          },
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021172,
+          "goalIndex": 3,
+          "date": "2026-03-29",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392102789112,
+            "fr": 6392101820112,
+            "enFull": 6392103875112,
+            "frFull": 6392102916112
           },
           "goalClassification": "Broken Coverage"
         }

@@ -240,6 +240,20 @@
             "frFull": 6391099442112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021170,
+          "goalIndex": 3,
+          "date": "2026-03-29",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392086228112,
+            "fr": 6392087900112,
+            "enFull": 6392086441112,
+            "frFull": 6392085860112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -402,6 +416,20 @@
             "fr": 6391219005112,
             "enFull": 6391216469112,
             "frFull": 6391217072112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021170,
+          "goalIndex": 1,
+          "date": "2026-03-29",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392084133112,
+            "fr": 6392085883112,
+            "enFull": 6392083727112,
+            "frFull": 6392084696112
           },
           "goalClassification": "Rush"
         }
@@ -1578,6 +1606,20 @@
             "frFull": 6391587241112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021170,
+          "goalIndex": 2,
+          "date": "2026-03-29",
+          "opponentTricode": "BOS",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392085295112,
+            "fr": 6392083730112,
+            "enFull": 6392084320112,
+            "frFull": 6392083733112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

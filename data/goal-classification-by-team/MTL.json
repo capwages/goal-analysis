@@ -1066,6 +1066,34 @@
             "frFull": 6391099412112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021169,
+          "goalIndex": 2,
+          "date": "2026-03-29",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392089138112,
+            "fr": 6392088677112,
+            "enFull": 6392088263112,
+            "frFull": 6392090229112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021169,
+          "goalIndex": 4,
+          "date": "2026-03-29",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392091374112,
+            "fr": 6392091465112,
+            "enFull": 6392091267112,
+            "frFull": 6392091753112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2139,6 +2167,20 @@
             "fr": 6392000016112,
             "enFull": 6391999523112,
             "frFull": 6392001667112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021169,
+          "goalIndex": 3,
+          "date": "2026-03-29",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392090090112,
+            "fr": 6392091638112,
+            "enFull": 6392089482112,
+            "frFull": 6392090094112
           },
           "goalClassification": "Seam"
         }

@@ -2929,6 +2929,20 @@
             "frFull": 6388863096112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021167,
+          "goalIndex": 4,
+          "date": "2026-03-29",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392077900112,
+            "fr": 6392077800112,
+            "enFull": 6392077299112,
+            "frFull": 6392075761112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

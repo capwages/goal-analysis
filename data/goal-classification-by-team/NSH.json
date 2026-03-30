@@ -1835,6 +1835,20 @@
             "frFull": 6391582437112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021168,
+          "goalIndex": 4,
+          "date": "2026-03-29",
+          "opponentTricode": "TBL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392091920112,
+            "fr": 6392093876112,
+            "enFull": 6392092917112,
+            "frFull": 6392093282112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2696,6 +2710,25 @@
             "frFull": 6391000236112
           },
           "goalClassification": "Broken Coverage"
+        }
+      ]
+    },
+    {
+      "id": 8483465,
+      "goals": [
+        {
+          "gameId": 2025021168,
+          "goalIndex": 1,
+          "date": "2026-03-29",
+          "opponentTricode": "TBL",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392088859112,
+            "fr": 6392087984112,
+            "enFull": 6392087578112,
+            "frFull": 6392089640112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

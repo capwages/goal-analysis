@@ -3158,5 +3158,15 @@
     "scorerId": 8478463,
     "opponentTricode": "VGK",
     "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021171,
+    "goalIndex": 1,
+    "date": "2026-03-29",
+    "gamedayPath": "/gameday/CHI-NJD?gameId=2025021171&goal=1",
+    "teamAbbrev": "CHI",
+    "scorerId": 8481624,
+    "opponentTricode": "NJD",
+    "shotType": "wrist"
   }
 ]

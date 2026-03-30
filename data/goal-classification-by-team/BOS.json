@@ -1473,6 +1473,34 @@
             "frFull": 6391995714112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021170,
+          "goalIndex": 5,
+          "date": "2026-03-29",
+          "opponentTricode": "CBJ",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392093980112,
+            "fr": 6392093891112,
+            "enFull": 6392093139112,
+            "frFull": 6392093693112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021170,
+          "goalIndex": 6,
+          "date": "2026-03-29",
+          "opponentTricode": "CBJ",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392093953112,
+            "fr": 6392095812112,
+            "enFull": 6392095313112,
+            "frFull": 6392094625112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1617,6 +1645,20 @@
             "enFull": 6391588343112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021170,
+          "goalIndex": 4,
+          "date": "2026-03-29",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392093965112,
+            "fr": 6392094065112,
+            "enFull": 6392092516112,
+            "frFull": 6392093873112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

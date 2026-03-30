@@ -2489,6 +2489,20 @@
             "frFull": 6391100201112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021169,
+          "goalIndex": 1,
+          "date": "2026-03-29",
+          "opponentTricode": "MTL",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392085801112,
+            "fr": 6392086387112,
+            "enFull": 6392084435112,
+            "frFull": 6392086697112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
