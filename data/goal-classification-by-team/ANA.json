@@ -174,6 +174,25 @@
       ]
     },
     {
+      "id": 8474590,
+      "goals": [
+        {
+          "gameId": 2025021176,
+          "goalIndex": 4,
+          "date": "2026-03-30",
+          "opponentTricode": "TOR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392212406112,
+            "fr": 6392212206112,
+            "enFull": 6392214759112,
+            "frFull": 6392214300112
+          },
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
       "id": 8475184,
       "goals": [
         {
@@ -2629,6 +2648,20 @@
             "frFull": 6391987218112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021176,
+          "goalIndex": 2,
+          "date": "2026-03-30",
+          "opponentTricode": "TOR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392208933112,
+            "fr": 6392209402112,
+            "enFull": 6392208651112,
+            "frFull": 6392208345112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3087,6 +3120,34 @@
             "frFull": 6391160650112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021176,
+          "goalIndex": 1,
+          "date": "2026-03-30",
+          "opponentTricode": "TOR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392207225112,
+            "fr": 6392207224112,
+            "enFull": 6392208209112,
+            "frFull": 6392207223112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021176,
+          "goalIndex": 8,
+          "date": "2026-03-30",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392220437112,
+            "fr": 6392218086112,
+            "enFull": 6392220248112,
+            "frFull": 6392220538112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

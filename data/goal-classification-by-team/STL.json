@@ -470,6 +470,20 @@
             "frFull": 6390903210112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021177,
+          "goalIndex": 8,
+          "date": "2026-03-30",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392216658112,
+            "fr": 6392218716112,
+            "enFull": 6392216866112,
+            "frFull": 6392217929112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -779,6 +793,20 @@
             "frFull": 6391358140112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021177,
+          "goalIndex": 4,
+          "date": "2026-03-30",
+          "opponentTricode": "SJS",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392210217112,
+            "fr": 6392209071112,
+            "enFull": 6392210324112,
+            "frFull": 6392208488112
+          },
+          "goalClassification": null
         }
       ]
     },
@@ -1838,6 +1866,20 @@
             "frFull": 6392003865112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021177,
+          "goalIndex": 7,
+          "date": "2026-03-30",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392215885112,
+            "fr": 6392214248112,
+            "enFull": 6392216474112,
+            "frFull": 6392215100112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2763,6 +2805,25 @@
             "frFull": 6391799643112
           },
           "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8484188,
+      "goals": [
+        {
+          "gameId": 2025021177,
+          "goalIndex": 1,
+          "date": "2026-03-30",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392207002112,
+            "fr": 6392206040112,
+            "enFull": 6392206220112,
+            "frFull": 6392206348112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

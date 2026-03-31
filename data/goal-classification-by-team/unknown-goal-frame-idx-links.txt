@@ -411,3 +411,4 @@
 /gameday/PHI-DET?gameId=2025021163&goal=3
 /gameday/WSH-VGK?gameId=2025021166&goal=5
 /gameday/FLA-NYR?gameId=2025021167&goal=3
+/gameday/PIT-NYI?gameId=2025021173&goal=1

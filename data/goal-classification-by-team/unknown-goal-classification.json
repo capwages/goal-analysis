@@ -3168,5 +3168,25 @@
     "scorerId": 8481624,
     "opponentTricode": "NJD",
     "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021173,
+    "goalIndex": 5,
+    "date": "2026-03-30",
+    "gamedayPath": "/gameday/PIT-NYI?gameId=2025021173&goal=5",
+    "teamAbbrev": "PIT",
+    "scorerId": 8476483,
+    "opponentTricode": "NYI",
+    "shotType": "deflected"
+  },
+  {
+    "gameId": 2025021177,
+    "goalIndex": 4,
+    "date": "2026-03-30",
+    "gamedayPath": "/gameday/STL-SJS?gameId=2025021177&goal=4",
+    "teamAbbrev": "STL",
+    "scorerId": 8477402,
+    "opponentTricode": "SJS",
+    "shotType": "tip-in"
   }
 ]

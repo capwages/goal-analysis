@@ -1258,6 +1258,20 @@
             "frFull": 6391153567112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021173,
+          "goalIndex": 11,
+          "date": "2026-03-30",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392204367112,
+            "fr": 6392202990112,
+            "enFull": 6392202905112,
+            "frFull": 6392203109112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1499,6 +1513,34 @@
             "frFull": 6391799042112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021173,
+          "goalIndex": 5,
+          "date": "2026-03-30",
+          "opponentTricode": "NYI",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392196746112,
+            "fr": 6392196252112,
+            "enFull": 6392196341112,
+            "frFull": 6392197711112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021173,
+          "goalIndex": 10,
+          "date": "2026-03-30",
+          "opponentTricode": "NYI",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392201199112,
+            "fr": 6392200611112,
+            "enFull": 6392201779112,
+            "frFull": 6392202655112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1969,6 +2011,34 @@
             "fr": 6391983299112,
             "enFull": 6391984073112,
             "frFull": 6391981737112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021173,
+          "goalIndex": 7,
+          "date": "2026-03-30",
+          "opponentTricode": "NYI",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392198434112,
+            "fr": 6392196067112,
+            "enFull": 6392196852112,
+            "frFull": 6392197454112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021173,
+          "goalIndex": 8,
+          "date": "2026-03-30",
+          "opponentTricode": "NYI",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392198641112,
+            "fr": 6392197767112,
+            "enFull": 6392199412112,
+            "frFull": 6392198154112
           },
           "goalClassification": "Cycle"
         }
@@ -2458,6 +2528,20 @@
             "frFull": 6390163041112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021173,
+          "goalIndex": 6,
+          "date": "2026-03-30",
+          "opponentTricode": "NYI",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392198009112,
+            "fr": 6392197354112,
+            "enFull": 6392196658112,
+            "frFull": 6392197348112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3028,6 +3112,20 @@
             "frFull": 6391052628112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021173,
+          "goalIndex": 3,
+          "date": "2026-03-30",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392196235112,
+            "fr": 6392197792112,
+            "enFull": 6392194957112,
+            "frFull": 6392195463112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3293,6 +3391,20 @@
             "fr": 6388848618112,
             "enFull": 6388849880112,
             "frFull": 6388849878112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021173,
+          "goalIndex": 9,
+          "date": "2026-03-30",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392201085112,
+            "fr": 6392202456112,
+            "enFull": 6392201192112,
+            "frFull": 6392200400112
           },
           "goalClassification": "Rebound/Scramble"
         }

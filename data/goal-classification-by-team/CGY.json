@@ -829,6 +829,20 @@
           "shotType": "tip-in",
           "clip": {},
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021174,
+          "goalIndex": 10,
+          "date": "2026-03-30",
+          "opponentTricode": "COL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392210771112,
+            "fr": 6392210404112,
+            "enFull": 6392211696112,
+            "frFull": 6392211968112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2447,6 +2461,25 @@
             "frFull": 6392009634112
           },
           "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8482747,
+      "goals": [
+        {
+          "gameId": 2025021174,
+          "goalIndex": 6,
+          "date": "2026-03-30",
+          "opponentTricode": "COL",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392204587112,
+            "fr": 6392205075112,
+            "enFull": 6392203337112,
+            "frFull": 6392203013112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

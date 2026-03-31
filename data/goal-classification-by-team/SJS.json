@@ -856,6 +856,34 @@
             "frFull": 6391803831112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021177,
+          "goalIndex": 2,
+          "date": "2026-03-30",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392208410112,
+            "fr": 6392208109112,
+            "enFull": 6392208117112,
+            "frFull": 6392207623112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021177,
+          "goalIndex": 6,
+          "date": "2026-03-30",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392212293112,
+            "fr": 6392212981112,
+            "enFull": 6392212686112,
+            "frFull": 6392212584112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1071,6 +1099,20 @@
             "frFull": 6391583366112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021177,
+          "goalIndex": 9,
+          "date": "2026-03-30",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392217878112,
+            "fr": 6392219731112,
+            "enFull": 6392218853112,
+            "frFull": 6392219737112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2633,6 +2675,34 @@
             "frFull": 6391992212112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021177,
+          "goalIndex": 3,
+          "date": "2026-03-30",
+          "opponentTricode": "STL",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392209216112,
+            "fr": 6392208348112,
+            "enFull": 6392208250112,
+            "frFull": 6392209911112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021177,
+          "goalIndex": 5,
+          "date": "2026-03-30",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392207676112,
+            "fr": 6392210717112,
+            "enFull": 6392208079112,
+            "frFull": 6392208281112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

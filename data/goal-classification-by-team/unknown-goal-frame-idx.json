@@ -4541,5 +4541,16 @@
     "opponentTricode": "FLA",
     "shotType": "wrist",
     "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021173,
+    "goalIndex": 1,
+    "date": "2026-03-30",
+    "gamedayPath": "/gameday/PIT-NYI?gameId=2025021173&goal=1",
+    "teamAbbrev": "NYI",
+    "scorerId": 8475314,
+    "opponentTricode": "PIT",
+    "shotType": "backhand",
+    "goalClassification": "Cycle"
   }
 ]
