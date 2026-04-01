@@ -1179,6 +1179,20 @@
             "frFull": 6391587530112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021183,
+          "goalIndex": 4,
+          "date": "2026-03-31",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392299572112,
+            "fr": 6392299853112,
+            "enFull": 6392300439112,
+            "frFull": 6392298775112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

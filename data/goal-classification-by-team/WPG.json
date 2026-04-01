@@ -1258,6 +1258,20 @@
             "frFull": 6391100985112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021186,
+          "goalIndex": 2,
+          "date": "2026-03-31",
+          "opponentTricode": "CHI",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392306699112,
+            "fr": 6392306697112,
+            "enFull": 6392308404112,
+            "frFull": 6392305138112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1743,6 +1757,20 @@
             "frFull": 6392004453112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021186,
+          "goalIndex": 7,
+          "date": "2026-03-31",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392312407112,
+            "fr": 6392314254112,
+            "enFull": 6392312780112,
+            "frFull": 6392314462112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2923,6 +2951,20 @@
             "frFull": 6392003250112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021186,
+          "goalIndex": 3,
+          "date": "2026-03-31",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392308118112,
+            "fr": 6392308423112,
+            "enFull": 6392307945112,
+            "frFull": 6392306659112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2942,6 +2984,20 @@
             "frFull": 6390824061112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021186,
+          "goalIndex": 4,
+          "date": "2026-03-31",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392308723112,
+            "fr": 6392308350112,
+            "enFull": 6392307846112,
+            "frFull": 6392309015112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

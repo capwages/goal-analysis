@@ -726,6 +726,20 @@
             "frFull": 6391695689112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021182,
+          "goalIndex": 5,
+          "date": "2026-03-31",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392304974112,
+            "fr": 6392305068112,
+            "enFull": 6392304981112,
+            "frFull": 6392304880112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -941,6 +955,20 @@
             "frFull": 6391897651112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021182,
+          "goalIndex": 2,
+          "date": "2026-03-31",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392298897112,
+            "fr": 6392297033112,
+            "enFull": 6392298119112,
+            "frFull": 6392298223112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1152,6 +1180,20 @@
             "frFull": 6392075446112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021182,
+          "goalIndex": 1,
+          "date": "2026-03-31",
+          "opponentTricode": "NJD",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392295920112,
+            "fr": 6392296113112,
+            "enFull": 6392296319112,
+            "frFull": 6392294833112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2761,6 +2803,20 @@
             "frFull": 6390945756112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021182,
+          "goalIndex": 4,
+          "date": "2026-03-31",
+          "opponentTricode": "NJD",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392302832112,
+            "fr": 6392300092112,
+            "enFull": 6392300385112,
+            "frFull": 6392301667112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

@@ -4552,5 +4552,71 @@
     "opponentTricode": "PIT",
     "shotType": "backhand",
     "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021178,
+    "goalIndex": 7,
+    "date": "2026-03-31",
+    "gamedayPath": "/gameday/DAL-BOS?gameId=2025021178&goal=7",
+    "teamAbbrev": "BOS",
+    "scorerId": 8478042,
+    "opponentTricode": "DAL",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021178,
+    "goalIndex": 9,
+    "date": "2026-03-31",
+    "gamedayPath": "/gameday/DAL-BOS?gameId=2025021178&goal=9",
+    "teamAbbrev": "BOS",
+    "scorerId": 8478042,
+    "opponentTricode": "DAL",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021179,
+    "goalIndex": 6,
+    "date": "2026-03-31",
+    "gamedayPath": "/gameday/NYI-BUF?gameId=2025021179&goal=6",
+    "teamAbbrev": "BUF",
+    "scorerId": 8481524,
+    "opponentTricode": "NYI",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021180,
+    "goalIndex": 4,
+    "date": "2026-03-31",
+    "gamedayPath": "/gameday/MTL-TBL?gameId=2025021180&goal=4",
+    "teamAbbrev": "MTL",
+    "scorerId": 8476875,
+    "opponentTricode": "TBL",
+    "shotType": "slap",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021184,
+    "goalIndex": 10,
+    "date": "2026-03-31",
+    "gamedayPath": "/gameday/PHI-WSH?gameId=2025021184&goal=10",
+    "teamAbbrev": "WSH",
+    "scorerId": 8476880,
+    "opponentTricode": "PHI",
+    "shotType": "snap",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021185,
+    "goalIndex": 7,
+    "date": "2026-03-31",
+    "gamedayPath": "/gameday/CAR-CBJ?gameId=2025021185&goal=7",
+    "teamAbbrev": "CAR",
+    "scorerId": 8476921,
+    "opponentTricode": "CBJ",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
   }
 ]

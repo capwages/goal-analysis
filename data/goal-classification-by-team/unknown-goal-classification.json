@@ -3188,5 +3188,25 @@
     "scorerId": 8477402,
     "opponentTricode": "SJS",
     "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021179,
+    "goalIndex": 5,
+    "date": "2026-03-31",
+    "gamedayPath": "/gameday/NYI-BUF?gameId=2025021179&goal=5",
+    "teamAbbrev": "BUF",
+    "scorerId": 8481522,
+    "opponentTricode": "NYI",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021184,
+    "goalIndex": 2,
+    "date": "2026-03-31",
+    "gamedayPath": "/gameday/PHI-WSH?gameId=2025021184&goal=2",
+    "teamAbbrev": "WSH",
+    "scorerId": 8471214,
+    "opponentTricode": "PHI",
+    "shotType": "snap"
   }
 ]

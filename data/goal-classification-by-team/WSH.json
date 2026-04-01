@@ -408,6 +408,34 @@
             "frFull": 6391811502112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021184,
+          "goalIndex": 2,
+          "date": "2026-03-31",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392298313112,
+            "fr": 6392299498112,
+            "enFull": 6392298411112,
+            "frFull": 6392298911112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021184,
+          "goalIndex": 8,
+          "date": "2026-03-31",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392305681112,
+            "fr": 6392303802112,
+            "enFull": 6392303912112,
+            "frFull": 6392305391112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -968,6 +996,34 @@
             "frFull": 6391151414112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021184,
+          "goalIndex": 1,
+          "date": "2026-03-31",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392296238112,
+            "fr": 6392297994112,
+            "enFull": 6392297126112,
+            "frFull": 6392297597112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021184,
+          "goalIndex": 10,
+          "date": "2026-03-31",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392308101112,
+            "fr": 6392306641112,
+            "enFull": 6392308409112,
+            "frFull": 6392308692112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1854,6 +1910,20 @@
             "fr": 6390826099112,
             "enFull": 6390828235112,
             "frFull": 6390825999112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021184,
+          "goalIndex": 5,
+          "date": "2026-03-31",
+          "opponentTricode": "PHI",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392300364112,
+            "fr": 6392302020112,
+            "enFull": 6392301234112,
+            "frFull": 6392302120112
           },
           "goalClassification": "Cycle"
         }
@@ -3291,6 +3361,20 @@
             "frFull": 6391292056112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021184,
+          "goalIndex": 6,
+          "date": "2026-03-31",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392303552112,
+            "fr": 6392302298112,
+            "enFull": 6392302987112,
+            "frFull": 6392303075112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

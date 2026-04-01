@@ -361,6 +361,20 @@
             "frFull": 6391995736112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021178,
+          "goalIndex": 5,
+          "date": "2026-03-31",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392302811112,
+            "fr": 6392303386112,
+            "enFull": 6392303384112,
+            "frFull": 6392303005112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1104,6 +1118,48 @@
             "frFull": 6391989762112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021178,
+          "goalIndex": 2,
+          "date": "2026-03-31",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392298401112,
+            "fr": 6392297813112,
+            "enFull": 6392298212112,
+            "frFull": 6392296746112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021178,
+          "goalIndex": 7,
+          "date": "2026-03-31",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392304929112,
+            "fr": 6392306190112,
+            "enFull": 6392305525112,
+            "frFull": 6392304931112
+          },
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021178,
+          "goalIndex": 9,
+          "date": "2026-03-31",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392306399112,
+            "fr": 6392307295112,
+            "enFull": 6392305342112,
+            "frFull": 6392307978112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -2644,6 +2700,25 @@
       ]
     },
     {
+      "id": 8480035,
+      "goals": [
+        {
+          "gameId": 2025021178,
+          "goalIndex": 6,
+          "date": "2026-03-31",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392304489112,
+            "fr": 6392305665112,
+            "enFull": 6392303426112,
+            "frFull": 6392304203112
+          },
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
       "id": 8480355,
       "goals": [
         {
@@ -3074,6 +3149,20 @@
             "frFull": 6391366987112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021178,
+          "goalIndex": 1,
+          "date": "2026-03-31",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392296895112,
+            "fr": 6392296520112,
+            "enFull": 6392295135112,
+            "frFull": 6392296804112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

@@ -1493,6 +1493,20 @@
             "frFull": 6392089678112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021180,
+          "goalIndex": 2,
+          "date": "2026-03-31",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392298487112,
+            "fr": 6392298618112,
+            "enFull": 6392298699112,
+            "frFull": 6392297622112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

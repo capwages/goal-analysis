@@ -711,6 +711,34 @@
             "frFull": 6391587298112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021181,
+          "goalIndex": 3,
+          "date": "2026-03-31",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392296433112,
+            "fr": 6392296824112,
+            "enFull": 6392295533112,
+            "frFull": 6392295451112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021181,
+          "goalIndex": 5,
+          "date": "2026-03-31",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392298912112,
+            "fr": 6392298306112,
+            "enFull": 6392297234112,
+            "frFull": 6392299019112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1844,6 +1872,20 @@
             "frFull": 6391302114112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021181,
+          "goalIndex": 4,
+          "date": "2026-03-31",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392296952112,
+            "fr": 6392297160112,
+            "enFull": 6392296854112,
+            "frFull": 6392296749112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2223,6 +2265,20 @@
             "frFull": 6391964210112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021181,
+          "goalIndex": 7,
+          "date": "2026-03-31",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392301459112,
+            "fr": 6392302047112,
+            "enFull": 6392300879112,
+            "frFull": 6392301475112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2289,6 +2345,20 @@
             "frFull": 6391590085112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021181,
+          "goalIndex": 1,
+          "date": "2026-03-31",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392293330112,
+            "fr": 6392294995112,
+            "enFull": 6392296372112,
+            "frFull": 6392296073112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2941,6 +3011,20 @@
             "fr": 6392077800112,
             "enFull": 6392077299112,
             "frFull": 6392075761112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021181,
+          "goalIndex": 2,
+          "date": "2026-03-31",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392294796112,
+            "fr": 6392294908112,
+            "enFull": 6392296488112,
+            "frFull": 6392295304112
           },
           "goalClassification": "Rebound/Scramble"
         }

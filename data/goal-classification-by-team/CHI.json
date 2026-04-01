@@ -950,6 +950,34 @@
             "frFull": 6391580319112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021186,
+          "goalIndex": 5,
+          "date": "2026-03-31",
+          "opponentTricode": "WPG",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392308156112,
+            "fr": 6392309032112,
+            "enFull": 6392306865112,
+            "frFull": 6392308843112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021186,
+          "goalIndex": 6,
+          "date": "2026-03-31",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392312436112,
+            "fr": 6392311209112,
+            "enFull": 6392312544112,
+            "frFull": 6392310878112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2753,6 +2781,25 @@
             "fr": 6387146652112,
             "enFull": 6387147934112,
             "frFull": 6387147615112
+          },
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8485391,
+      "goals": [
+        {
+          "gameId": 2025021186,
+          "goalIndex": 1,
+          "date": "2026-03-31",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392303349112,
+            "fr": 6392301683112,
+            "enFull": 6392301688112,
+            "frFull": 6392301992112
           },
           "goalClassification": "Cycle"
         }

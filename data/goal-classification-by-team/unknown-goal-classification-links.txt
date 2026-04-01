@@ -317,3 +317,5 @@
 /gameday/CHI-NJD?gameId=2025021171&goal=1
 /gameday/PIT-NYI?gameId=2025021173&goal=5
 /gameday/STL-SJS?gameId=2025021177&goal=4
+/gameday/NYI-BUF?gameId=2025021179&goal=5
+/gameday/PHI-WSH?gameId=2025021184&goal=2

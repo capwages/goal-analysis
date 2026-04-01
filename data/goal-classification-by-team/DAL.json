@@ -198,6 +198,20 @@
             "frFull": 6390830356112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021178,
+          "goalIndex": 3,
+          "date": "2026-03-31",
+          "opponentTricode": "BOS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392300812112,
+            "fr": 6392298468112,
+            "enFull": 6392298281112,
+            "frFull": 6392298563112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -399,6 +413,20 @@
             "frFull": 6391800282112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021178,
+          "goalIndex": 4,
+          "date": "2026-03-31",
+          "opponentTricode": "BOS",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392302337112,
+            "fr": 6392299990112,
+            "enFull": 6392301249112,
+            "frFull": 6392300569112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -3327,6 +3355,20 @@
             "en": 6391587303112,
             "fr": 6391587890112,
             "enFull": 6391587504112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021178,
+          "goalIndex": 8,
+          "date": "2026-03-31",
+          "opponentTricode": "BOS",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392305219112,
+            "fr": 6392304538112,
+            "enFull": 6392305853112,
+            "frFull": 6392305334112
           },
           "goalClassification": "Cycle"
         }
