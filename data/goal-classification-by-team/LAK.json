@@ -1316,6 +1316,20 @@
           "shotType": "wrist",
           "clip": {},
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021189,
+          "goalIndex": 1,
+          "date": "2026-04-01",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392404621112,
+            "fr": 6392406278112,
+            "enFull": 6392405794112,
+            "frFull": 6392405209112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1666,6 +1680,20 @@
             "frFull": 6391807647112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021189,
+          "goalIndex": 3,
+          "date": "2026-04-01",
+          "opponentTricode": "STL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392409982112,
+            "fr": 6392410649112,
+            "enFull": 6392418461112,
+            "frFull": 6392410749112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

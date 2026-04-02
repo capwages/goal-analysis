@@ -884,6 +884,20 @@
             "frFull": 6392212584112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021190,
+          "goalIndex": 7,
+          "date": "2026-04-01",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392410046112,
+            "fr": 6392410733112,
+            "enFull": 6392411720112,
+            "frFull": 6392410245112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2166,6 +2180,20 @@
             "frFull": 6391595954112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021190,
+          "goalIndex": 1,
+          "date": "2026-04-01",
+          "opponentTricode": "ANA",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392399833112,
+            "fr": 6392399349112,
+            "enFull": 6392399756112,
+            "frFull": 6392398367112
+          },
+          "goalClassification": null
         }
       ]
     },
@@ -2703,6 +2731,34 @@
             "frFull": 6392208281112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021190,
+          "goalIndex": 4,
+          "date": "2026-04-01",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392408577112,
+            "fr": 6392407311112,
+            "enFull": 6392406149112,
+            "frFull": 6392406915112
+          },
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021190,
+          "goalIndex": 6,
+          "date": "2026-04-01",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392409555112,
+            "fr": 6392410040112,
+            "enFull": 6392411612112,
+            "frFull": 6392411417112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

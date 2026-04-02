@@ -3208,5 +3208,35 @@
     "scorerId": 8471214,
     "opponentTricode": "PHI",
     "shotType": "snap"
+  },
+  {
+    "gameId": 2025021188,
+    "goalIndex": 1,
+    "date": "2026-04-01",
+    "gamedayPath": "/gameday/VAN-COL?gameId=2025021188&goal=1",
+    "teamAbbrev": "VAN",
+    "scorerId": 8484136,
+    "opponentTricode": "COL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021188,
+    "goalIndex": 12,
+    "date": "2026-04-01",
+    "gamedayPath": "/gameday/VAN-COL?gameId=2025021188&goal=12",
+    "teamAbbrev": "COL",
+    "scorerId": 8484258,
+    "opponentTricode": "VAN",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021190,
+    "goalIndex": 1,
+    "date": "2026-04-01",
+    "gamedayPath": "/gameday/ANA-SJS?gameId=2025021190&goal=1",
+    "teamAbbrev": "SJS",
+    "scorerId": 8484227,
+    "opponentTricode": "ANA",
+    "shotType": "slap"
   }
 ]

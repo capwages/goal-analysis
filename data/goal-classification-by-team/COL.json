@@ -142,6 +142,20 @@
             "frFull": 6391054164112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021188,
+          "goalIndex": 11,
+          "date": "2026-04-01",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392407900112,
+            "fr": 6392409184112,
+            "enFull": 6392408291112,
+            "frFull": 6392408803112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -904,6 +918,20 @@
             "frFull": 6392200350112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021188,
+          "goalIndex": 5,
+          "date": "2026-04-01",
+          "opponentTricode": "VAN",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392400033112,
+            "fr": 6392400413112,
+            "enFull": 6392398959112,
+            "frFull": 6392400127112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -1880,6 +1908,20 @@
             "frFull": 6392206705112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021188,
+          "goalIndex": 2,
+          "date": "2026-04-01",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392398492112,
+            "fr": 6392397828112,
+            "enFull": 6392398887112,
+            "frFull": 6392398893112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3547,6 +3589,20 @@
             "frFull": 6392201956112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021188,
+          "goalIndex": 10,
+          "date": "2026-04-01",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392405892112,
+            "fr": 6392406376112,
+            "enFull": 6392407160112,
+            "frFull": 6392405986112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3941,6 +3997,34 @@
             "frFull": 6392210441112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021188,
+          "goalIndex": 9,
+          "date": "2026-04-01",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392402985112,
+            "fr": 6392402506112,
+            "enFull": 6392404651112,
+            "frFull": 6392404548112
+          },
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021188,
+          "goalIndex": 12,
+          "date": "2026-04-01",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392407617112,
+            "fr": 6392408996112,
+            "enFull": 6392408299112,
+            "frFull": 6392407145112
+          },
+          "goalClassification": null
         }
       ]
     }

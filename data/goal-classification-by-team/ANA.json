@@ -170,6 +170,20 @@
             "frFull": 6391600683112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021190,
+          "goalIndex": 3,
+          "date": "2026-04-01",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392405091112,
+            "fr": 6392403308112,
+            "enFull": 6392405005112,
+            "frFull": 6392404614112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1395,6 +1409,20 @@
             "enFull": 6391604396112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021190,
+          "goalIndex": 5,
+          "date": "2026-04-01",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392407339112,
+            "fr": 6392406854112,
+            "enFull": 6392407737112,
+            "frFull": 6392408811112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -1559,6 +1587,20 @@
             "frFull": 6391303163112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021190,
+          "goalIndex": 2,
+          "date": "2026-04-01",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392402629112,
+            "fr": 6392401844112,
+            "enFull": 6392401446112,
+            "frFull": 6392402831112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

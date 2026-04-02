@@ -418,3 +418,4 @@
 /gameday/MTL-TBL?gameId=2025021180&goal=4
 /gameday/PHI-WSH?gameId=2025021184&goal=10
 /gameday/CAR-CBJ?gameId=2025021185&goal=7
+/gameday/VAN-COL?gameId=2025021188&goal=14

@@ -319,3 +319,6 @@
 /gameday/STL-SJS?gameId=2025021177&goal=4
 /gameday/NYI-BUF?gameId=2025021179&goal=5
 /gameday/PHI-WSH?gameId=2025021184&goal=2
+/gameday/VAN-COL?gameId=2025021188&goal=1
+/gameday/VAN-COL?gameId=2025021188&goal=12
+/gameday/ANA-SJS?gameId=2025021190&goal=1

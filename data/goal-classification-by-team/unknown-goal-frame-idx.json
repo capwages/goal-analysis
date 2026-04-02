@@ -4618,5 +4618,16 @@
     "opponentTricode": "CBJ",
     "shotType": "wrist",
     "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021188,
+    "goalIndex": 14,
+    "date": "2026-04-01",
+    "gamedayPath": "/gameday/VAN-COL?gameId=2025021188&goal=14",
+    "teamAbbrev": "VAN",
+    "scorerId": 8478444,
+    "opponentTricode": "COL",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
   }
 ]

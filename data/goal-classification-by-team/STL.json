@@ -1430,6 +1430,20 @@
             "frFull": 6390904525112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021189,
+          "goalIndex": 2,
+          "date": "2026-04-01",
+          "opponentTricode": "LAK",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392409637112,
+            "fr": 6392409531112,
+            "enFull": 6392409156112,
+            "frFull": 6392408568112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
