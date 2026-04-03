@@ -3624,6 +3624,20 @@
             "frFull": 6391221361112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021193,
+          "goalIndex": 3,
+          "date": "2026-04-02",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392472100112,
+            "fr": 6392474087112,
+            "enFull": 6392475767112,
+            "frFull": 6392476258112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

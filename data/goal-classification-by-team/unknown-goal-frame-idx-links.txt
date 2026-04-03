@@ -419,3 +419,11 @@
 /gameday/PHI-WSH?gameId=2025021184&goal=10
 /gameday/CAR-CBJ?gameId=2025021185&goal=7
 /gameday/VAN-COL?gameId=2025021188&goal=14
+/gameday/PIT-TBL?gameId=2025021192&goal=4
+/gameday/PIT-TBL?gameId=2025021192&goal=5
+/gameday/WPG-DAL?gameId=2025021198&goal=1
+/gameday/VAN-MIN?gameId=2025021199&goal=7
+/gameday/CGY-VGK?gameId=2025021201&goal=9
+/gameday/TOR-SJS?gameId=2025021202&goal=3
+/gameday/UTA-SEA?gameId=2025021203&goal=8
+/gameday/NSH-LAK?gameId=2025021204&goal=4

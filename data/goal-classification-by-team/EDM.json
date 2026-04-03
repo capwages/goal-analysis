@@ -30,6 +30,20 @@
             "frFull": 6383673579112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021200,
+          "goalIndex": 1,
+          "date": "2026-04-02",
+          "opponentTricode": "CHI",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392484174112,
+            "fr": 6392483091112,
+            "enFull": 6392485169112,
+            "frFull": 6392484962112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3449,6 +3463,20 @@
             "frFull": 6391102716112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021200,
+          "goalIndex": 4,
+          "date": "2026-04-02",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392488111112,
+            "fr": 6392488780112,
+            "enFull": 6392490197112,
+            "frFull": 6392486828112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -3683,6 +3711,20 @@
             "frFull": 6391986596112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021200,
+          "goalIndex": 2,
+          "date": "2026-04-02",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392484289112,
+            "fr": 6392485840112,
+            "enFull": 6392484785112,
+            "frFull": 6392485841112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

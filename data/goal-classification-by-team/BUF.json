@@ -1961,6 +1961,20 @@
             "frFull": 6390462094112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021191,
+          "goalIndex": 1,
+          "date": "2026-04-02",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392478674112,
+            "fr": 6392476724112,
+            "enFull": 6392477226112,
+            "frFull": 6392478675112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

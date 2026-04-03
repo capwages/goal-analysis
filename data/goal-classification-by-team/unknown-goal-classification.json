@@ -3238,5 +3238,25 @@
     "scorerId": 8484227,
     "opponentTricode": "ANA",
     "shotType": "slap"
+  },
+  {
+    "gameId": 2025021196,
+    "goalIndex": 2,
+    "date": "2026-04-02",
+    "gamedayPath": "/gameday/DET-PHI?gameId=2025021196&goal=2",
+    "teamAbbrev": "PHI",
+    "scorerId": 8482159,
+    "opponentTricode": "DET",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021204,
+    "goalIndex": 4,
+    "date": "2026-04-02",
+    "gamedayPath": "/gameday/NSH-LAK?gameId=2025021204&goal=4",
+    "teamAbbrev": "LAK",
+    "scorerId": 8477960,
+    "opponentTricode": "NSH",
+    "shotType": "deflected"
   }
 ]

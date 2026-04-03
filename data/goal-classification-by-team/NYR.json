@@ -1826,6 +1826,20 @@
             "frFull": 6392076736112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021195,
+          "goalIndex": 3,
+          "date": "2026-04-02",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392479756112,
+            "fr": 6392480140112,
+            "enFull": 6392481413112,
+            "frFull": 6392480250112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2732,6 +2746,20 @@
             "frFull": 6390559279112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021195,
+          "goalIndex": 4,
+          "date": "2026-04-02",
+          "opponentTricode": "MTL",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392480251112,
+            "fr": 6392479467112,
+            "enFull": 6392479949112,
+            "frFull": 6392479855112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

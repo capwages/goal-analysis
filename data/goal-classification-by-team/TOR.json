@@ -392,6 +392,20 @@
             "frFull": 6392221247112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021202,
+          "goalIndex": 4,
+          "date": "2026-04-02",
+          "opponentTricode": "SJS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392487198112,
+            "fr": 6392487584112,
+            "enFull": 6392485725112,
+            "frFull": 6392486023112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

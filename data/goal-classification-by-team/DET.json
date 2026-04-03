@@ -399,6 +399,20 @@
             "frFull": 6391903237112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021196,
+          "goalIndex": 4,
+          "date": "2026-04-02",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392480524112,
+            "fr": 6392480052112,
+            "enFull": 6392480520112,
+            "frFull": 6392480525112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1794,6 +1808,34 @@
           "shotType": "wrist",
           "clip": {},
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021196,
+          "goalIndex": 1,
+          "date": "2026-04-02",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392473313112,
+            "fr": 6392473795112,
+            "enFull": 6392476855112,
+            "frFull": 6392476955112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021196,
+          "goalIndex": 6,
+          "date": "2026-04-02",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392480765112,
+            "fr": 6392482612112,
+            "enFull": 6392482123112,
+            "frFull": 6392481375112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2545,6 +2587,20 @@
           "opponentTricode": "PHI",
           "shotType": "snap",
           "clip": {},
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021196,
+          "goalIndex": 3,
+          "date": "2026-04-02",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392477721112,
+            "fr": 6392477326112,
+            "enFull": 6392477724112,
+            "frFull": 6392477329112
+          },
           "goalClassification": "Cycle"
         }
       ]

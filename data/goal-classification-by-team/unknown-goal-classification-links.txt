@@ -322,3 +322,5 @@
 /gameday/VAN-COL?gameId=2025021188&goal=1
 /gameday/VAN-COL?gameId=2025021188&goal=12
 /gameday/ANA-SJS?gameId=2025021190&goal=1
+/gameday/DET-PHI?gameId=2025021196&goal=2
+/gameday/NSH-LAK?gameId=2025021204&goal=4

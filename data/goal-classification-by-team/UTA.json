@@ -623,6 +623,20 @@
             "enFull": 6392009573112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021203,
+          "goalIndex": 5,
+          "date": "2026-04-02",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392486935112,
+            "fr": 6392487813112,
+            "enFull": 6392486939112,
+            "frFull": 6392487818112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1704,6 +1718,20 @@
             "frFull": 6391053092112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021203,
+          "goalIndex": 8,
+          "date": "2026-04-02",
+          "opponentTricode": "SEA",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392491307112,
+            "fr": 6392491603112,
+            "enFull": 6392490930112,
+            "frFull": 6392490622112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2538,6 +2566,20 @@
             "frFull": 6390835299112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021203,
+          "goalIndex": 6,
+          "date": "2026-04-02",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392490408112,
+            "fr": 6392489335112,
+            "enFull": 6392490013112,
+            "frFull": 6392489238112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3047,6 +3089,20 @@
             "frFull": 6391802580112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021203,
+          "goalIndex": 7,
+          "date": "2026-04-02",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392488956112,
+            "fr": 6392490504112,
+            "enFull": 6392491096112,
+            "frFull": 6392488642112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -3320,6 +3376,34 @@
             "fr": 6392006923112,
             "enFull": 6392006526112,
             "frFull": 6392006147112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021203,
+          "goalIndex": 3,
+          "date": "2026-04-02",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392486860112,
+            "fr": 6392486861112,
+            "enFull": 6392485972112,
+            "frFull": 6392486078112
+          },
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021203,
+          "goalIndex": 4,
+          "date": "2026-04-02",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392488577112,
+            "fr": 6392486818112,
+            "enFull": 6392487804112,
+            "frFull": 6392488277112
           },
           "goalClassification": "Cycle"
         }

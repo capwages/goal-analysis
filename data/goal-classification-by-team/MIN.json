@@ -1340,6 +1340,34 @@
             "frFull": 6391993934112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021199,
+          "goalIndex": 6,
+          "date": "2026-04-02",
+          "opponentTricode": "VAN",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392484553112,
+            "fr": 6392483073112,
+            "enFull": 6392484755112,
+            "frFull": 6392484558112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021199,
+          "goalIndex": 7,
+          "date": "2026-04-02",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392485950112,
+            "fr": 6392485182112,
+            "enFull": 6392486349112,
+            "frFull": 6392484196112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -2254,6 +2282,20 @@
             "frFull": 6391988899112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021199,
+          "goalIndex": 5,
+          "date": "2026-04-02",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392479450112,
+            "fr": 6392481110112,
+            "enFull": 6392480512112,
+            "frFull": 6392480719112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2979,6 +3021,34 @@
             "frFull": 6390945836112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021199,
+          "goalIndex": 1,
+          "date": "2026-04-02",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392477693112,
+            "fr": 6392478182112,
+            "enFull": 6392478585112,
+            "frFull": 6392475931112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021199,
+          "goalIndex": 4,
+          "date": "2026-04-02",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392480037112,
+            "fr": 6392480803112,
+            "enFull": 6392480325112,
+            "frFull": 6392480908112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
