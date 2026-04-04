@@ -4717,5 +4717,16 @@
     "opponentTricode": "NSH",
     "shotType": "deflected",
     "goalClassification": null
+  },
+  {
+    "gameId": 2025021205,
+    "goalIndex": 3,
+    "date": "2026-04-03",
+    "gamedayPath": "/gameday/PHI-NYI?gameId=2025021205&goal=3",
+    "teamAbbrev": "PHI",
+    "scorerId": 8484387,
+    "opponentTricode": "NYI",
+    "shotType": "backhand",
+    "goalClassification": "Rush"
   }
 ]

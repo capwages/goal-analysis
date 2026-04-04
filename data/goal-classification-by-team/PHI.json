@@ -357,6 +357,20 @@
             "enFull": 6392302776112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021205,
+          "goalIndex": 5,
+          "date": "2026-04-03",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392542951112,
+            "fr": 6392542074112,
+            "enFull": 6392542766112,
+            "frFull": 6392543341112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1547,6 +1561,20 @@
             "frFull": 6392010043112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021205,
+          "goalIndex": 1,
+          "date": "2026-04-03",
+          "opponentTricode": "NYI",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392540793112,
+            "fr": 6392540507112,
+            "enFull": 6392539546112,
+            "frFull": 6392540690112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2706,6 +2734,20 @@
             "frFull": 6391788896112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021205,
+          "goalIndex": 2,
+          "date": "2026-04-03",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392539926112,
+            "fr": 6392539253112,
+            "enFull": 6392539642112,
+            "frFull": 6392540895112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3070,6 +3112,20 @@
             "frFull": 6390656080112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021205,
+          "goalIndex": 3,
+          "date": "2026-04-03",
+          "opponentTricode": "NYI",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392541323112,
+            "fr": 6392540244112,
+            "enFull": 6392540847112,
+            "frFull": 6392540558112
+          },
+          "goalClassification": "Rush"
         }
       ]
     }

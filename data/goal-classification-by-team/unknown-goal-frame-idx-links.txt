@@ -427,3 +427,4 @@
 /gameday/TOR-SJS?gameId=2025021202&goal=3
 /gameday/UTA-SEA?gameId=2025021203&goal=8
 /gameday/NSH-LAK?gameId=2025021204&goal=4
+/gameday/PHI-NYI?gameId=2025021205&goal=3

@@ -783,6 +783,20 @@
             "frFull": 6390709494112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021205,
+          "goalIndex": 4,
+          "date": "2026-04-03",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392540767112,
+            "fr": 6392539768112,
+            "enFull": 6392541962112,
+            "frFull": 6392542239112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
