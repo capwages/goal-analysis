@@ -1922,6 +1922,20 @@
             "frFull": 6392398893112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021209,
+          "goalIndex": 2,
+          "date": "2026-04-04",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392579494112,
+            "fr": 6392578517112,
+            "enFull": 6392580277112,
+            "frFull": 6392579592112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -3047,6 +3061,20 @@
             "frFull": 6392208680112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021209,
+          "goalIndex": 1,
+          "date": "2026-04-04",
+          "opponentTricode": "DAL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392577133112,
+            "fr": 6392578385112,
+            "enFull": 6392577137112,
+            "frFull": 6392579478112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

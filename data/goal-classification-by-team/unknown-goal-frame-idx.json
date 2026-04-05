@@ -4728,5 +4728,49 @@
     "opponentTricode": "NYI",
     "shotType": "backhand",
     "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021211,
+    "goalIndex": 11,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/FLA-PIT?gameId=2025021211&goal=11",
+    "teamAbbrev": "PIT",
+    "scorerId": 8471215,
+    "opponentTricode": "FLA",
+    "shotType": "wrist",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021214,
+    "goalIndex": 3,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/NYI-CAR?gameId=2025021214&goal=3",
+    "teamAbbrev": "NYI",
+    "scorerId": 8485702,
+    "opponentTricode": "CAR",
+    "shotType": "wrist",
+    "goalClassification": "Rebound/Scramble"
+  },
+  {
+    "gameId": 2025021216,
+    "goalIndex": 6,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/UTA-VAN?gameId=2025021216&goal=6",
+    "teamAbbrev": "UTA",
+    "scorerId": 8482699,
+    "opponentTricode": "VAN",
+    "shotType": "wrist",
+    "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021221,
+    "goalIndex": 1,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/CHI-SEA?gameId=2025021221&goal=1",
+    "teamAbbrev": "CHI",
+    "scorerId": 8476882,
+    "opponentTricode": "SEA",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
   }
 ]

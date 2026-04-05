@@ -922,6 +922,20 @@
             "frFull": 6392479283112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021216,
+          "goalIndex": 7,
+          "date": "2026-04-04",
+          "opponentTricode": "UTA",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392588667112,
+            "fr": 6392587479112,
+            "enFull": 6392586903112,
+            "frFull": 6392587285112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1919,6 +1933,34 @@
             "frFull": 6391229778112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021216,
+          "goalIndex": 1,
+          "date": "2026-04-04",
+          "opponentTricode": "UTA",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392583345112,
+            "fr": 6392582467112,
+            "enFull": 6392582861112,
+            "frFull": 6392584416112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021216,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "UTA",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392586250112,
+            "fr": 6392584788112,
+            "enFull": 6392585950112,
+            "frFull": 6392584683112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2263,6 +2305,20 @@
             "fr": 6391105743112,
             "enFull": 6391105640112,
             "frFull": 6391105851112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021216,
+          "goalIndex": 9,
+          "date": "2026-04-04",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392589063112,
+            "fr": 6392586528112,
+            "enFull": 6392586723112,
+            "frFull": 6392587897112
           },
           "goalClassification": "Cycle"
         }

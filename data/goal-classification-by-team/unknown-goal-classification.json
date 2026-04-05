@@ -3258,5 +3258,65 @@
     "scorerId": 8477960,
     "opponentTricode": "NSH",
     "shotType": "deflected"
+  },
+  {
+    "gameId": 2025021210,
+    "goalIndex": 2,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/BOS-TBL?gameId=2025021210&goal=2",
+    "teamAbbrev": "TBL",
+    "scorerId": 8480426,
+    "opponentTricode": "BOS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021211,
+    "goalIndex": 11,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/FLA-PIT?gameId=2025021211&goal=11",
+    "teamAbbrev": "PIT",
+    "scorerId": 8471215,
+    "opponentTricode": "FLA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021215,
+    "goalIndex": 1,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/WPG-CBJ?gameId=2025021215&goal=1",
+    "teamAbbrev": "CBJ",
+    "scorerId": 8478500,
+    "opponentTricode": "WPG",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021220,
+    "goalIndex": 2,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/NSH-SJS?gameId=2025021220&goal=2",
+    "teamAbbrev": "NSH",
+    "scorerId": 8476887,
+    "opponentTricode": "SJS",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021220,
+    "goalIndex": 7,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/NSH-SJS?gameId=2025021220&goal=7",
+    "teamAbbrev": "NSH",
+    "scorerId": 8475158,
+    "opponentTricode": "SJS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021220,
+    "goalIndex": 8,
+    "date": "2026-04-04",
+    "gamedayPath": "/gameday/NSH-SJS?gameId=2025021220&goal=8",
+    "teamAbbrev": "NSH",
+    "scorerId": 8475287,
+    "opponentTricode": "SJS",
+    "shotType": "snap"
   }
 ]

@@ -324,3 +324,9 @@
 /gameday/ANA-SJS?gameId=2025021190&goal=1
 /gameday/DET-PHI?gameId=2025021196&goal=2
 /gameday/NSH-LAK?gameId=2025021204&goal=4
+/gameday/BOS-TBL?gameId=2025021210&goal=2
+/gameday/FLA-PIT?gameId=2025021211&goal=11
+/gameday/WPG-CBJ?gameId=2025021215&goal=1
+/gameday/NSH-SJS?gameId=2025021220&goal=2
+/gameday/NSH-SJS?gameId=2025021220&goal=7
+/gameday/NSH-SJS?gameId=2025021220&goal=8

@@ -216,6 +216,25 @@
       ]
     },
     {
+      "id": 8474102,
+      "goals": [
+        {
+          "gameId": 2025021207,
+          "goalIndex": 5,
+          "date": "2026-04-04",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392574162112,
+            "fr": 6392573693112,
+            "enFull": 6392572572112,
+            "frFull": 6392572999112
+          },
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
       "id": 8474141,
       "goals": [
         {

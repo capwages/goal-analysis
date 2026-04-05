@@ -48,6 +48,25 @@
       ]
     },
     {
+      "id": 8475181,
+      "goals": [
+        {
+          "gameId": 2025021220,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392593219112,
+            "fr": 6392593223112,
+            "enFull": 6392591850112,
+            "frFull": 6392593322112
+          },
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
       "id": 8475200,
       "goals": [
         {
@@ -898,6 +917,20 @@
             "frFull": 6392410245112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021220,
+          "goalIndex": 6,
+          "date": "2026-04-04",
+          "opponentTricode": "NSH",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392592357112,
+            "fr": 6392593557112,
+            "enFull": 6392591888112,
+            "frFull": 6392592581112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2801,6 +2834,20 @@
             "frFull": 6392411417112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021220,
+          "goalIndex": 5,
+          "date": "2026-04-04",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392593723112,
+            "fr": 6392593231112,
+            "enFull": 6392594313112,
+            "frFull": 6392593232112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

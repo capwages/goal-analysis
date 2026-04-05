@@ -901,6 +901,20 @@
             "frFull": 6390706935112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021213,
+          "goalIndex": 5,
+          "date": "2026-04-04",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392583158112,
+            "fr": 6392583574112,
+            "enFull": 6392584739112,
+            "frFull": 6392582488112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2218,6 +2232,20 @@
             "frFull": 6391992544112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021213,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392584528112,
+            "fr": 6392583930112,
+            "enFull": 6392584934112,
+            "frFull": 6392584723112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

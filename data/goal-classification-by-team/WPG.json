@@ -1771,6 +1771,34 @@
             "frFull": 6392314462112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021215,
+          "goalIndex": 2,
+          "date": "2026-04-04",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392585384112,
+            "fr": 6392585002112,
+            "enFull": 6392584211112,
+            "frFull": 6392586638112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021215,
+          "goalIndex": 3,
+          "date": "2026-04-04",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392585914112,
+            "fr": 6392585620112,
+            "enFull": 6392588557112,
+            "frFull": 6392585916112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

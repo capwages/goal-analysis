@@ -1386,6 +1386,34 @@
             "frFull": 6392490031112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021217,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "TOR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392585866112,
+            "fr": 6392583999112,
+            "enFull": 6392585867112,
+            "frFull": 6392584897112
+          },
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021217,
+          "goalIndex": 8,
+          "date": "2026-04-04",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392587608112,
+            "fr": 6392588875112,
+            "enFull": 6392586713112,
+            "frFull": 6392588387112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1591,6 +1619,20 @@
             "frFull": 6391808908112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021217,
+          "goalIndex": 6,
+          "date": "2026-04-04",
+          "opponentTricode": "TOR",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392586472112,
+            "fr": 6392586373112,
+            "enFull": 6392585693112,
+            "frFull": 6392586661112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2134,6 +2176,34 @@
             "frFull": 6391812225112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021217,
+          "goalIndex": 3,
+          "date": "2026-04-04",
+          "opponentTricode": "TOR",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392585171112,
+            "fr": 6392583502112,
+            "enFull": 6392583801112,
+            "frFull": 6392583504112
+          },
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021217,
+          "goalIndex": 13,
+          "date": "2026-04-04",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392588745112,
+            "fr": 6392587335112,
+            "enFull": 6392589516112,
+            "frFull": 6392589103112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2386,6 +2456,20 @@
             "frFull": 6391422138112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021217,
+          "goalIndex": 10,
+          "date": "2026-04-04",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392586533112,
+            "fr": 6392588495112,
+            "enFull": 6392586535112,
+            "frFull": 6392588007112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2492,6 +2576,20 @@
             "fr": 6390468423112,
             "enFull": 6390468515112,
             "frFull": 6390469099112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021217,
+          "goalIndex": 9,
+          "date": "2026-04-04",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392586914112,
+            "fr": 6392588580112,
+            "enFull": 6392588004112,
+            "frFull": 6392586630112
           },
           "goalClassification": "Cycle"
         }

@@ -292,6 +292,20 @@
             "frFull": 6390346969112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021221,
+          "goalIndex": 1,
+          "date": "2026-04-04",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392591461112,
+            "fr": 6392590674112,
+            "enFull": 6392592720112,
+            "frFull": 6392591151112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -978,6 +992,20 @@
             "frFull": 6392310878112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021221,
+          "goalIndex": 2,
+          "date": "2026-04-04",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392591163112,
+            "fr": 6392591944112,
+            "enFull": 6392592333112,
+            "frFull": 6392591948112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1464,6 +1492,20 @@
             "frFull": 6392092707112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021221,
+          "goalIndex": 6,
+          "date": "2026-04-04",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392594936112,
+            "fr": 6392594545112,
+            "enFull": 6392595041112,
+            "frFull": 6392594550112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -2795,6 +2837,25 @@
             "fr": 6387146652112,
             "enFull": 6387147934112,
             "frFull": 6387147615112
+          },
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8484793,
+      "goals": [
+        {
+          "gameId": 2025021221,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392592268112,
+            "fr": 6392592483112,
+            "enFull": 6392593772112,
+            "frFull": 6392593571112
           },
           "goalClassification": "Cycle"
         }

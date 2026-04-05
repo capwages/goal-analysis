@@ -1555,6 +1555,20 @@
             "frFull": 6392300923112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021208,
+          "goalIndex": 5,
+          "date": "2026-04-04",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392573405112,
+            "fr": 6392573757112,
+            "enFull": 6392573282112,
+            "frFull": 6392575544112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

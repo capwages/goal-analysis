@@ -828,6 +828,20 @@
             "frFull": 6386892406112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021211,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "PIT",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392579004112,
+            "fr": 6392578394112,
+            "enFull": 6392578403112,
+            "frFull": 6392578395112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1900,6 +1914,20 @@
             "frFull": 6392296749112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021211,
+          "goalIndex": 3,
+          "date": "2026-04-04",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392577777112,
+            "fr": 6392577297112,
+            "enFull": 6392576528112,
+            "frFull": 6392576527112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2373,6 +2401,20 @@
             "frFull": 6392296073112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021211,
+          "goalIndex": 12,
+          "date": "2026-04-04",
+          "opponentTricode": "PIT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392582681112,
+            "fr": 6392582462112,
+            "enFull": 6392583813112,
+            "frFull": 6392581568112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3055,6 +3097,20 @@
             "frFull": 6392475638112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021211,
+          "goalIndex": 13,
+          "date": "2026-04-04",
+          "opponentTricode": "PIT",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392582075112,
+            "fr": 6392584036112,
+            "enFull": 6392583842112,
+            "frFull": 6392584920112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

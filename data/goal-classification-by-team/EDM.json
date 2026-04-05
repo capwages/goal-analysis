@@ -3149,6 +3149,20 @@
             "frFull": 6391812454112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021218,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392593122112,
+            "fr": 6392591943112,
+            "enFull": 6392592151112,
+            "frFull": 6392592742112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

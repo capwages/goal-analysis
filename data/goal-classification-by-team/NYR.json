@@ -2845,6 +2845,20 @@
             "frFull": 6392301667112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021207,
+          "goalIndex": 1,
+          "date": "2026-04-04",
+          "opponentTricode": "DET",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392568547112,
+            "fr": 6392568239112,
+            "enFull": 6392570408112,
+            "frFull": 6392568955112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3112,6 +3126,48 @@
             "frFull": 6390828927112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021207,
+          "goalIndex": 2,
+          "date": "2026-04-04",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392572413112,
+            "fr": 6392569648112,
+            "enFull": 6392571740112,
+            "frFull": 6392570756112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021207,
+          "goalIndex": 3,
+          "date": "2026-04-04",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392573140112,
+            "fr": 6392573929112,
+            "enFull": 6392572091112,
+            "frFull": 6392572853112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021207,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392574159112,
+            "fr": 6392575023112,
+            "enFull": 6392574158112,
+            "frFull": 6392573079112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     }

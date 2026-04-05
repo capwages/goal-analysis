@@ -745,6 +745,20 @@
             "frFull": 6392481371112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021210,
+          "goalIndex": 4,
+          "date": "2026-04-04",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392585130112,
+            "fr": 6392585044112,
+            "enFull": 6392583390112,
+            "frFull": 6392584549112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -2325,6 +2339,20 @@
             "frFull": 6391589993112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021210,
+          "goalIndex": 3,
+          "date": "2026-04-04",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392584446112,
+            "fr": 6392583375112,
+            "enFull": 6392583944112,
+            "frFull": 6392583451112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3248,6 +3276,20 @@
             "frFull": 6391968629112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021210,
+          "goalIndex": 2,
+          "date": "2026-04-04",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392581551112,
+            "fr": 6392582842112,
+            "enFull": 6392583227112,
+            "frFull": 6392583031112
+          },
+          "goalClassification": null
         }
       ]
     },

@@ -1349,6 +1349,20 @@
             "frFull": 6390705983112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021215,
+          "goalIndex": 1,
+          "date": "2026-04-04",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392582351112,
+            "fr": 6392583533112,
+            "enFull": 6392582569112,
+            "frFull": 6392583809112
+          },
+          "goalClassification": null
         }
       ]
     },
