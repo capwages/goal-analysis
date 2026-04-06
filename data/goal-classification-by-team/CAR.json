@@ -482,6 +482,20 @@
             "frFull": 6391152292112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 8,
+          "date": "2026-04-05",
+          "opponentTricode": "OTT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392622175112,
+            "fr": 6392622484112,
+            "enFull": 6392623069112,
+            "frFull": 6392623444112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2601,6 +2615,20 @@
             "frFull": 6392479343112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 4,
+          "date": "2026-04-05",
+          "opponentTricode": "OTT",
+          "shotType": "poke",
+          "clip": {
+            "en": 6392618350112,
+            "fr": 6392621085112,
+            "enFull": 6392619630112,
+            "frFull": 6392620408112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3454,6 +3482,20 @@
             "fr": 6392472079112,
             "enFull": 6392473585112,
             "frFull": 6392472503112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 1,
+          "date": "2026-04-05",
+          "opponentTricode": "OTT",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392617801112,
+            "fr": 6392618196112,
+            "enFull": 6392617995112,
+            "frFull": 6392619176112
           },
           "goalClassification": "Cycle"
         }

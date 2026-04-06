@@ -432,3 +432,4 @@
 /gameday/NYI-CAR?gameId=2025021214&goal=3
 /gameday/UTA-VAN?gameId=2025021216&goal=6
 /gameday/CHI-SEA?gameId=2025021221&goal=1
+/gameday/CAR-OTT?gameId=2025021225&goal=7

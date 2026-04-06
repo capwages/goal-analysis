@@ -4772,5 +4772,16 @@
     "opponentTricode": "SEA",
     "shotType": "wrist",
     "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021225,
+    "goalIndex": 7,
+    "date": "2026-04-05",
+    "gamedayPath": "/gameday/CAR-OTT?gameId=2025021225&goal=7",
+    "teamAbbrev": "OTT",
+    "scorerId": 8480801,
+    "opponentTricode": "CAR",
+    "shotType": "wrist",
+    "goalClassification": "Rebound/Scramble"
   }
 ]

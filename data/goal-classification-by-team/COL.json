@@ -156,6 +156,20 @@
             "frFull": 6392408803112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021228,
+          "goalIndex": 3,
+          "date": "2026-04-05",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392626787112,
+            "fr": 6392626788112,
+            "enFull": 6392628875112,
+            "frFull": 6392628876112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3631,6 +3645,20 @@
             "frFull": 6392405986112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021228,
+          "goalIndex": 2,
+          "date": "2026-04-05",
+          "opponentTricode": "STL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392627479112,
+            "fr": 6392627862112,
+            "enFull": 6392627972112,
+            "frFull": 6392627567112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

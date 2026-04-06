@@ -1472,6 +1472,48 @@
             "frFull": 6392545517112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021228,
+          "goalIndex": 1,
+          "date": "2026-04-05",
+          "opponentTricode": "COL",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392626681112,
+            "fr": 6392627857112,
+            "enFull": 6392627761112,
+            "frFull": 6392626469112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021228,
+          "goalIndex": 4,
+          "date": "2026-04-05",
+          "opponentTricode": "COL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392628775112,
+            "fr": 6392628373112,
+            "enFull": 6392629068112,
+            "frFull": 6392628973112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021228,
+          "goalIndex": 5,
+          "date": "2026-04-05",
+          "opponentTricode": "COL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392628506112,
+            "fr": 6392629985112,
+            "enFull": 6392629206112,
+            "frFull": 6392629987112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

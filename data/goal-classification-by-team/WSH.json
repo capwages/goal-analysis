@@ -2432,6 +2432,20 @@
             "frFull": 6392582473112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021227,
+          "goalIndex": 2,
+          "date": "2026-04-05",
+          "opponentTricode": "NYR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392623732112,
+            "fr": 6392624417112,
+            "enFull": 6392623632112,
+            "frFull": 6392622670112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

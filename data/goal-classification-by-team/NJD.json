@@ -572,6 +572,20 @@
             "frFull": 6392298766112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021226,
+          "goalIndex": 3,
+          "date": "2026-04-05",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392625596112,
+            "fr": 6392625698112,
+            "enFull": 6392626560112,
+            "frFull": 6392625807112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -917,6 +931,20 @@
             "frFull": 6392586919112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021226,
+          "goalIndex": 1,
+          "date": "2026-04-05",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392623336112,
+            "fr": 6392623144112,
+            "enFull": 6392622475112,
+            "frFull": 6392624316112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1429,6 +1457,20 @@
             "fr": 6392472683112,
             "enFull": 6392476173112,
             "frFull": 6392475880112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021226,
+          "goalIndex": 2,
+          "date": "2026-04-05",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392624473112,
+            "fr": 6392623994112,
+            "enFull": 6392624773112,
+            "frFull": 6392623587112
           },
           "goalClassification": "Rush"
         }

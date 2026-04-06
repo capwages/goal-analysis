@@ -432,6 +432,20 @@
             "frFull": 6392480525112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021222,
+          "goalIndex": 8,
+          "date": "2026-04-05",
+          "opponentTricode": "MIN",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392613862112,
+            "fr": 6392614042112,
+            "enFull": 6392613751112,
+            "frFull": 6392613750112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -801,6 +815,20 @@
             "frFull": 6391221434112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021222,
+          "goalIndex": 7,
+          "date": "2026-04-05",
+          "opponentTricode": "MIN",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392613244112,
+            "fr": 6392611765112,
+            "enFull": 6392612257112,
+            "frFull": 6392614416112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -2238,6 +2266,20 @@
             "frFull": 6390279488112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021222,
+          "goalIndex": 1,
+          "date": "2026-04-05",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392609586112,
+            "fr": 6392608525112,
+            "enFull": 6392610378112,
+            "frFull": 6392607939112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2991,6 +3033,20 @@
             "frFull": 6387916624112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021222,
+          "goalIndex": 6,
+          "date": "2026-04-05",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392610872112,
+            "fr": 6392612349112,
+            "enFull": 6392611942112,
+            "frFull": 6392613833112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },

@@ -170,6 +170,20 @@
             "frFull": 6391359610112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 9,
+          "date": "2026-04-05",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392623637112,
+            "fr": 6392623354112,
+            "enFull": 6392624815112,
+            "frFull": 6392622286112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1869,6 +1883,34 @@
             "frFull": 6391579808112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 5,
+          "date": "2026-04-05",
+          "opponentTricode": "CAR",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392622312112,
+            "fr": 6392622598112,
+            "enFull": 6392620155112,
+            "frFull": 6392621414112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 7,
+          "date": "2026-04-05",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392621174112,
+            "fr": 6392621980112,
+            "enFull": 6392623715112,
+            "frFull": 6392623716112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2237,6 +2279,20 @@
             "frFull": 6392479173112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 2,
+          "date": "2026-04-05",
+          "opponentTricode": "CAR",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392619483112,
+            "fr": 6392619194112,
+            "enFull": 6392618795112,
+            "frFull": 6392618882112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2522,6 +2578,20 @@
             "frFull": 6392482131112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 6,
+          "date": "2026-04-05",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392621838112,
+            "fr": 6392622235112,
+            "enFull": 6392621665112,
+            "frFull": 6392622547112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3439,6 +3509,20 @@
             "frFull": 6391356143112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021225,
+          "goalIndex": 3,
+          "date": "2026-04-05",
+          "opponentTricode": "CAR",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392619199112,
+            "fr": 6392618125112,
+            "enFull": 6392620283112,
+            "frFull": 6392617622112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

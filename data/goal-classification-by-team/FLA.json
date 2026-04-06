@@ -739,6 +739,20 @@
             "frFull": 6392299019112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021223,
+          "goalIndex": 7,
+          "date": "2026-04-05",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392619380112,
+            "fr": 6392619592112,
+            "enFull": 6392619795112,
+            "frFull": 6392617627112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2711,6 +2725,20 @@
             "frFull": 6388405647112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021223,
+          "goalIndex": 2,
+          "date": "2026-04-05",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392614341112,
+            "fr": 6392613661112,
+            "enFull": 6392612391112,
+            "frFull": 6392612390112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

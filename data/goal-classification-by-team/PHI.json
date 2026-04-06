@@ -600,6 +600,20 @@
             "frFull": 6392303516112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021224,
+          "goalIndex": 1,
+          "date": "2026-04-05",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392614938112,
+            "fr": 6392613786112,
+            "enFull": 6392613781112,
+            "frFull": 6392613586112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3126,6 +3140,25 @@
             "frFull": 6392540558112
           },
           "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
+      "id": 8485406,
+      "goals": [
+        {
+          "gameId": 2025021224,
+          "goalIndex": 3,
+          "date": "2026-04-05",
+          "opponentTricode": "BOS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392622602112,
+            "fr": 6392622796112,
+            "enFull": 6392622511112,
+            "frFull": 6392622510112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     }

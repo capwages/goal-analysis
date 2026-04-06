@@ -650,6 +650,20 @@
             "frFull": 6391150679112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021223,
+          "goalIndex": 3,
+          "date": "2026-04-05",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392612990112,
+            "fr": 6392613068112,
+            "enFull": 6392615018112,
+            "frFull": 6392614732112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1328,6 +1342,20 @@
             "frFull": 6392203109112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021223,
+          "goalIndex": 6,
+          "date": "2026-04-05",
+          "opponentTricode": "FLA",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392617415112,
+            "fr": 6392619070112,
+            "enFull": 6392618965112,
+            "frFull": 6392619261112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1639,6 +1667,34 @@
             "frFull": 6392581916112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021223,
+          "goalIndex": 4,
+          "date": "2026-04-05",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392613575112,
+            "fr": 6392614841112,
+            "enFull": 6392613268112,
+            "frFull": 6392613770112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021223,
+          "goalIndex": 5,
+          "date": "2026-04-05",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392617761112,
+            "fr": 6392616706112,
+            "enFull": 6392616788112,
+            "frFull": 6392616301112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -3322,6 +3378,20 @@
             "frFull": 6392579045112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021223,
+          "goalIndex": 1,
+          "date": "2026-04-05",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392611381112,
+            "fr": 6392614150112,
+            "enFull": 6392612858112,
+            "frFull": 6392612456112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
