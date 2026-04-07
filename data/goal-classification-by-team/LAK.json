@@ -629,6 +629,20 @@
             "frFull": 6392491258112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021232,
+          "goalIndex": 1,
+          "date": "2026-04-06",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392666369112,
+            "fr": 6392667442112,
+            "enFull": 6392666371112,
+            "frFull": 6392666477112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -690,6 +704,20 @@
             "frFull": 6392489918112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021232,
+          "goalIndex": 3,
+          "date": "2026-04-06",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392667515112,
+            "fr": 6392670169112,
+            "enFull": 6392668891112,
+            "frFull": 6392668007112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

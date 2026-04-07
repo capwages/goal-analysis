@@ -534,6 +534,20 @@
             "frFull": 6392591511112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021232,
+          "goalIndex": 2,
+          "date": "2026-04-06",
+          "opponentTricode": "LAK",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392667107112,
+            "fr": 6392669083112,
+            "enFull": 6392667108112,
+            "frFull": 6392668284112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -705,6 +719,20 @@
             "fr": 6391585058112,
             "enFull": 6391583399112,
             "frFull": 6391585047112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021232,
+          "goalIndex": 4,
+          "date": "2026-04-06",
+          "opponentTricode": "LAK",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392670303112,
+            "fr": 6392669322112,
+            "enFull": 6392668932112,
+            "frFull": 6392668438112
           },
           "goalClassification": "Cycle"
         }

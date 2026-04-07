@@ -310,6 +310,20 @@
             "frFull": 6391695678112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021229,
+          "goalIndex": 5,
+          "date": "2026-04-06",
+          "opponentTricode": "TBL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392659524112,
+            "fr": 6392660702112,
+            "enFull": 6392661509112,
+            "frFull": 6392662289112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -794,6 +808,20 @@
             "frFull": 6391418609112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021229,
+          "goalIndex": 1,
+          "date": "2026-04-06",
+          "opponentTricode": "TBL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392658778112,
+            "fr": 6392656909112,
+            "enFull": 6392658282112,
+            "frFull": 6392657011112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1596,6 +1624,20 @@
             "frFull": 6391111052112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021229,
+          "goalIndex": 3,
+          "date": "2026-04-06",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392658002112,
+            "fr": 6392659272112,
+            "enFull": 6392659965112,
+            "frFull": 6392659773112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2821,6 +2863,20 @@
             "frFull": 6392295854112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021229,
+          "goalIndex": 6,
+          "date": "2026-04-06",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392664111112,
+            "fr": 6392663436112,
+            "enFull": 6392662466112,
+            "frFull": 6392662744112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },

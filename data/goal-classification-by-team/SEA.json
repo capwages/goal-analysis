@@ -338,6 +338,20 @@
             "frFull": 6392483691112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021230,
+          "goalIndex": 1,
+          "date": "2026-04-06",
+          "opponentTricode": "WPG",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392659144112,
+            "fr": 6392660481112,
+            "enFull": 6392660585112,
+            "frFull": 6392660974112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1194,6 +1208,20 @@
             "frFull": 6391107153112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021230,
+          "goalIndex": 5,
+          "date": "2026-04-06",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392662462112,
+            "fr": 6392662180112,
+            "enFull": 6392662760112,
+            "frFull": 6392664511112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
