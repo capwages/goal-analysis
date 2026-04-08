@@ -4783,5 +4783,60 @@
     "opponentTricode": "CAR",
     "shotType": "wrist",
     "goalClassification": "Rebound/Scramble"
+  },
+  {
+    "gameId": 2025021234,
+    "goalIndex": 4,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/TBL-OTT?gameId=2025021234&goal=4",
+    "teamAbbrev": "OTT",
+    "scorerId": 8482105,
+    "opponentTricode": "TBL",
+    "shotType": "backhand",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021236,
+    "goalIndex": 2,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/PHI-NJD?gameId=2025021236&goal=2",
+    "teamAbbrev": "PHI",
+    "scorerId": 8481533,
+    "opponentTricode": "NJD",
+    "shotType": "tip-in",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021236,
+    "goalIndex": 6,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/PHI-NJD?gameId=2025021236&goal=6",
+    "teamAbbrev": "PHI",
+    "scorerId": 8476372,
+    "opponentTricode": "NJD",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021237,
+    "goalIndex": 2,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/BOS-CAR?gameId=2025021237&goal=2",
+    "teamAbbrev": "CAR",
+    "scorerId": 8480830,
+    "opponentTricode": "BOS",
+    "shotType": "wrist",
+    "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021240,
+    "goalIndex": 5,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/SEA-MIN?gameId=2025021240&goal=5",
+    "teamAbbrev": "MIN",
+    "scorerId": 8475765,
+    "opponentTricode": "SEA",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
   }
 ]

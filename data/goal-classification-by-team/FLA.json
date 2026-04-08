@@ -753,6 +753,20 @@
             "frFull": 6392617627112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021233,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392716569112,
+            "fr": 6392714899112,
+            "enFull": 6392715307112,
+            "frFull": 6392715197112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2607,6 +2621,17 @@
             "frFull": 6391587023112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021233,
+          "goalIndex": 5,
+          "date": "2026-04-07",
+          "opponentTricode": "MTL",
+          "shotType": "tip-in",
+          "clip": {
+            "enFull": 6392722244112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2624,6 +2649,20 @@
             "fr": 6391220276112,
             "enFull": 6391221946112,
             "frFull": 6391220778112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021233,
+          "goalIndex": 3,
+          "date": "2026-04-07",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392718028112,
+            "fr": 6392718433112,
+            "enFull": 6392723898112,
+            "frFull": 6392719511112
           },
           "goalClassification": "Rush"
         }

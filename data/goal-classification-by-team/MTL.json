@@ -161,6 +161,20 @@
             "frFull": 6390702260112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021233,
+          "goalIndex": 4,
+          "date": "2026-04-07",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392721119112,
+            "fr": 6392722103112,
+            "enFull": 6392720853112,
+            "frFull": 6392721806112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1122,6 +1136,20 @@
             "frFull": 6392308330112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021233,
+          "goalIndex": 6,
+          "date": "2026-04-07",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392722938112,
+            "fr": 6392722631112,
+            "enFull": 6392722148112,
+            "frFull": 6392723901112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -3822,6 +3850,20 @@
             "frFull": 6392586443112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021233,
+          "goalIndex": 2,
+          "date": "2026-04-07",
+          "opponentTricode": "FLA",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392718598112,
+            "fr": 6392717516112,
+            "enFull": 6392717605112,
+            "frFull": 6392717522112
+          },
+          "goalClassification": "Seam"
         }
       ]
     }

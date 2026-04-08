@@ -2213,6 +2213,20 @@
             "frFull": 6391988470112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021239,
+          "goalIndex": 6,
+          "date": "2026-04-07",
+          "opponentTricode": "CGY",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392724150112,
+            "fr": 6392725622112,
+            "enFull": 6392725634112,
+            "frFull": 6392723693112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3399,6 +3413,34 @@
             "frFull": 6392305334112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021239,
+          "goalIndex": 5,
+          "date": "2026-04-07",
+          "opponentTricode": "CGY",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392723079112,
+            "fr": 6392725220112,
+            "enFull": 6392724133112,
+            "frFull": 6392722774112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021239,
+          "goalIndex": 7,
+          "date": "2026-04-07",
+          "opponentTricode": "CGY",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392726473112,
+            "fr": 6392725477112,
+            "enFull": 6392726184112,
+            "frFull": 6392725608112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3631,6 +3673,20 @@
             "fr": 6391988328112,
             "enFull": 6391987280112,
             "frFull": 6391988822112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021239,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "CGY",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392720131112,
+            "fr": 6392720454112,
+            "enFull": 6392721992112,
+            "frFull": 6392722189112
           },
           "goalClassification": "Cycle"
         }

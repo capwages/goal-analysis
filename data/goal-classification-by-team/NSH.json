@@ -1263,6 +1263,20 @@
             "frFull": 6392594645112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021243,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392726612112,
+            "fr": 6392727515112,
+            "enFull": 6392729468112,
+            "frFull": 6392730068112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1467,6 +1481,20 @@
             "enFull": 6391585800112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021243,
+          "goalIndex": 3,
+          "date": "2026-04-07",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392730691112,
+            "fr": 6392728929112,
+            "enFull": 6392729125112,
+            "frFull": 6392730967112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1989,6 +2017,20 @@
             "frFull": 6392590999112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021243,
+          "goalIndex": 2,
+          "date": "2026-04-07",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392727604112,
+            "fr": 6392729677112,
+            "enFull": 6392728314112,
+            "frFull": 6392729482112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2831,6 +2873,20 @@
             "frFull": 6392487562112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021243,
+          "goalIndex": 4,
+          "date": "2026-04-07",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392732391112,
+            "fr": 6392729743112,
+            "enFull": 6392732194112,
+            "frFull": 6392730830112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2878,6 +2934,20 @@
             "frFull": 6391000236112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021243,
+          "goalIndex": 5,
+          "date": "2026-04-07",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392732992112,
+            "fr": 6392732210112,
+            "enFull": 6392730043112,
+            "frFull": 6392732300112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

@@ -58,6 +58,20 @@
             "frFull": 6392092310112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021234,
+          "goalIndex": 5,
+          "date": "2026-04-07",
+          "opponentTricode": "OTT",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392721148112,
+            "fr": 6392720663112,
+            "enFull": 6392724200112,
+            "frFull": 6392723494112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1825,6 +1839,20 @@
             "frFull": 6388651874112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021234,
+          "goalIndex": 2,
+          "date": "2026-04-07",
+          "opponentTricode": "OTT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392719423112,
+            "fr": 6392718941112,
+            "enFull": 6392721384112,
+            "frFull": 6392721582112
+          },
+          "goalClassification": null
         }
       ]
     },

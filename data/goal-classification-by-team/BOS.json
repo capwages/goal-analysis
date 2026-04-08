@@ -133,6 +133,20 @@
             "frFull": 6388403224112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021237,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392714597112,
+            "fr": 6392715294112,
+            "enFull": 6392715957112,
+            "frFull": 6392716668112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1571,6 +1585,20 @@
             "frFull": 6392618549112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021237,
+          "goalIndex": 10,
+          "date": "2026-04-07",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392722843112,
+            "fr": 6392723509112,
+            "enFull": 6392723320112,
+            "frFull": 6392722629112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2510,6 +2538,48 @@
             "frFull": 6390461957112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021237,
+          "goalIndex": 4,
+          "date": "2026-04-07",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392718055112,
+            "fr": 6392717082112,
+            "enFull": 6392716603112,
+            "frFull": 6392715511112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021237,
+          "goalIndex": 5,
+          "date": "2026-04-07",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392718751112,
+            "fr": 6392717892112,
+            "enFull": 6392717584112,
+            "frFull": 6392716005112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021237,
+          "goalIndex": 9,
+          "date": "2026-04-07",
+          "opponentTricode": "CAR",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392718741112,
+            "fr": 6392720703112,
+            "enFull": 6392721679112,
+            "frFull": 6392721681112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

@@ -2747,6 +2747,20 @@
             "frFull": 6392398290112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021242,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "VGK",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392729576112,
+            "fr": 6392727601112,
+            "enFull": 6392728907112,
+            "frFull": 6392728307112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

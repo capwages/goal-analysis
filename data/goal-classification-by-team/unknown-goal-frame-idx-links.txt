@@ -433,3 +433,8 @@
 /gameday/UTA-VAN?gameId=2025021216&goal=6
 /gameday/CHI-SEA?gameId=2025021221&goal=1
 /gameday/CAR-OTT?gameId=2025021225&goal=7
+/gameday/TBL-OTT?gameId=2025021234&goal=4
+/gameday/PHI-NJD?gameId=2025021236&goal=2
+/gameday/PHI-NJD?gameId=2025021236&goal=6
+/gameday/BOS-CAR?gameId=2025021237&goal=2
+/gameday/SEA-MIN?gameId=2025021240&goal=5

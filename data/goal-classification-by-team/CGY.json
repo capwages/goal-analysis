@@ -1784,6 +1784,20 @@
             "frFull": 6392590144112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021239,
+          "goalIndex": 2,
+          "date": "2026-04-07",
+          "opponentTricode": "DAL",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392722792112,
+            "fr": 6392722897112,
+            "enFull": 6392722705112,
+            "frFull": 6392720358112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2065,6 +2079,20 @@
             "frFull": 6390822626112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021239,
+          "goalIndex": 3,
+          "date": "2026-04-07",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392723594112,
+            "fr": 6392723105112,
+            "enFull": 6392721244112,
+            "frFull": 6392723497112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2742,6 +2770,20 @@
           "shotType": "wrist",
           "clip": {},
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021239,
+          "goalIndex": 4,
+          "date": "2026-04-07",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392724423112,
+            "fr": 6392723817112,
+            "enFull": 6392723166112,
+            "frFull": 6392722884112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

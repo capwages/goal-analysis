@@ -586,6 +586,20 @@
             "frFull": 6388786679112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021240,
+          "goalIndex": 3,
+          "date": "2026-04-07",
+          "opponentTricode": "MIN",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392719901112,
+            "fr": 6392721273112,
+            "enFull": 6392720095112,
+            "frFull": 6392719904112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1365,6 +1379,20 @@
             "frFull": 6391801023112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021240,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "MIN",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392720576112,
+            "fr": 6392720285112,
+            "enFull": 6392719502112,
+            "frFull": 6392720493112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

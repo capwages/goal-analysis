@@ -1146,6 +1146,20 @@
             "frFull": 6390991691112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021234,
+          "goalIndex": 3,
+          "date": "2026-04-07",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392721328112,
+            "fr": 6392722606112,
+            "enFull": 6392720640112,
+            "frFull": 6392720733112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2592,6 +2606,20 @@
             "frFull": 6392622547112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021234,
+          "goalIndex": 8,
+          "date": "2026-04-07",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392723332112,
+            "fr": 6392721865112,
+            "enFull": 6392722560112,
+            "frFull": 6392721265112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -2681,6 +2709,20 @@
             "frFull": 6392301986112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021234,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392719130112,
+            "fr": 6392720206112,
+            "enFull": 6392720691112,
+            "frFull": 6392718934112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3059,6 +3101,34 @@
             "frFull": 6388738493112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021234,
+          "goalIndex": 4,
+          "date": "2026-04-07",
+          "opponentTricode": "TBL",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392722217112,
+            "fr": 6392721435112,
+            "enFull": 6392721055112,
+            "frFull": 6392722704112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021234,
+          "goalIndex": 7,
+          "date": "2026-04-07",
+          "opponentTricode": "TBL",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392723026112,
+            "fr": 6392722838112,
+            "enFull": 6392722456112,
+            "frFull": 6392721158112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3523,6 +3593,20 @@
             "frFull": 6392617622112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021234,
+          "goalIndex": 6,
+          "date": "2026-04-07",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392721354112,
+            "fr": 6392722925112,
+            "enFull": 6392722535112,
+            "frFull": 6392720961112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

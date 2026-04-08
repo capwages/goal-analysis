@@ -330,3 +330,10 @@
 /gameday/NSH-SJS?gameId=2025021220&goal=2
 /gameday/NSH-SJS?gameId=2025021220&goal=7
 /gameday/NSH-SJS?gameId=2025021220&goal=8
+/gameday/TBL-OTT?gameId=2025021234&goal=2
+/gameday/TBL-OTT?gameId=2025021234&goal=4
+/gameday/PHI-NJD?gameId=2025021236&goal=2
+/gameday/BOS-CAR?gameId=2025021237&goal=4
+/gameday/BOS-CAR?gameId=2025021237&goal=8
+/gameday/BOS-CAR?gameId=2025021237&goal=11
+/gameday/EDM-UTA?gameId=2025021241&goal=7

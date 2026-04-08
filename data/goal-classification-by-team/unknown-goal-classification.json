@@ -3318,5 +3318,75 @@
     "scorerId": 8475287,
     "opponentTricode": "SJS",
     "shotType": "snap"
+  },
+  {
+    "gameId": 2025021234,
+    "goalIndex": 2,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/TBL-OTT?gameId=2025021234&goal=2",
+    "teamAbbrev": "TBL",
+    "scorerId": 8477426,
+    "opponentTricode": "OTT",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021234,
+    "goalIndex": 4,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/TBL-OTT?gameId=2025021234&goal=4",
+    "teamAbbrev": "OTT",
+    "scorerId": 8482105,
+    "opponentTricode": "TBL",
+    "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021236,
+    "goalIndex": 2,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/PHI-NJD?gameId=2025021236&goal=2",
+    "teamAbbrev": "PHI",
+    "scorerId": 8481533,
+    "opponentTricode": "NJD",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021237,
+    "goalIndex": 4,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/BOS-CAR?gameId=2025021237&goal=4",
+    "teamAbbrev": "BOS",
+    "scorerId": 8479987,
+    "opponentTricode": "CAR",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021237,
+    "goalIndex": 8,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/BOS-CAR?gameId=2025021237&goal=8",
+    "teamAbbrev": "CAR",
+    "scorerId": 8475791,
+    "opponentTricode": "BOS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021237,
+    "goalIndex": 11,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/BOS-CAR?gameId=2025021237&goal=11",
+    "teamAbbrev": "CAR",
+    "scorerId": 8476958,
+    "opponentTricode": "BOS",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021241,
+    "goalIndex": 7,
+    "date": "2026-04-07",
+    "gamedayPath": "/gameday/EDM-UTA?gameId=2025021241&goal=7",
+    "teamAbbrev": "EDM",
+    "scorerId": 8481617,
+    "opponentTricode": "UTA",
+    "shotType": "backhand"
   }
 ]

@@ -114,6 +114,20 @@
             "frFull": 6392009859112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021241,
+          "goalIndex": 10,
+          "date": "2026-04-07",
+          "opponentTricode": "EDM",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392730426112,
+            "fr": 6392729344112,
+            "enFull": 6392728837112,
+            "frFull": 6392731685112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -651,6 +665,34 @@
             "frFull": 6392487818112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021241,
+          "goalIndex": 5,
+          "date": "2026-04-07",
+          "opponentTricode": "EDM",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392727286112,
+            "fr": 6392726007112,
+            "enFull": 6392727391112,
+            "frFull": 6392726907112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021241,
+          "goalIndex": 8,
+          "date": "2026-04-07",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392727702112,
+            "fr": 6392729398112,
+            "enFull": 6392729287112,
+            "frFull": 6392729478112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1443,6 +1485,20 @@
             "frFull": 6392590288112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021241,
+          "goalIndex": 11,
+          "date": "2026-04-07",
+          "opponentTricode": "EDM",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392731802112,
+            "fr": 6392731801112,
+            "enFull": 6392732396112,
+            "frFull": 6392730323112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2664,6 +2720,20 @@
             "frFull": 6392489238112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021241,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "EDM",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392723055112,
+            "fr": 6392723236112,
+            "enFull": 6392723529112,
+            "frFull": 6392721976112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3502,6 +3572,20 @@
             "fr": 6392486818112,
             "enFull": 6392487804112,
             "frFull": 6392488277112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021241,
+          "goalIndex": 6,
+          "date": "2026-04-07",
+          "opponentTricode": "EDM",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392727006112,
+            "fr": 6392729460112,
+            "enFull": 6392727422112,
+            "frFull": 6392729269112
           },
           "goalClassification": "Cycle"
         }

@@ -1514,6 +1514,20 @@
             "frFull": 6392629987112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021238,
+          "goalIndex": 4,
+          "date": "2026-04-07",
+          "opponentTricode": "COL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392722241112,
+            "fr": 6392722331112,
+            "enFull": 6392721941112,
+            "frFull": 6392721755112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

@@ -2165,6 +2165,34 @@
             "frFull": 6391303053112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021238,
+          "goalIndex": 1,
+          "date": "2026-04-07",
+          "opponentTricode": "STL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392719418112,
+            "fr": 6392719521112,
+            "enFull": 6392720591112,
+            "frFull": 6392719608112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021238,
+          "goalIndex": 3,
+          "date": "2026-04-07",
+          "opponentTricode": "STL",
+          "shotType": "between-legs",
+          "clip": {
+            "en": 6392722200112,
+            "fr": 6392722382112,
+            "enFull": 6392721738112,
+            "frFull": 6392721037112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3089,6 +3117,20 @@
             "frFull": 6392579478112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021238,
+          "goalIndex": 2,
+          "date": "2026-04-07",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392720995112,
+            "fr": 6392721185112,
+            "enFull": 6392721386112,
+            "frFull": 6392718735112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
