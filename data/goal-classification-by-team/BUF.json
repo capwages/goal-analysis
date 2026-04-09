@@ -324,6 +324,20 @@
             "frFull": 6392662289112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021244,
+          "goalIndex": 7,
+          "date": "2026-04-08",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392781433112,
+            "fr": 6392782992112,
+            "enFull": 6392780450112,
+            "frFull": 6392780449112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -822,6 +836,20 @@
             "frFull": 6392657011112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021244,
+          "goalIndex": 6,
+          "date": "2026-04-08",
+          "opponentTricode": "NYR",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392780642112,
+            "fr": 6392782214112,
+            "enFull": 6392781341112,
+            "frFull": 6392781813112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1844,6 +1872,20 @@
             "frFull": 6390456789112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021244,
+          "goalIndex": 1,
+          "date": "2026-04-08",
+          "opponentTricode": "NYR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392778238112,
+            "fr": 6392777553112,
+            "enFull": 6392777643112,
+            "frFull": 6392777851112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3769,6 +3811,34 @@
             "frFull": 6391696737112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021244,
+          "goalIndex": 2,
+          "date": "2026-04-08",
+          "opponentTricode": "NYR",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392778843112,
+            "fr": 6392776897112,
+            "enFull": 6392778362112,
+            "frFull": 6392778842112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021244,
+          "goalIndex": 8,
+          "date": "2026-04-08",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392782922112,
+            "fr": 6392783491112,
+            "enFull": 6392782334112,
+            "frFull": 6392783206112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },

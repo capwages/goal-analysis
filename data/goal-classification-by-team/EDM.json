@@ -2513,6 +2513,47 @@
             "frFull": 6392724269112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021246,
+          "goalIndex": 2,
+          "date": "2026-04-08",
+          "opponentTricode": "SJS",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392784322112,
+            "fr": 6392783828112,
+            "enFull": 6392784028112,
+            "frFull": 6392783831112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021246,
+          "goalIndex": 6,
+          "date": "2026-04-08",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392784259112,
+            "fr": 6392785930112,
+            "enFull": 6392784552112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021246,
+          "goalIndex": 7,
+          "date": "2026-04-08",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392786246112,
+            "fr": 6392786430112,
+            "enFull": 6392785469112,
+            "frFull": 6392784477112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2796,6 +2837,20 @@
             "fr": 6391983857112,
             "enFull": 6391985605112,
             "frFull": 6391984836112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021246,
+          "goalIndex": 4,
+          "date": "2026-04-08",
+          "opponentTricode": "SJS",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392784855112,
+            "fr": 6392785450112,
+            "enFull": 6392783685112,
+            "frFull": 6392785442112
           },
           "goalClassification": "Rush"
         }
@@ -3547,6 +3602,20 @@
             "frFull": 6392729385112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021246,
+          "goalIndex": 3,
+          "date": "2026-04-08",
+          "opponentTricode": "SJS",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392784431112,
+            "fr": 6392785617112,
+            "enFull": 6392784357112,
+            "frFull": 6392784157112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

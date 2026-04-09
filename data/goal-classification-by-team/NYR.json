@@ -1896,6 +1896,20 @@
             "frFull": 6392626243112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021244,
+          "goalIndex": 5,
+          "date": "2026-04-08",
+          "opponentTricode": "BUF",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392778729112,
+            "fr": 6392779929112,
+            "enFull": 6392780032112,
+            "frFull": 6392781574112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2573,6 +2587,34 @@
             "enFull": 6391902560112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021244,
+          "goalIndex": 3,
+          "date": "2026-04-08",
+          "opponentTricode": "BUF",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392779473112,
+            "fr": 6392777896112,
+            "enFull": 6392779567112,
+            "frFull": 6392777216112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021244,
+          "goalIndex": 4,
+          "date": "2026-04-08",
+          "opponentTricode": "BUF",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392779529112,
+            "fr": 6392780861112,
+            "enFull": 6392779720112,
+            "frFull": 6392780865112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

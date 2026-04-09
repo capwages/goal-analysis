@@ -4838,5 +4838,27 @@
     "opponentTricode": "SEA",
     "shotType": "wrist",
     "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021244,
+    "goalIndex": 7,
+    "date": "2026-04-08",
+    "gamedayPath": "/gameday/BUF-NYR?gameId=2025021244&goal=7",
+    "teamAbbrev": "BUF",
+    "scorerId": 8475722,
+    "opponentTricode": "NYR",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021246,
+    "goalIndex": 2,
+    "date": "2026-04-08",
+    "gamedayPath": "/gameday/EDM-SJS?gameId=2025021246&goal=2",
+    "teamAbbrev": "EDM",
+    "scorerId": 8478402,
+    "opponentTricode": "SJS",
+    "shotType": "backhand",
+    "goalClassification": "Cycle"
   }
 ]

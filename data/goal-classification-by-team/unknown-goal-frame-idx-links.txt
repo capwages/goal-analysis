@@ -438,3 +438,5 @@
 /gameday/PHI-NJD?gameId=2025021236&goal=6
 /gameday/BOS-CAR?gameId=2025021237&goal=2
 /gameday/SEA-MIN?gameId=2025021240&goal=5
+/gameday/BUF-NYR?gameId=2025021244&goal=7
+/gameday/EDM-SJS?gameId=2025021246&goal=2

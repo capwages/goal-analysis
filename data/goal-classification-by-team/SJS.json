@@ -1376,6 +1376,20 @@
             "frFull": 6392667317112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021246,
+          "goalIndex": 5,
+          "date": "2026-04-08",
+          "opponentTricode": "EDM",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392785052112,
+            "fr": 6392783982112,
+            "enFull": 6392784665112,
+            "frFull": 6392785927112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2890,6 +2904,20 @@
             "frFull": 6392593232112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021246,
+          "goalIndex": 1,
+          "date": "2026-04-08",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392782467112,
+            "fr": 6392784703112,
+            "enFull": 6392782676112,
+            "frFull": 6392783736112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
