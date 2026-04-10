@@ -1587,6 +1587,20 @@
             "frFull": 6390177590112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021258,
+          "goalIndex": 5,
+          "date": "2026-04-09",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392851078112,
+            "fr": 6392849994112,
+            "enFull": 6392850899112,
+            "frFull": 6392848528112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

@@ -3388,5 +3388,15 @@
     "scorerId": 8481617,
     "opponentTricode": "UTA",
     "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021255,
+    "goalIndex": 7,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/CAR-CHI?gameId=2025021255&goal=7",
+    "teamAbbrev": "CHI",
+    "scorerId": 8485391,
+    "opponentTricode": "CAR",
+    "shotType": "tip-in"
   }
 ]

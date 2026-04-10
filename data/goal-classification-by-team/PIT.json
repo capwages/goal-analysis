@@ -253,6 +253,20 @@
             "frFull": 6392582232112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021251,
+          "goalIndex": 6,
+          "date": "2026-04-09",
+          "opponentTricode": "NJD",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392837160112,
+            "fr": 6392837452112,
+            "enFull": 6392837856112,
+            "frFull": 6392836885112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -912,6 +926,20 @@
             "frFull": 6392577775112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021251,
+          "goalIndex": 7,
+          "date": "2026-04-09",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392837882112,
+            "fr": 6392837684112,
+            "enFull": 6392836204112,
+            "frFull": 6392836202112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1356,6 +1384,20 @@
             "frFull": 6392619261112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021251,
+          "goalIndex": 1,
+          "date": "2026-04-09",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392832332112,
+            "fr": 6392833130112,
+            "enFull": 6392833048112,
+            "frFull": 6392832554112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2457,6 +2499,20 @@
             "frFull": 6390954216112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021251,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392835667112,
+            "fr": 6392834058112,
+            "enFull": 6392836136112,
+            "frFull": 6392835953112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3635,6 +3691,20 @@
             "frFull": 6392482874112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021251,
+          "goalIndex": 4,
+          "date": "2026-04-09",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392836439112,
+            "fr": 6392836336112,
+            "enFull": 6392836056112,
+            "frFull": 6392836522112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

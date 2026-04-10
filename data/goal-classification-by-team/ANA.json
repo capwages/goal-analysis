@@ -184,6 +184,20 @@
             "frFull": 6392404614112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021258,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392847364112,
+            "fr": 6392846000112,
+            "enFull": 6392847673112,
+            "frFull": 6392848255112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -203,6 +217,48 @@
             "frFull": 6392214300112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021258,
+          "goalIndex": 2,
+          "date": "2026-04-09",
+          "opponentTricode": "SJS",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392843305112,
+            "fr": 6392840548112,
+            "enFull": 6392843503112,
+            "frFull": 6392844095112
+          },
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021258,
+          "goalIndex": 4,
+          "date": "2026-04-09",
+          "opponentTricode": "SJS",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392848521112,
+            "fr": 6392849601112,
+            "enFull": 6392850470112,
+            "frFull": 6392850372112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021258,
+          "goalIndex": 6,
+          "date": "2026-04-09",
+          "opponentTricode": "SJS",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392851565112,
+            "fr": 6392851363112,
+            "enFull": 6392851259112,
+            "frFull": 6392850695112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1120,6 +1176,20 @@
             "frFull": 6390411443112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021258,
+          "goalIndex": 7,
+          "date": "2026-04-09",
+          "opponentTricode": "SJS",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392851371112,
+            "fr": 6392849709112,
+            "enFull": 6392849620112,
+            "frFull": 6392850393112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3246,6 +3316,20 @@
             "frFull": 6392594136112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021258,
+          "goalIndex": 1,
+          "date": "2026-04-09",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392842267112,
+            "fr": 6392839738112,
+            "enFull": 6392843993112,
+            "frFull": 6392839933112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

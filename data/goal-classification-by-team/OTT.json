@@ -184,6 +184,20 @@
             "frFull": 6392622286112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021249,
+          "goalIndex": 5,
+          "date": "2026-04-09",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392840873112,
+            "fr": 6392842575112,
+            "enFull": 6392841667112,
+            "frFull": 6392841470112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -1160,6 +1174,34 @@
             "frFull": 6392720733112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021249,
+          "goalIndex": 2,
+          "date": "2026-04-09",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392834504112,
+            "fr": 6392833650112,
+            "enFull": 6392834304112,
+            "frFull": 6392833743112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021249,
+          "goalIndex": 6,
+          "date": "2026-04-09",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392839569112,
+            "fr": 6392839465112,
+            "enFull": 6392841774112,
+            "frFull": 6392842482112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1597,6 +1639,20 @@
             "frFull": 6392575544112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021249,
+          "goalIndex": 1,
+          "date": "2026-04-09",
+          "opponentTricode": "FLA",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392832143112,
+            "fr": 6392833517112,
+            "enFull": 6392832743112,
+            "frFull": 6392832742112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -3665,6 +3721,20 @@
             "fr": 6387681734112,
             "enFull": 6387681230112,
             "frFull": 6387681128112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021249,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392836781112,
+            "fr": 6392837555112,
+            "enFull": 6392836791112,
+            "frFull": 6392838450112
           },
           "goalClassification": "Cycle"
         }

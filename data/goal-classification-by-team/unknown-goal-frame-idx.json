@@ -4860,5 +4860,93 @@
     "opponentTricode": "SJS",
     "shotType": "backhand",
     "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021247,
+    "goalIndex": 5,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/CBJ-BUF?gameId=2025021247&goal=5",
+    "teamAbbrev": "BUF",
+    "scorerId": 8480839,
+    "opponentTricode": "CBJ",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021251,
+    "goalIndex": 2,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/PIT-NJD?gameId=2025021251&goal=2",
+    "teamAbbrev": "NJD",
+    "scorerId": 8481032,
+    "opponentTricode": "PIT",
+    "shotType": "backhand",
+    "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021251,
+    "goalIndex": 7,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/PIT-NJD?gameId=2025021251&goal=7",
+    "teamAbbrev": "PIT",
+    "scorerId": 8474578,
+    "opponentTricode": "NJD",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021254,
+    "goalIndex": 1,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/MIN-DAL?gameId=2025021254&goal=1",
+    "teamAbbrev": "DAL",
+    "scorerId": 8482740,
+    "opponentTricode": "MIN",
+    "shotType": "snap",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021254,
+    "goalIndex": 4,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/MIN-DAL?gameId=2025021254&goal=4",
+    "teamAbbrev": "MIN",
+    "scorerId": 8478864,
+    "opponentTricode": "DAL",
+    "shotType": "snap",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021255,
+    "goalIndex": 4,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/CAR-CHI?gameId=2025021255&goal=4",
+    "teamAbbrev": "CAR",
+    "scorerId": 8482702,
+    "opponentTricode": "CHI",
+    "shotType": "backhand",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021258,
+    "goalIndex": 7,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/SJS-ANA?gameId=2025021258&goal=7",
+    "teamAbbrev": "ANA",
+    "scorerId": 8478366,
+    "opponentTricode": "SJS",
+    "shotType": "backhand",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021259,
+    "goalIndex": 2,
+    "date": "2026-04-09",
+    "gamedayPath": "/gameday/VGK-SEA?gameId=2025021259&goal=2",
+    "teamAbbrev": "VGK",
+    "scorerId": 8475913,
+    "opponentTricode": "SEA",
+    "shotType": "backhand",
+    "goalClassification": "Cycle"
   }
 ]

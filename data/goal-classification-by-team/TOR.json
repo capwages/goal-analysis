@@ -770,6 +770,20 @@
             "frFull": 6392221325112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021252,
+          "goalIndex": 8,
+          "date": "2026-04-09",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392836894112,
+            "fr": 6392837264112,
+            "enFull": 6392838658112,
+            "frFull": 6392838749112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1836,6 +1850,20 @@
             "frFull": 6392583959112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021252,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392833299112,
+            "fr": 6392831240112,
+            "enFull": 6392831734112,
+            "frFull": 6392831624112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3464,6 +3492,20 @@
             "fr": 6392587459112,
             "enFull": 6392585990112,
             "frFull": 6392587361112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021252,
+          "goalIndex": 4,
+          "date": "2026-04-09",
+          "opponentTricode": "NYI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392835711112,
+            "fr": 6392835126112,
+            "enFull": 6392833175112,
+            "frFull": 6392834219112
           },
           "goalClassification": "Cycle"
         }

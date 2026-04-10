@@ -1236,6 +1236,20 @@
             "frFull": 6392664511112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021259,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "VGK",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392848102112,
+            "fr": 6392847497112,
+            "enFull": 6392847499112,
+            "frFull": 6392848103112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -2207,6 +2221,20 @@
             "frFull": 6392485187112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021259,
+          "goalIndex": 6,
+          "date": "2026-04-09",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392850490112,
+            "fr": 6392850696112,
+            "enFull": 6392848630112,
+            "frFull": 6392851566112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3098,6 +3126,20 @@
             "frFull": 6390997303112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021259,
+          "goalIndex": 5,
+          "date": "2026-04-09",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392850777112,
+            "fr": 6392849416112,
+            "enFull": 6392849309112,
+            "frFull": 6392850780112
+          },
+          "goalClassification": "Rush"
         }
       ]
     }

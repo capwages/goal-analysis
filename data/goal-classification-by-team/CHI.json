@@ -2905,6 +2905,34 @@
             "frFull": 6392301992112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 2,
+          "date": "2026-04-09",
+          "opponentTricode": "CAR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392838142112,
+            "fr": 6392836583112,
+            "enFull": 6392836499112,
+            "frFull": 6392837048112
+          },
+          "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 7,
+          "date": "2026-04-09",
+          "opponentTricode": "CAR",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392844742112,
+            "fr": 6392845330112,
+            "enFull": 6392844150112,
+            "frFull": 6392843966112
+          },
+          "goalClassification": null
         }
       ]
     }

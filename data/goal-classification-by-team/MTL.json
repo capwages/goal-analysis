@@ -2281,6 +2281,20 @@
             "frFull": 6392482225112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021248,
+          "goalIndex": 1,
+          "date": "2026-04-09",
+          "opponentTricode": "TBL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392835271112,
+            "fr": 6392834482112,
+            "enFull": 6392834658112,
+            "frFull": 6392834480112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3607,6 +3621,20 @@
             "frFull": 6392296948112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021248,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "TBL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392841438112,
+            "fr": 6392840804112,
+            "enFull": 6392841435112,
+            "frFull": 6392839900112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

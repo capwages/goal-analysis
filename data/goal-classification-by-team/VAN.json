@@ -371,6 +371,20 @@
             "frFull": 6392408604112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021260,
+          "goalIndex": 2,
+          "date": "2026-04-09",
+          "opponentTricode": "LAK",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392848438112,
+            "fr": 6392848242112,
+            "enFull": 6392848055112,
+            "frFull": 6392848047112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

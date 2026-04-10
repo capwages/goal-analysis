@@ -1973,6 +1973,20 @@
             "frFull": 6391050605112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021251,
+          "goalIndex": 2,
+          "date": "2026-04-09",
+          "opponentTricode": "PIT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392835843112,
+            "fr": 6392835844112,
+            "enFull": 6392835150112,
+            "frFull": 6392836329112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2347,6 +2361,20 @@
             "frFull": 6392586364112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021251,
+          "goalIndex": 5,
+          "date": "2026-04-09",
+          "opponentTricode": "PIT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392834083112,
+            "fr": 6392834084112,
+            "enFull": 6392837117112,
+            "frFull": 6392835389112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

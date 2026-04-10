@@ -613,6 +613,34 @@
             "frFull": 6392591884112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021259,
+          "goalIndex": 1,
+          "date": "2026-04-09",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392843706112,
+            "fr": 6392844419112,
+            "enFull": 6392843640112,
+            "frFull": 6392845429112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021259,
+          "goalIndex": 2,
+          "date": "2026-04-09",
+          "opponentTricode": "SEA",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392845996112,
+            "fr": 6392846101112,
+            "enFull": 6392848256112,
+            "frFull": 6392847446112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2754,6 +2782,20 @@
             "frFull": 6392590524112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021259,
+          "goalIndex": 4,
+          "date": "2026-04-09",
+          "opponentTricode": "SEA",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392850368112,
+            "fr": 6392849785112,
+            "enFull": 6392848614112,
+            "frFull": 6392849980112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },

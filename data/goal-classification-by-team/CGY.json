@@ -2875,6 +2875,25 @@
           "goalClassification": "Rush"
         }
       ]
+    },
+    {
+      "id": 8486056,
+      "goals": [
+        {
+          "gameId": 2025021256,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "COL",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392846700112,
+            "fr": 6392848474112,
+            "enFull": 6392849150112,
+            "frFull": 6392848397112
+          },
+          "goalClassification": "Cycle"
+        }
+      ]
     }
   ]
 }

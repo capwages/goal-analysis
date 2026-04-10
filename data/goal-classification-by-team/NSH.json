@@ -1277,6 +1277,20 @@
             "frFull": 6392730068112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021257,
+          "goalIndex": 5,
+          "date": "2026-04-09",
+          "opponentTricode": "UTA",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392846998112,
+            "fr": 6392846999112,
+            "enFull": 6392847788112,
+            "frFull": 6392847183112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

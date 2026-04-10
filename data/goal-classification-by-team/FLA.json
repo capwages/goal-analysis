@@ -2490,6 +2490,20 @@
             "frFull": 6385544690112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021249,
+          "goalIndex": 4,
+          "date": "2026-04-09",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392838861112,
+            "fr": 6392838371112,
+            "enFull": 6392840163112,
+            "frFull": 6392838181112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

@@ -440,3 +440,11 @@
 /gameday/SEA-MIN?gameId=2025021240&goal=5
 /gameday/BUF-NYR?gameId=2025021244&goal=7
 /gameday/EDM-SJS?gameId=2025021246&goal=2
+/gameday/CBJ-BUF?gameId=2025021247&goal=5
+/gameday/PIT-NJD?gameId=2025021251&goal=2
+/gameday/PIT-NJD?gameId=2025021251&goal=7
+/gameday/MIN-DAL?gameId=2025021254&goal=1
+/gameday/MIN-DAL?gameId=2025021254&goal=4
+/gameday/CAR-CHI?gameId=2025021255&goal=4
+/gameday/SJS-ANA?gameId=2025021258&goal=7
+/gameday/VGK-SEA?gameId=2025021259&goal=2

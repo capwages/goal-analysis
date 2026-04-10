@@ -510,6 +510,20 @@
             "frFull": 6392718816112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 8,
+          "date": "2026-04-09",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392843868112,
+            "fr": 6392845451112,
+            "enFull": 6392844365112,
+            "frFull": 6392845747112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -646,6 +660,34 @@
             "frFull": 6391412355112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 5,
+          "date": "2026-04-09",
+          "opponentTricode": "CHI",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392840324112,
+            "fr": 6392840515112,
+            "enFull": 6392840518112,
+            "frFull": 6392842944112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 9,
+          "date": "2026-04-09",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392846334112,
+            "fr": 6392843773112,
+            "enFull": 6392846529112,
+            "frFull": 6392845581112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1972,6 +2014,20 @@
             "frFull": 6391153912112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 1,
+          "date": "2026-04-09",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392834682112,
+            "fr": 6392835185112,
+            "enFull": 6392836854112,
+            "frFull": 6392837133112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2248,6 +2304,20 @@
             "frFull": 6392716586112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 6,
+          "date": "2026-04-09",
+          "opponentTricode": "CHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392845525112,
+            "fr": 6392843845112,
+            "enFull": 6392844945112,
+            "frFull": 6392844438112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3587,6 +3657,34 @@
             "frFull": 6392719194112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "CHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392838346112,
+            "fr": 6392838941112,
+            "enFull": 6392838458112,
+            "frFull": 6392836981112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021255,
+          "goalIndex": 4,
+          "date": "2026-04-09",
+          "opponentTricode": "CHI",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392842098112,
+            "fr": 6392839974112,
+            "enFull": 6392839875112,
+            "frFull": 6392839591112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

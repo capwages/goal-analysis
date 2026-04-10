@@ -946,6 +946,20 @@
             "frFull": 6392400127112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021256,
+          "goalIndex": 1,
+          "date": "2026-04-09",
+          "opponentTricode": "CGY",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392840694112,
+            "fr": 6392839984112,
+            "enFull": 6392840292112,
+            "frFull": 6392839599112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1948,6 +1962,20 @@
             "fr": 6392578517112,
             "enFull": 6392580277112,
             "frFull": 6392579592112
+          },
+          "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021256,
+          "goalIndex": 4,
+          "date": "2026-04-09",
+          "opponentTricode": "CGY",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392847213112,
+            "fr": 6392847815112,
+            "enFull": 6392849072112,
+            "frFull": 6392848784112
           },
           "goalClassification": "Empty Net"
         }
@@ -3129,6 +3157,20 @@
             "fr": 6392721185112,
             "enFull": 6392721386112,
             "frFull": 6392718735112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021256,
+          "goalIndex": 2,
+          "date": "2026-04-09",
+          "opponentTricode": "CGY",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392843148112,
+            "fr": 6392843547112,
+            "enFull": 6392843066112,
+            "frFull": 6392843721112
           },
           "goalClassification": "Cycle"
         }

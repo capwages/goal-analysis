@@ -643,6 +643,20 @@
             "frFull": 6392666477112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021260,
+          "goalIndex": 3,
+          "date": "2026-04-09",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392845886112,
+            "fr": 6392848534112,
+            "enFull": 6392846093112,
+            "frFull": 6392847069112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1442,6 +1456,34 @@
             "frFull": 6392588387112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021260,
+          "goalIndex": 1,
+          "date": "2026-04-09",
+          "opponentTricode": "VAN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392843564112,
+            "fr": 6392843467112,
+            "enFull": 6392845629112,
+            "frFull": 6392845727112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021260,
+          "goalIndex": 4,
+          "date": "2026-04-09",
+          "opponentTricode": "VAN",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392850893112,
+            "fr": 6392848621112,
+            "enFull": 6392850981112,
+            "frFull": 6392849801112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1820,6 +1862,20 @@
             "frFull": 6392410749112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021260,
+          "goalIndex": 5,
+          "date": "2026-04-09",
+          "opponentTricode": "VAN",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392852271112,
+            "fr": 6392851012112,
+            "enFull": 6392851878112,
+            "frFull": 6392850820112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

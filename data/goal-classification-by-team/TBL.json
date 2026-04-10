@@ -2409,6 +2409,20 @@
             "frFull": 6392583451112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021248,
+          "goalIndex": 2,
+          "date": "2026-04-09",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392842113112,
+            "fr": 6392840191112,
+            "enFull": 6392841913112,
+            "frFull": 6392840910112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
