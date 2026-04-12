@@ -2580,6 +2580,20 @@
             "frFull": 6392721681112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021261,
+          "goalIndex": 1,
+          "date": "2026-04-11",
+          "opponentTricode": "TBL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392933125112,
+            "fr": 6392932743112,
+            "enFull": 6392933542112,
+            "frFull": 6392933727112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

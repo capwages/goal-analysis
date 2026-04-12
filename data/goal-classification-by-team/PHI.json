@@ -44,6 +44,20 @@
             "frFull": 6392722921112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021272,
+          "goalIndex": 8,
+          "date": "2026-04-11",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392952989112,
+            "fr": 6392951428112,
+            "enFull": 6392952015112,
+            "frFull": 6392953477112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -184,6 +198,34 @@
           "shotType": "wrist",
           "clip": {},
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021272,
+          "goalIndex": 4,
+          "date": "2026-04-11",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392948622112,
+            "fr": 6392946186112,
+            "enFull": 6392948240112,
+            "frFull": 6392946473112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021272,
+          "goalIndex": 7,
+          "date": "2026-04-11",
+          "opponentTricode": "WPG",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392950929112,
+            "fr": 6392951689112,
+            "enFull": 6392951596112,
+            "frFull": 6392952104112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -399,6 +441,20 @@
             "frFull": 6392543341112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021272,
+          "goalIndex": 5,
+          "date": "2026-04-11",
+          "opponentTricode": "WPG",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392948516112,
+            "fr": 6392950068112,
+            "enFull": 6392950491112,
+            "frFull": 6392949877112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1860,6 +1916,20 @@
             "frFull": 6392007422112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021272,
+          "goalIndex": 6,
+          "date": "2026-04-11",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392949599112,
+            "fr": 6392949724112,
+            "enFull": 6392950407112,
+            "frFull": 6392948822112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3238,6 +3308,20 @@
             "frFull": 6392540558112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021272,
+          "goalIndex": 3,
+          "date": "2026-04-11",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392946866112,
+            "fr": 6392948327112,
+            "enFull": 6392947754112,
+            "frFull": 6392945672112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3271,6 +3355,20 @@
             "frFull": 6392835392112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021272,
+          "goalIndex": 1,
+          "date": "2026-04-11",
+          "opponentTricode": "WPG",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392946941112,
+            "fr": 6392947050112,
+            "enFull": 6392948117112,
+            "frFull": 6392946851112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     }

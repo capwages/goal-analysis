@@ -548,6 +548,20 @@
             "frFull": 6392668284112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021267,
+          "goalIndex": 1,
+          "date": "2026-04-11",
+          "opponentTricode": "MIN",
+          "shotType": "wrap-around",
+          "clip": {
+            "en": 6392941515112,
+            "fr": 6392942389112,
+            "enFull": 6392942407112,
+            "frFull": 6392942869112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3388,6 +3402,20 @@
             "frFull": 6391583778112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021267,
+          "goalIndex": 2,
+          "date": "2026-04-11",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392943331112,
+            "fr": 6392943412112,
+            "enFull": 6392944416112,
+            "frFull": 6392944308112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     }

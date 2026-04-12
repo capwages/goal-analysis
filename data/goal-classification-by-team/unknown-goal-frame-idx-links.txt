@@ -448,3 +448,7 @@
 /gameday/CAR-CHI?gameId=2025021255&goal=4
 /gameday/SJS-ANA?gameId=2025021258&goal=7
 /gameday/VGK-SEA?gameId=2025021259&goal=2
+/gameday/OTT-NYI?gameId=2025021262&goal=3
+/gameday/FLA-TOR?gameId=2025021270&goal=4
+/gameday/FLA-TOR?gameId=2025021270&goal=5
+/gameday/CGY-SEA?gameId=2025021273&goal=5

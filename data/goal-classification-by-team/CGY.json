@@ -2709,6 +2709,20 @@
             "frFull": 6388306493112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021273,
+          "goalIndex": 1,
+          "date": "2026-04-11",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392950338112,
+            "fr": 6392949851112,
+            "enFull": 6392949965112,
+            "frFull": 6392950039112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

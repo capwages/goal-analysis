@@ -2288,6 +2288,34 @@
             "frFull": 6392847400112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021268,
+          "goalIndex": 1,
+          "date": "2026-04-11",
+          "opponentTricode": "NYR",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392948224112,
+            "fr": 6392948023112,
+            "enFull": 6392946959112,
+            "frFull": 6392945784112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021268,
+          "goalIndex": 2,
+          "date": "2026-04-11",
+          "opponentTricode": "NYR",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392948629112,
+            "fr": 6392947558112,
+            "enFull": 6392948344112,
+            "frFull": 6392947465112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },

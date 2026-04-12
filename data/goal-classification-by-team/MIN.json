@@ -1153,6 +1153,20 @@
             "frFull": 6390529974112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021267,
+          "goalIndex": 3,
+          "date": "2026-04-11",
+          "opponentTricode": "NSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392946819112,
+            "fr": 6392944377112,
+            "enFull": 6392945469112,
+            "frFull": 6392946827112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

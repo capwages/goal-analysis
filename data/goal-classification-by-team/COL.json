@@ -2254,6 +2254,20 @@
             "frFull": 6390302793112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021274,
+          "goalIndex": 1,
+          "date": "2026-04-11",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392951249112,
+            "fr": 6392949584112,
+            "enFull": 6392951162112,
+            "frFull": 6392951251112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3973,6 +3987,25 @@
             "frFull": 6384218293112
           },
           "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
+      "id": 8483565,
+      "goals": [
+        {
+          "gameId": 2025021274,
+          "goalIndex": 4,
+          "date": "2026-04-11",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392951619112,
+            "fr": 6392951618112,
+            "enFull": 6392952024112,
+            "frFull": 6392951822112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

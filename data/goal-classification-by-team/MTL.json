@@ -465,6 +465,20 @@
             "frFull": 6391100275112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021271,
+          "goalIndex": 3,
+          "date": "2026-04-11",
+          "opponentTricode": "CBJ",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392948342112,
+            "fr": 6392946974112,
+            "enFull": 6392947865112,
+            "frFull": 6392947290112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2295,6 +2309,20 @@
             "frFull": 6392834480112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021271,
+          "goalIndex": 6,
+          "date": "2026-04-11",
+          "opponentTricode": "CBJ",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392952773112,
+            "fr": 6392950427112,
+            "enFull": 6392952578112,
+            "frFull": 6392952095112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

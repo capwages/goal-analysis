@@ -1347,6 +1347,20 @@
             "frFull": 6390984119112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021272,
+          "goalIndex": 2,
+          "date": "2026-04-11",
+          "opponentTricode": "PHI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392946952112,
+            "fr": 6392946364112,
+            "enFull": 6392947351112,
+            "frFull": 6392945779112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

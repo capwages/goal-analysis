@@ -3398,5 +3398,35 @@
     "scorerId": 8485391,
     "opponentTricode": "CAR",
     "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021266,
+    "goalIndex": 8,
+    "date": "2026-04-11",
+    "gamedayPath": "/gameday/STL-CHI?gameId=2025021266&goal=8",
+    "teamAbbrev": "CHI",
+    "scorerId": 8481624,
+    "opponentTricode": "STL",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021270,
+    "goalIndex": 4,
+    "date": "2026-04-11",
+    "gamedayPath": "/gameday/FLA-TOR?gameId=2025021270&goal=4",
+    "teamAbbrev": "TOR",
+    "scorerId": 8477939,
+    "opponentTricode": "FLA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021270,
+    "goalIndex": 5,
+    "date": "2026-04-11",
+    "gamedayPath": "/gameday/FLA-TOR?gameId=2025021270&goal=5",
+    "teamAbbrev": "TOR",
+    "scorerId": 8477939,
+    "opponentTricode": "FLA",
+    "shotType": "snap"
   }
 ]

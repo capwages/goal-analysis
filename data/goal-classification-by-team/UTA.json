@@ -3327,6 +3327,20 @@
             "frFull": 6392847097112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021269,
+          "goalIndex": 3,
+          "date": "2026-04-11",
+          "opponentTricode": "CAR",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392946538112,
+            "fr": 6392945478112,
+            "enFull": 6392944963112,
+            "frFull": 6392946036112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

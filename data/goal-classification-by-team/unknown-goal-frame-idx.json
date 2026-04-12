@@ -4948,5 +4948,49 @@
     "opponentTricode": "SEA",
     "shotType": "backhand",
     "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021262,
+    "goalIndex": 3,
+    "date": "2026-04-11",
+    "gamedayPath": "/gameday/OTT-NYI?gameId=2025021262&goal=3",
+    "teamAbbrev": "OTT",
+    "scorerId": 8478020,
+    "opponentTricode": "NYI",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021270,
+    "goalIndex": 4,
+    "date": "2026-04-11",
+    "gamedayPath": "/gameday/FLA-TOR?gameId=2025021270&goal=4",
+    "teamAbbrev": "TOR",
+    "scorerId": 8477939,
+    "opponentTricode": "FLA",
+    "shotType": "wrist",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021270,
+    "goalIndex": 5,
+    "date": "2026-04-11",
+    "gamedayPath": "/gameday/FLA-TOR?gameId=2025021270&goal=5",
+    "teamAbbrev": "TOR",
+    "scorerId": 8477939,
+    "opponentTricode": "FLA",
+    "shotType": "snap",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021273,
+    "goalIndex": 5,
+    "date": "2026-04-11",
+    "gamedayPath": "/gameday/CGY-SEA?gameId=2025021273&goal=5",
+    "teamAbbrev": "SEA",
+    "scorerId": 8474586,
+    "opponentTricode": "CGY",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
   }
 ]

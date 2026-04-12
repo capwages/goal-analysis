@@ -1523,6 +1523,34 @@
             "frFull": 6392218749112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021270,
+          "goalIndex": 4,
+          "date": "2026-04-11",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392949805112,
+            "fr": 6392951161112,
+            "enFull": 6392950288112,
+            "frFull": 6392951062112
+          },
+          "goalClassification": null
+        },
+        {
+          "gameId": 2025021270,
+          "goalIndex": 5,
+          "date": "2026-04-11",
+          "opponentTricode": "FLA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392950591112,
+            "fr": 6392950015112,
+            "enFull": 6392949527112,
+            "frFull": 6392950867112
+          },
+          "goalClassification": null
         }
       ]
     },

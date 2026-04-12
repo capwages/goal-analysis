@@ -1703,6 +1703,20 @@
             "frFull": 6392586661112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021264,
+          "goalIndex": 1,
+          "date": "2026-04-11",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392939551112,
+            "fr": 6392939451112,
+            "enFull": 6392938580112,
+            "frFull": 6392939937112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

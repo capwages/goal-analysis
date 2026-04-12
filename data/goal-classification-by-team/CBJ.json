@@ -254,6 +254,34 @@
             "frFull": 6392085860112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021271,
+          "goalIndex": 2,
+          "date": "2026-04-11",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392946563112,
+            "fr": 6392946566112,
+            "enFull": 6392947639112,
+            "frFull": 6392946178112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021271,
+          "goalIndex": 7,
+          "date": "2026-04-11",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392951909112,
+            "fr": 6392952880112,
+            "enFull": 6392953776112,
+            "frFull": 6392953385112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -432,6 +460,20 @@
             "frFull": 6392084696112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021271,
+          "goalIndex": 1,
+          "date": "2026-04-11",
+          "opponentTricode": "MTL",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392947831112,
+            "fr": 6392947728112,
+            "enFull": 6392945766112,
+            "frFull": 6392946160112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -872,6 +914,20 @@
             "frFull": 6390350515112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021271,
+          "goalIndex": 5,
+          "date": "2026-04-11",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392950475112,
+            "fr": 6392950961112,
+            "enFull": 6392949510112,
+            "frFull": 6392950192112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2401,6 +2457,20 @@
             "frFull": 6392304660112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021271,
+          "goalIndex": 4,
+          "date": "2026-04-11",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392950652112,
+            "fr": 6392950048112,
+            "enFull": 6392949666112,
+            "frFull": 6392948401112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

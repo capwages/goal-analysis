@@ -338,3 +338,6 @@
 /gameday/BOS-CAR?gameId=2025021237&goal=11
 /gameday/EDM-UTA?gameId=2025021241&goal=7
 /gameday/CAR-CHI?gameId=2025021255&goal=7
+/gameday/STL-CHI?gameId=2025021266&goal=8
+/gameday/FLA-TOR?gameId=2025021270&goal=4
+/gameday/FLA-TOR?gameId=2025021270&goal=5
