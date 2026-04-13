@@ -2816,6 +2816,34 @@
             "frFull": 6392208345112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021280,
+          "goalIndex": 1,
+          "date": "2026-04-12",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392991881112,
+            "fr": 6392992173112,
+            "enFull": 6392992471112,
+            "frFull": 6392992570112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021280,
+          "goalIndex": 5,
+          "date": "2026-04-12",
+          "opponentTricode": "VAN",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392993750112,
+            "fr": 6392994459112,
+            "enFull": 6392996304112,
+            "frFull": 6392995046112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3330,6 +3358,20 @@
             "frFull": 6392839933112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021280,
+          "goalIndex": 6,
+          "date": "2026-04-12",
+          "opponentTricode": "VAN",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392996003112,
+            "fr": 6392996601112,
+            "enFull": 6392994575112,
+            "frFull": 6392996221112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

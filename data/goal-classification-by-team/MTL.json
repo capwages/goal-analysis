@@ -1164,6 +1164,20 @@
             "frFull": 6392723901112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021277,
+          "goalIndex": 1,
+          "date": "2026-04-12",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392990455112,
+            "fr": 6392990175112,
+            "enFull": 6392990766112,
+            "frFull": 6392989303112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2529,6 +2543,20 @@
             "frFull": 6392477777112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021277,
+          "goalIndex": 3,
+          "date": "2026-04-12",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392989207112,
+            "fr": 6392988714112,
+            "enFull": 6392988598112,
+            "frFull": 6392988914112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2721,6 +2749,20 @@
             "frFull": 6391799045112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021277,
+          "goalIndex": 5,
+          "date": "2026-04-12",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392991419112,
+            "fr": 6392991039112,
+            "enFull": 6392992206112,
+            "frFull": 6392992320112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3920,6 +3962,20 @@
             "frFull": 6392717522112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021277,
+          "goalIndex": 2,
+          "date": "2026-04-12",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392990263112,
+            "fr": 6392991248112,
+            "enFull": 6392991345112,
+            "frFull": 6392990965112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     }

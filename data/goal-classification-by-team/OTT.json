@@ -886,6 +886,20 @@
             "frFull": 6392937632112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021279,
+          "goalIndex": 3,
+          "date": "2026-04-12",
+          "opponentTricode": "NJD",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392992066112,
+            "fr": 6392992179112,
+            "enFull": 6392991012112,
+            "frFull": 6392991109112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1214,6 +1228,20 @@
             "fr": 6392839465112,
             "enFull": 6392841774112,
             "frFull": 6392842482112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021279,
+          "goalIndex": 5,
+          "date": "2026-04-12",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392991612112,
+            "fr": 6392992195112,
+            "enFull": 6392992308112,
+            "frFull": 6392992591112
           },
           "goalClassification": "Cycle"
         }
@@ -2690,6 +2718,20 @@
             "frFull": 6392721265112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021279,
+          "goalIndex": 4,
+          "date": "2026-04-12",
+          "opponentTricode": "NJD",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392992771112,
+            "fr": 6392992474112,
+            "enFull": 6392991985112,
+            "frFull": 6392992867112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

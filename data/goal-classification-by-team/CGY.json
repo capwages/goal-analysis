@@ -226,6 +226,20 @@
             "frFull": 6391421251112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021281,
+          "goalIndex": 3,
+          "date": "2026-04-12",
+          "opponentTricode": "UTA",
+          "shotType": "poke",
+          "clip": {
+            "en": 6392996055112,
+            "fr": 6392995477112,
+            "enFull": 6392998313112,
+            "frFull": 6392997537112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2097,6 +2111,25 @@
       ]
     },
     {
+      "id": 8481167,
+      "goals": [
+        {
+          "gameId": 2025021281,
+          "goalIndex": 4,
+          "date": "2026-04-12",
+          "opponentTricode": "UTA",
+          "shotType": "slap",
+          "clip": {
+            "en": 6392997440112,
+            "fr": 6392997439112,
+            "enFull": 6392997249112,
+            "frFull": 6392997547112
+          },
+          "goalClassification": "Net-front"
+        }
+      ]
+    },
+    {
       "id": 8481556,
       "goals": [
         {
@@ -2283,6 +2316,20 @@
             "frFull": 6391153700112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021281,
+          "goalIndex": 2,
+          "date": "2026-04-12",
+          "opponentTricode": "UTA",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6392993596112,
+            "fr": 6392992533112,
+            "enFull": 6392994786112,
+            "frFull": 6392994690112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2587,6 +2634,20 @@
             "frFull": 6392009634112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021281,
+          "goalIndex": 1,
+          "date": "2026-04-12",
+          "opponentTricode": "UTA",
+          "shotType": "wrap-around",
+          "clip": {
+            "en": 6392993417112,
+            "fr": 6392993591112,
+            "enFull": 6392992141112,
+            "frFull": 6392993692112
+          },
+          "goalClassification": null
         }
       ]
     },

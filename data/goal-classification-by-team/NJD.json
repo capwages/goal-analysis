@@ -586,6 +586,20 @@
             "frFull": 6392625807112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021279,
+          "goalIndex": 2,
+          "date": "2026-04-12",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392991147112,
+            "fr": 6392989989112,
+            "enFull": 6392990100112,
+            "frFull": 6392990561112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -1898,6 +1912,33 @@
             "frFull": 6391804935112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021279,
+          "goalIndex": 1,
+          "date": "2026-04-12",
+          "opponentTricode": "OTT",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392988678112,
+            "fr": 6392990068112,
+            "enFull": 6392989277112,
+            "frFull": 6392989967112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021279,
+          "goalIndex": 7,
+          "date": "2026-04-12",
+          "opponentTricode": "OTT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392995195112,
+            "fr": 6392992856112,
+            "enFull": 6392994526112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2889,6 +2930,20 @@
             "frFull": 6392948428112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021279,
+          "goalIndex": 6,
+          "date": "2026-04-12",
+          "opponentTricode": "OTT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6392994497112,
+            "fr": 6392993108112,
+            "enFull": 6392994779112,
+            "frFull": 6392994101112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },

@@ -341,3 +341,4 @@
 /gameday/STL-CHI?gameId=2025021266&goal=8
 /gameday/FLA-TOR?gameId=2025021270&goal=4
 /gameday/FLA-TOR?gameId=2025021270&goal=5
+/gameday/UTA-CGY?gameId=2025021281&goal=1

@@ -3428,5 +3428,15 @@
     "scorerId": 8477939,
     "opponentTricode": "FLA",
     "shotType": "snap"
+  },
+  {
+    "gameId": 2025021281,
+    "goalIndex": 1,
+    "date": "2026-04-12",
+    "gamedayPath": "/gameday/UTA-CGY?gameId=2025021281&goal=1",
+    "teamAbbrev": "CGY",
+    "scorerId": 8482679,
+    "opponentTricode": "UTA",
+    "shotType": "wrap-around"
   }
 ]

@@ -1718,6 +1718,20 @@
             "frFull": 6392083733112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021278,
+          "goalIndex": 1,
+          "date": "2026-04-12",
+          "opponentTricode": "BOS",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6392986945112,
+            "fr": 6392987533112,
+            "enFull": 6392986950112,
+            "frFull": 6392986949112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3509,6 +3523,20 @@
             "frFull": 6392722554112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021278,
+          "goalIndex": 4,
+          "date": "2026-04-12",
+          "opponentTricode": "BOS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6392991259112,
+            "fr": 6392988613112,
+            "enFull": 6392989919112,
+            "frFull": 6392989920112
+          },
+          "goalClassification": "Rush"
         }
       ]
     }

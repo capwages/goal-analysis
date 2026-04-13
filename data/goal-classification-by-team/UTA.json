@@ -1018,6 +1018,20 @@
             "frFull": 6392847752112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021281,
+          "goalIndex": 5,
+          "date": "2026-04-12",
+          "opponentTricode": "CGY",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6392997454112,
+            "fr": 6392996770112,
+            "enFull": 6392998031112,
+            "frFull": 6392997455112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
