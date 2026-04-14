@@ -1524,6 +1524,20 @@
             "frFull": 6392308898112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021284,
+          "goalIndex": 2,
+          "date": "2026-04-13",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393050169112,
+            "fr": 6393051043112,
+            "enFull": 6393049504112,
+            "frFull": 6393050077112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -4106,6 +4120,20 @@
             "frFull": 6386770306112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021284,
+          "goalIndex": 1,
+          "date": "2026-04-13",
+          "opponentTricode": "PHI",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393048478112,
+            "fr": 6393048299112,
+            "enFull": 6393048974112,
+            "frFull": 6393049177112
+          },
+          "goalClassification": null
         }
       ]
     },

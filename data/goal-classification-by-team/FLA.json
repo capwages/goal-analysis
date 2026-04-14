@@ -2754,6 +2754,34 @@
             "frFull": 6392948134112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021283,
+          "goalIndex": 1,
+          "date": "2026-04-13",
+          "opponentTricode": "NYR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393049187112,
+            "fr": 6393051035112,
+            "enFull": 6393047903112,
+            "frFull": 6393050654112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021283,
+          "goalIndex": 5,
+          "date": "2026-04-13",
+          "opponentTricode": "NYR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393056332112,
+            "fr": 6393054670112,
+            "enFull": 6393057398112,
+            "frFull": 6393057299112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3281,6 +3309,20 @@
             "frFull": 6392951997112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021283,
+          "goalIndex": 2,
+          "date": "2026-04-13",
+          "opponentTricode": "NYR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393049083112,
+            "fr": 6393048603112,
+            "enFull": 6393050662112,
+            "frFull": 6393048899112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

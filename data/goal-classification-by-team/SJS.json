@@ -2946,6 +2946,34 @@
             "frFull": 6392783736112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021287,
+          "goalIndex": 2,
+          "date": "2026-04-13",
+          "opponentTricode": "NSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393058882112,
+            "fr": 6393060435112,
+            "enFull": 6393059749112,
+            "frFull": 6393059939112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021287,
+          "goalIndex": 4,
+          "date": "2026-04-13",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393060417112,
+            "fr": 6393061664112,
+            "enFull": 6393059702112,
+            "frFull": 6393061001112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -3351,6 +3379,20 @@
             "fr": 6392957575112,
             "enFull": 6392958056112,
             "frFull": 6392958352112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021287,
+          "goalIndex": 1,
+          "date": "2026-04-13",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393056514112,
+            "fr": 6393055638112,
+            "enFull": 6393054562112,
+            "frFull": 6393056709112
           },
           "goalClassification": "Cycle"
         }

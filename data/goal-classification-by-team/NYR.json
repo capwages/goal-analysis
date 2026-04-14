@@ -2115,6 +2115,20 @@
             "frFull": 6391897211112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021283,
+          "goalIndex": 3,
+          "date": "2026-04-13",
+          "opponentTricode": "FLA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393050092112,
+            "fr": 6393048804112,
+            "enFull": 6393050568112,
+            "frFull": 6393051643112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3322,6 +3336,20 @@
             "frFull": 6392573079112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021283,
+          "goalIndex": 4,
+          "date": "2026-04-13",
+          "opponentTricode": "FLA",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6393052926112,
+            "fr": 6393054672112,
+            "enFull": 6393053029112,
+            "frFull": 6393052622112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     }

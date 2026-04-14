@@ -455,3 +455,4 @@
 /gameday/PIT-WSH?gameId=2025021276&goal=1
 /gameday/VAN-ANA?gameId=2025021280&goal=6
 /gameday/UTA-CGY?gameId=2025021281&goal=1
+/gameday/MIN-STL?gameId=2025021286&goal=9

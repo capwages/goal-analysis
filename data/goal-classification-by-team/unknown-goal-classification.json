@@ -3438,5 +3438,25 @@
     "scorerId": 8482679,
     "opponentTricode": "UTA",
     "shotType": "wrap-around"
+  },
+  {
+    "gameId": 2025021284,
+    "goalIndex": 1,
+    "date": "2026-04-13",
+    "gamedayPath": "/gameday/CAR-PHI?gameId=2025021284&goal=1",
+    "teamAbbrev": "CAR",
+    "scorerId": 8484203,
+    "opponentTricode": "PHI",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021285,
+    "goalIndex": 7,
+    "date": "2026-04-13",
+    "gamedayPath": "/gameday/DAL-TOR?gameId=2025021285&goal=7",
+    "teamAbbrev": "TOR",
+    "scorerId": 8477503,
+    "opponentTricode": "DAL",
+    "shotType": "wrist"
   }
 ]

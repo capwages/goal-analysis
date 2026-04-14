@@ -787,6 +787,20 @@
             "frFull": 6392658431112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021282,
+          "goalIndex": 7,
+          "date": "2026-04-13",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393057454112,
+            "fr": 6393059423112,
+            "enFull": 6393056857112,
+            "frFull": 6393057569112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -1591,6 +1605,20 @@
             "frFull": 6392659424112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021282,
+          "goalIndex": 4,
+          "date": "2026-04-13",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393053348112,
+            "fr": 6393053940112,
+            "enFull": 6393055488112,
+            "frFull": 6393055011112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2455,6 +2483,20 @@
             "enFull": 6391596067112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021282,
+          "goalIndex": 3,
+          "date": "2026-04-13",
+          "opponentTricode": "DET",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393052736112,
+            "fr": 6393054105112,
+            "enFull": 6393053411112,
+            "frFull": 6393052750112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3926,6 +3968,25 @@
             "frFull": 6385628620112
           },
           "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8483447,
+      "goals": [
+        {
+          "gameId": 2025021282,
+          "goalIndex": 2,
+          "date": "2026-04-13",
+          "opponentTricode": "DET",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393050193112,
+            "fr": 6393050986112,
+            "enFull": 6393052247112,
+            "frFull": 6393052348112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

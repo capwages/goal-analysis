@@ -5025,5 +5025,16 @@
     "opponentTricode": "UTA",
     "shotType": "wrap-around",
     "goalClassification": null
+  },
+  {
+    "gameId": 2025021286,
+    "goalIndex": 9,
+    "date": "2026-04-13",
+    "gamedayPath": "/gameday/MIN-STL?gameId=2025021286&goal=9",
+    "teamAbbrev": "STL",
+    "scorerId": 8483516,
+    "opponentTricode": "MIN",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
   }
 ]

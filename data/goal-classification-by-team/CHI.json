@@ -1984,6 +1984,20 @@
             "frFull": 6392942320112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021288,
+          "goalIndex": 1,
+          "date": "2026-04-13",
+          "opponentTricode": "BUF",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393054397112,
+            "fr": 6393053710112,
+            "enFull": 6393054610112,
+            "frFull": 6393053843112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

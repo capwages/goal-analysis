@@ -614,6 +614,20 @@
             "frFull": 6392719904112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021291,
+          "goalIndex": 4,
+          "date": "2026-04-13",
+          "opponentTricode": "LAK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393065903112,
+            "fr": 6393064846112,
+            "enFull": 6393066010112,
+            "frFull": 6393065241112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -1007,6 +1021,20 @@
             "frFull": 6392950345112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021291,
+          "goalIndex": 5,
+          "date": "2026-04-13",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393065925112,
+            "fr": 6393066521112,
+            "enFull": 6393066807112,
+            "frFull": 6393066129112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2277,6 +2305,20 @@
             "frFull": 6392851566112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021291,
+          "goalIndex": 7,
+          "date": "2026-04-13",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393066258112,
+            "fr": 6393065568112,
+            "enFull": 6393066357112,
+            "frFull": 6393065862112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

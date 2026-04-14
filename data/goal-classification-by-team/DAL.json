@@ -2316,6 +2316,20 @@
             "frFull": 6392947465112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 6,
+          "date": "2026-04-13",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393053629112,
+            "fr": 6393055308112,
+            "enFull": 6393054310112,
+            "frFull": 6393055414112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2924,6 +2938,48 @@
             "frFull": 6391994652112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 4,
+          "date": "2026-04-13",
+          "opponentTricode": "TOR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393053224112,
+            "fr": 6393053501112,
+            "enFull": 6393053414112,
+            "frFull": 6393053607112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 5,
+          "date": "2026-04-13",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393054017112,
+            "fr": 6393054296112,
+            "enFull": 6393055100112,
+            "frFull": 6393054813112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 11,
+          "date": "2026-04-13",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393058673112,
+            "fr": 6393059370112,
+            "enFull": 6393059286112,
+            "frFull": 6393060345112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -3544,6 +3600,20 @@
             "frFull": 6392836604112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 9,
+          "date": "2026-04-13",
+          "opponentTricode": "TOR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393059433112,
+            "fr": 6393059629112,
+            "enFull": 6393058655112,
+            "frFull": 6393057891112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3825,6 +3895,20 @@
             "frFull": 6392478381112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 10,
+          "date": "2026-04-13",
+          "opponentTricode": "TOR",
+          "shotType": null,
+          "clip": {
+            "en": 6393058381112,
+            "fr": 6393057597112,
+            "enFull": 6393058204112,
+            "frFull": 6393058201112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     }

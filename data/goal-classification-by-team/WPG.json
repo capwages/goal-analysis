@@ -912,6 +912,20 @@
             "frFull": 6391803477112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021290,
+          "goalIndex": 6,
+          "date": "2026-04-13",
+          "opponentTricode": "VGK",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393067920112,
+            "fr": 6393066270112,
+            "enFull": 6393068215112,
+            "frFull": 6393067625112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2431,6 +2445,20 @@
             "frFull": 6392661823112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021290,
+          "goalIndex": 4,
+          "date": "2026-04-13",
+          "opponentTricode": "VGK",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6393067028112,
+            "fr": 6393066734112,
+            "enFull": 6393067846112,
+            "frFull": 6393067718112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

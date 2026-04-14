@@ -2285,6 +2285,20 @@
             "frFull": 6392714887112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021284,
+          "goalIndex": 4,
+          "date": "2026-04-13",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393052317112,
+            "fr": 6393053374112,
+            "enFull": 6393052134112,
+            "frFull": 6393052219112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -3322,6 +3336,20 @@
             "frFull": 6392945672112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021284,
+          "goalIndex": 3,
+          "date": "2026-04-13",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393051791112,
+            "fr": 6393053267112,
+            "enFull": 6393052197112,
+            "frFull": 6393052491112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

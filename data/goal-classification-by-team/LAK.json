@@ -1484,6 +1484,20 @@
             "frFull": 6392849801112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021291,
+          "goalIndex": 6,
+          "date": "2026-04-13",
+          "opponentTricode": "SEA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393067418112,
+            "fr": 6393065365112,
+            "enFull": 6393066145112,
+            "frFull": 6393067521112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1890,6 +1904,20 @@
             "frFull": 6392850820112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021291,
+          "goalIndex": 3,
+          "date": "2026-04-13",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393063667112,
+            "fr": 6393061626112,
+            "enFull": 6393064093112,
+            "frFull": 6393062230112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2302,6 +2330,34 @@
             "frFull": 6392589103112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021291,
+          "goalIndex": 1,
+          "date": "2026-04-13",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393056584112,
+            "fr": 6393057756112,
+            "enFull": 6393057470112,
+            "frFull": 6393058552112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021291,
+          "goalIndex": 2,
+          "date": "2026-04-13",
+          "opponentTricode": "SEA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393060743112,
+            "fr": 6393060253112,
+            "enFull": 6393060045112,
+            "frFull": 6393060549112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -2568,6 +2624,20 @@
             "frFull": 6392588007112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021291,
+          "goalIndex": 8,
+          "date": "2026-04-13",
+          "opponentTricode": "SEA",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6393066956112,
+            "fr": 6393066763112,
+            "enFull": 6393066878112,
+            "frFull": 6393069017112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },

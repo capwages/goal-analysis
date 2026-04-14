@@ -420,6 +420,20 @@
             "frFull": 6392586455112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 1,
+          "date": "2026-04-13",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393051557112,
+            "fr": 6393050304112,
+            "enFull": 6393050023112,
+            "frFull": 6393049110112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1135,6 +1149,20 @@
             "frFull": 6391586354112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 7,
+          "date": "2026-04-13",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393057235112,
+            "fr": 6393057047112,
+            "enFull": 6393057815112,
+            "frFull": 6393058314112
+          },
+          "goalClassification": null
         }
       ]
     },
@@ -1551,6 +1579,17 @@
             "frFull": 6392950867112
           },
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 3,
+          "date": "2026-04-13",
+          "opponentTricode": "DAL",
+          "shotType": "bat",
+          "clip": {
+            "enFull": 6393053562112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2578,6 +2617,20 @@
             "frFull": 6392588414112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021285,
+          "goalIndex": 8,
+          "date": "2026-04-13",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393057639112,
+            "fr": 6393057638112,
+            "enFull": 6393058533112,
+            "frFull": 6393057453112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3536,6 +3589,25 @@
             "frFull": 6392834219112
           },
           "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8484901,
+      "goals": [
+        {
+          "gameId": 2025021285,
+          "goalIndex": 2,
+          "date": "2026-04-13",
+          "opponentTricode": "DAL",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6393053063112,
+            "fr": 6393052181112,
+            "enFull": 6393050727112,
+            "frFull": 6393053163112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     }

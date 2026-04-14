@@ -2802,6 +2802,34 @@
             "enFull": 6391585836112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021287,
+          "goalIndex": 3,
+          "date": "2026-04-13",
+          "opponentTricode": "SJS",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393062258112,
+            "fr": 6393061759112,
+            "enFull": 6393062057112,
+            "frFull": 6393062150112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021287,
+          "goalIndex": 5,
+          "date": "2026-04-13",
+          "opponentTricode": "SJS",
+          "shotType": "deflected",
+          "clip": {
+            "en": 6393060801112,
+            "fr": 6393061473112,
+            "enFull": 6393061393112,
+            "frFull": 6393061394112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

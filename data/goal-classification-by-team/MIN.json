@@ -1,6 +1,25 @@
 {
   "players": [
     {
+      "id": 8473422,
+      "goals": [
+        {
+          "gameId": 2025021286,
+          "goalIndex": 2,
+          "date": "2026-04-13",
+          "opponentTricode": "STL",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6393053034112,
+            "fr": 6393054473112,
+            "enFull": 6393053123112,
+            "frFull": 6393052239112
+          },
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
       "id": 8474567,
       "goals": [
         {
@@ -1167,6 +1186,20 @@
             "frFull": 6392946827112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021286,
+          "goalIndex": 4,
+          "date": "2026-04-13",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393056492112,
+            "fr": 6393056491112,
+            "enFull": 6393054642112,
+            "frFull": 6393055823112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3734,6 +3767,20 @@
             "fr": 6390948272112,
             "enFull": 6390949739112,
             "frFull": 6390949263112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021286,
+          "goalIndex": 3,
+          "date": "2026-04-13",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393053933112,
+            "fr": 6393053834112,
+            "enFull": 6393053431112,
+            "frFull": 6393054203112
           },
           "goalClassification": "Cycle"
         }
