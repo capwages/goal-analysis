@@ -926,6 +926,20 @@
             "frFull": 6393067625112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021297,
+          "goalIndex": 6,
+          "date": "2026-04-14",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393133706112,
+            "fr": 6393133412112,
+            "enFull": 6393134284112,
+            "frFull": 6393132810112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -1911,6 +1925,20 @@
             "frFull": 6392662684112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021297,
+          "goalIndex": 3,
+          "date": "2026-04-14",
+          "opponentTricode": "UTA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393129831112,
+            "fr": 6393128866112,
+            "enFull": 6393129660112,
+            "frFull": 6393130323112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3180,6 +3208,20 @@
             "frFull": 6392309015112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021297,
+          "goalIndex": 7,
+          "date": "2026-04-14",
+          "opponentTricode": "UTA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393133420112,
+            "fr": 6393133326112,
+            "enFull": 6393134107112,
+            "frFull": 6393134044112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

@@ -474,6 +474,20 @@
             "frFull": 6392946160112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021295,
+          "goalIndex": 1,
+          "date": "2026-04-14",
+          "opponentTricode": "WSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393117946112,
+            "fr": 6393117553112,
+            "enFull": 6393118505112,
+            "frFull": 6393117444112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

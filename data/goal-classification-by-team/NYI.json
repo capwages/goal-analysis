@@ -1621,6 +1621,20 @@
             "frFull": 6391790764112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021293,
+          "goalIndex": 2,
+          "date": "2026-04-14",
+          "opponentTricode": "CAR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393118084112,
+            "fr": 6393119922112,
+            "enFull": 6393118455112,
+            "frFull": 6393118375112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

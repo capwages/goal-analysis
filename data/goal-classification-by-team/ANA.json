@@ -2176,6 +2176,34 @@
             "frFull": 6392594525112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021296,
+          "goalIndex": 1,
+          "date": "2026-04-14",
+          "opponentTricode": "MIN",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393118672112,
+            "fr": 6393118864112,
+            "enFull": 6393118467112,
+            "frFull": 6393118286112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021296,
+          "goalIndex": 5,
+          "date": "2026-04-14",
+          "opponentTricode": "MIN",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6393128566112,
+            "fr": 6393129449112,
+            "enFull": 6393128172112,
+            "frFull": 6393130233112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

@@ -3458,5 +3458,35 @@
     "scorerId": 8477503,
     "opponentTricode": "DAL",
     "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021294,
+    "goalIndex": 6,
+    "date": "2026-04-14",
+    "gamedayPath": "/gameday/MTL-PHI?gameId=2025021294&goal=6",
+    "teamAbbrev": "PHI",
+    "scorerId": 8483731,
+    "opponentTricode": "MTL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021298,
+    "goalIndex": 3,
+    "date": "2026-04-14",
+    "gamedayPath": "/gameday/COL-CGY?gameId=2025021298&goal=3",
+    "teamAbbrev": "COL",
+    "scorerId": 8476455,
+    "opponentTricode": "CGY",
+    "shotType": "tip-in"
+  },
+  {
+    "gameId": 2025021300,
+    "goalIndex": 2,
+    "date": "2026-04-14",
+    "gamedayPath": "/gameday/LAK-VAN?gameId=2025021300&goal=2",
+    "teamAbbrev": "LAK",
+    "scorerId": 8482124,
+    "opponentTricode": "VAN",
+    "shotType": "snap"
   }
 ]

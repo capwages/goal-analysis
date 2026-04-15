@@ -702,6 +702,20 @@
             "frFull": 6392845581112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021293,
+          "goalIndex": 3,
+          "date": "2026-04-14",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393122902112,
+            "fr": 6393121707112,
+            "enFull": 6393123779112,
+            "frFull": 6393122908112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1538,6 +1552,20 @@
             "frFull": 6393050077112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021293,
+          "goalIndex": 1,
+          "date": "2026-04-14",
+          "opponentTricode": "NYI",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393115416112,
+            "fr": 6393113643112,
+            "enFull": 6393114353112,
+            "frFull": 6393115708112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

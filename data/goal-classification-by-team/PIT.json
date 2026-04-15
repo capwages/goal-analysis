@@ -2293,6 +2293,20 @@
             "frFull": 6392939739112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021299,
+          "goalIndex": 3,
+          "date": "2026-04-14",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393126936112,
+            "fr": 6393127535112,
+            "enFull": 6393126075112,
+            "frFull": 6393128611112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -3490,6 +3504,20 @@
             "frFull": 6392612456112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021299,
+          "goalIndex": 5,
+          "date": "2026-04-14",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393129878112,
+            "fr": 6393130564112,
+            "enFull": 6393130567112,
+            "frFull": 6393130770112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3827,6 +3855,34 @@
             "frFull": 6392200400112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021299,
+          "goalIndex": 2,
+          "date": "2026-04-14",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393127602112,
+            "fr": 6393128114112,
+            "enFull": 6393125867112,
+            "frFull": 6393126277112
+          },
+          "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021299,
+          "goalIndex": 11,
+          "date": "2026-04-14",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393134436112,
+            "fr": 6393136432112,
+            "enFull": 6393135248112,
+            "frFull": 6393136514112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -3860,6 +3916,19 @@
             "frFull": 6386882022112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021299,
+          "goalIndex": 1,
+          "date": "2026-04-14",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393127098112,
+            "enFull": 6393124930112,
+            "frFull": 6393125140112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

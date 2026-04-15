@@ -128,6 +128,20 @@
             "frFull": 6392731685112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021297,
+          "goalIndex": 8,
+          "date": "2026-04-14",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393132734112,
+            "fr": 6393135283112,
+            "enFull": 6393135478112,
+            "frFull": 6393135673112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -707,6 +721,34 @@
             "frFull": 6392843888112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021297,
+          "goalIndex": 2,
+          "date": "2026-04-14",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393127316112,
+            "fr": 6393126640112,
+            "enFull": 6393126833112,
+            "frFull": 6393126264112
+          },
+          "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021297,
+          "goalIndex": 4,
+          "date": "2026-04-14",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393133855112,
+            "fr": 6393133464112,
+            "enFull": 6393132379112,
+            "frFull": 6393132200112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2790,6 +2832,20 @@
             "frFull": 6392721976112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021297,
+          "goalIndex": 5,
+          "date": "2026-04-14",
+          "opponentTricode": "WPG",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393132500112,
+            "fr": 6393133292112,
+            "enFull": 6393132304112,
+            "frFull": 6393133691112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },
@@ -3672,6 +3728,20 @@
             "frFull": 6392729269112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021297,
+          "goalIndex": 1,
+          "date": "2026-04-14",
+          "opponentTricode": "WPG",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6393123111112,
+            "fr": 6393124166112,
+            "enFull": 6393123788112,
+            "frFull": 6393122500112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

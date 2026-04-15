@@ -1531,6 +1531,25 @@
       ]
     },
     {
+      "id": 8477952,
+      "goals": [
+        {
+          "gameId": 2025021296,
+          "goalIndex": 4,
+          "date": "2026-04-14",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393128155112,
+            "fr": 6393128857112,
+            "enFull": 6393130120112,
+            "frFull": 6393129243112
+          },
+          "goalClassification": "Rebound/Scramble"
+        }
+      ]
+    },
+    {
       "id": 8478136,
       "goals": [
         {
@@ -3628,6 +3647,25 @@
       ]
     },
     {
+      "id": 8483452,
+      "goals": [
+        {
+          "gameId": 2025021296,
+          "goalIndex": 3,
+          "date": "2026-04-14",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393123797112,
+            "fr": 6393123201112,
+            "enFull": 6393123692112,
+            "frFull": 6393124264112
+          },
+          "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
       "id": 8483525,
       "goals": [
         {
@@ -3781,6 +3819,20 @@
             "fr": 6393053834112,
             "enFull": 6393053431112,
             "frFull": 6393054203112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021296,
+          "goalIndex": 2,
+          "date": "2026-04-14",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393119757112,
+            "fr": 6393119961112,
+            "enFull": 6393119377112,
+            "frFull": 6393118993112
           },
           "goalClassification": "Cycle"
         }

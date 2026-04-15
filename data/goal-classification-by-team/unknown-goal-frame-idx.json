@@ -5036,5 +5036,60 @@
     "opponentTricode": "MIN",
     "shotType": "wrist",
     "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021292,
+    "goalIndex": 4,
+    "date": "2026-04-14",
+    "gamedayPath": "/gameday/NJD-BOS?gameId=2025021292&goal=4",
+    "teamAbbrev": "BOS",
+    "scorerId": 8478042,
+    "opponentTricode": "NJD",
+    "shotType": "snap",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021294,
+    "goalIndex": 5,
+    "date": "2026-04-14",
+    "gamedayPath": "/gameday/MTL-PHI?gameId=2025021294&goal=5",
+    "teamAbbrev": "MTL",
+    "scorerId": 8478133,
+    "opponentTricode": "PHI",
+    "shotType": "backhand",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021297,
+    "goalIndex": 8,
+    "date": "2026-04-14",
+    "gamedayPath": "/gameday/WPG-UTA?gameId=2025021297&goal=8",
+    "teamAbbrev": "UTA",
+    "scorerId": 8477021,
+    "opponentTricode": "WPG",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
+  },
+  {
+    "gameId": 2025021299,
+    "goalIndex": 11,
+    "date": "2026-04-14",
+    "gamedayPath": "/gameday/PIT-STL?gameId=2025021299&goal=11",
+    "teamAbbrev": "PIT",
+    "scorerId": 8482993,
+    "opponentTricode": "STL",
+    "shotType": "wrist",
+    "goalClassification": "Rush"
+  },
+  {
+    "gameId": 2025021300,
+    "goalIndex": 7,
+    "date": "2026-04-14",
+    "gamedayPath": "/gameday/LAK-VAN?gameId=2025021300&goal=7",
+    "teamAbbrev": "VAN",
+    "scorerId": 8478498,
+    "opponentTricode": "LAK",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
   }
 ]

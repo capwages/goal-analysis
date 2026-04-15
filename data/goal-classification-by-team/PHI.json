@@ -2944,6 +2944,20 @@
             "frFull": 6392540895112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021294,
+          "goalIndex": 6,
+          "date": "2026-04-14",
+          "opponentTricode": "MTL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393121422112,
+            "fr": 6393123789112,
+            "enFull": 6393123783112,
+            "frFull": 6393121430112
+          },
+          "goalClassification": null
         }
       ]
     },
@@ -3079,6 +3093,25 @@
             "frFull": 6392305516112
           },
           "goalClassification": "Cycle"
+        }
+      ]
+    },
+    {
+      "id": 8484148,
+      "goals": [
+        {
+          "gameId": 2025021294,
+          "goalIndex": 2,
+          "date": "2026-04-14",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393114839112,
+            "fr": 6393117497112,
+            "enFull": 6393117395112,
+            "frFull": 6393115756112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3350,6 +3383,20 @@
             "frFull": 6393052491112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021294,
+          "goalIndex": 4,
+          "date": "2026-04-14",
+          "opponentTricode": "MTL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393120227112,
+            "fr": 6393118561112,
+            "enFull": 6393117794112,
+            "frFull": 6393120444112
+          },
+          "goalClassification": "Broken Coverage"
         }
       ]
     },
@@ -3397,6 +3444,20 @@
             "frFull": 6392946851112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021294,
+          "goalIndex": 1,
+          "date": "2026-04-14",
+          "opponentTricode": "MTL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6393115038112,
+            "fr": 6393115727112,
+            "enFull": 6393116016112,
+            "frFull": 6393114761112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     }

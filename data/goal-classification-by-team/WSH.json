@@ -1650,6 +1650,20 @@
           "shotType": "tip-in",
           "clip": {},
           "goalClassification": null
+        },
+        {
+          "gameId": 2025021295,
+          "goalIndex": 2,
+          "date": "2026-04-14",
+          "opponentTricode": "CBJ",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393118255112,
+            "fr": 6393119317112,
+            "enFull": 6393117683112,
+            "frFull": 6393117678112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2038,6 +2052,20 @@
             "frFull": 6392583136112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021295,
+          "goalIndex": 3,
+          "date": "2026-04-14",
+          "opponentTricode": "CBJ",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393121613112,
+            "fr": 6393121917112,
+            "enFull": 6393122696112,
+            "frFull": 6393121987112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },

@@ -1498,6 +1498,20 @@
             "frFull": 6393067521112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021300,
+          "goalIndex": 4,
+          "date": "2026-04-14",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393133249112,
+            "fr": 6393133051112,
+            "enFull": 6393132074112,
+            "frFull": 6393133364112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2358,6 +2372,20 @@
             "frFull": 6393060549112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021300,
+          "goalIndex": 2,
+          "date": "2026-04-14",
+          "opponentTricode": "VAN",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393129841112,
+            "fr": 6393130056112,
+            "enFull": 6393127983112,
+            "frFull": 6393129261112
+          },
+          "goalClassification": null
         }
       ]
     },
@@ -2638,6 +2666,20 @@
             "frFull": 6393069017112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021300,
+          "goalIndex": 5,
+          "date": "2026-04-14",
+          "opponentTricode": "VAN",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6393131489112,
+            "fr": 6393132165112,
+            "enFull": 6393133153112,
+            "frFull": 6393133064112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

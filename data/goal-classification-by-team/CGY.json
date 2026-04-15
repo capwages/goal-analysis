@@ -684,6 +684,20 @@
             "frFull": 6392488875112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021298,
+          "goalIndex": 1,
+          "date": "2026-04-14",
+          "opponentTricode": "COL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6393127247112,
+            "fr": 6393126160112,
+            "enFull": 6393128214112,
+            "frFull": 6393128211112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

@@ -1188,6 +1188,20 @@
             "frFull": 6392307978112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021292,
+          "goalIndex": 4,
+          "date": "2026-04-14",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393117314112,
+            "fr": 6393116435112,
+            "enFull": 6393116322112,
+            "frFull": 6393115948112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2608,6 +2622,20 @@
             "frFull": 6392933727112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021292,
+          "goalIndex": 1,
+          "date": "2026-04-14",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393115408112,
+            "fr": 6393114219112,
+            "enFull": 6393113347112,
+            "frFull": 6393113346112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2998,6 +3026,34 @@
             "fr": 6392991281112,
             "enFull": 6392991978112,
             "frFull": 6392992761112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021292,
+          "goalIndex": 2,
+          "date": "2026-04-14",
+          "opponentTricode": "NJD",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393114045112,
+            "fr": 6393115134112,
+            "enFull": 6393114446112,
+            "frFull": 6393116201112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021292,
+          "goalIndex": 3,
+          "date": "2026-04-14",
+          "opponentTricode": "NJD",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393115929112,
+            "fr": 6393116244112,
+            "enFull": 6393115833112,
+            "frFull": 6393116245112
           },
           "goalClassification": "Cycle"
         }
