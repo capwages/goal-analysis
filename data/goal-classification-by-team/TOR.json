@@ -1590,6 +1590,20 @@
             "enFull": 6393053562112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021304,
+          "goalIndex": 3,
+          "date": "2026-04-15",
+          "opponentTricode": "OTT",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6393193601112,
+            "fr": 6393195170112,
+            "enFull": 6393192428112,
+            "frFull": 6393194882112
+          },
+          "goalClassification": null
         }
       ]
     },

@@ -347,3 +347,5 @@
 /gameday/MTL-PHI?gameId=2025021294&goal=6
 /gameday/COL-CGY?gameId=2025021298&goal=3
 /gameday/LAK-VAN?gameId=2025021300&goal=2
+/gameday/DAL-BUF?gameId=2025021301&goal=5
+/gameday/TOR-OTT?gameId=2025021304&goal=3

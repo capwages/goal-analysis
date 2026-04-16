@@ -3488,5 +3488,25 @@
     "scorerId": 8482124,
     "opponentTricode": "VAN",
     "shotType": "snap"
+  },
+  {
+    "gameId": 2025021301,
+    "goalIndex": 5,
+    "date": "2026-04-15",
+    "gamedayPath": "/gameday/DAL-BUF?gameId=2025021301&goal=5",
+    "teamAbbrev": "BUF",
+    "scorerId": 8477949,
+    "opponentTricode": "DAL",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021304,
+    "goalIndex": 3,
+    "date": "2026-04-15",
+    "gamedayPath": "/gameday/TOR-OTT?gameId=2025021304&goal=3",
+    "teamAbbrev": "TOR",
+    "scorerId": 8477939,
+    "opponentTricode": "OTT",
+    "shotType": "backhand"
   }
 ]

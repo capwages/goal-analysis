@@ -72,6 +72,20 @@
             "frFull": 6392723494112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021302,
+          "goalIndex": 6,
+          "date": "2026-04-15",
+          "opponentTricode": "NYR",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6393190980112,
+            "fr": 6393192055112,
+            "enFull": 6393191567112,
+            "frFull": 6393190492112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1776,6 +1790,20 @@
             "fr": 6390564009112,
             "enFull": 6390564307112,
             "frFull": 6390564104112
+          },
+          "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021302,
+          "goalIndex": 4,
+          "date": "2026-04-15",
+          "opponentTricode": "NYR",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6393188768112,
+            "fr": 6393189180112,
+            "enFull": 6393188970112,
+            "frFull": 6393190334112
           },
           "goalClassification": "Cycle"
         }

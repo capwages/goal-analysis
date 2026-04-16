@@ -5091,5 +5091,27 @@
     "opponentTricode": "LAK",
     "shotType": "wrist",
     "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021301,
+    "goalIndex": 5,
+    "date": "2026-04-15",
+    "gamedayPath": "/gameday/DAL-BUF?gameId=2025021301&goal=5",
+    "teamAbbrev": "BUF",
+    "scorerId": 8477949,
+    "opponentTricode": "DAL",
+    "shotType": "snap",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021306,
+    "goalIndex": 5,
+    "date": "2026-04-15",
+    "gamedayPath": "/gameday/SEA-VGK?gameId=2025021306&goal=5",
+    "teamAbbrev": "VGK",
+    "scorerId": 8475191,
+    "opponentTricode": "SEA",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
   }
 ]

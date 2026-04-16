@@ -864,6 +864,20 @@
             "frFull": 6393061483112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021301,
+          "goalIndex": 5,
+          "date": "2026-04-15",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393188378112,
+            "fr": 6393188582112,
+            "enFull": 6393189083112,
+            "frFull": 6393190232112
+          },
+          "goalClassification": null
         }
       ]
     },
@@ -1720,6 +1734,20 @@
             "fr": 6393056005112,
             "enFull": 6393056120112,
             "frFull": 6393058512112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021301,
+          "goalIndex": 2,
+          "date": "2026-04-15",
+          "opponentTricode": "DAL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393185153112,
+            "fr": 6393185825112,
+            "enFull": 6393186314112,
+            "frFull": 6393185352112
           },
           "goalClassification": "Seam"
         }
@@ -3979,6 +4007,20 @@
             "frFull": 6392783206112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021301,
+          "goalIndex": 3,
+          "date": "2026-04-15",
+          "opponentTricode": "DAL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393188828112,
+            "fr": 6393189125112,
+            "enFull": 6393188537112,
+            "frFull": 6393188133112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

@@ -461,3 +461,5 @@
 /gameday/WPG-UTA?gameId=2025021297&goal=8
 /gameday/PIT-STL?gameId=2025021299&goal=11
 /gameday/LAK-VAN?gameId=2025021300&goal=7
+/gameday/DAL-BUF?gameId=2025021301&goal=5
+/gameday/SEA-VGK?gameId=2025021306&goal=5

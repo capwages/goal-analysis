@@ -685,6 +685,20 @@
             "frFull": 6391492444112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021304,
+          "goalIndex": 2,
+          "date": "2026-04-15",
+          "opponentTricode": "TOR",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393191181112,
+            "fr": 6393191374112,
+            "enFull": 6393191862112,
+            "frFull": 6393191371112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1695,6 +1709,20 @@
             "frFull": 6392832742112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021304,
+          "goalIndex": 1,
+          "date": "2026-04-15",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393186661112,
+            "fr": 6393186660112,
+            "enFull": 6393187230112,
+            "frFull": 6393186369112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -2405,6 +2433,20 @@
             "frFull": 6392618882112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021304,
+          "goalIndex": 4,
+          "date": "2026-04-15",
+          "opponentTricode": "TOR",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393195358112,
+            "fr": 6393196232112,
+            "enFull": 6393197689112,
+            "frFull": 6393196317112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
