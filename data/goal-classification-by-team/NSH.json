@@ -562,6 +562,34 @@
             "frFull": 6392942869112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021307,
+          "goalIndex": 2,
+          "date": "2026-04-16",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393265736112,
+            "fr": 6393265737112,
+            "enFull": 6393267313112,
+            "frFull": 6393265138112
+          },
+          "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021307,
+          "goalIndex": 7,
+          "date": "2026-04-16",
+          "opponentTricode": "ANA",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393270260112,
+            "fr": 6393269395112,
+            "enFull": 6393269674112,
+            "frFull": 6393270175112
+          },
+          "goalClassification": "Rebound/Scramble"
         }
       ]
     },
@@ -2059,6 +2087,34 @@
             "frFull": 6392729482112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021307,
+          "goalIndex": 3,
+          "date": "2026-04-16",
+          "opponentTricode": "ANA",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6393267130112,
+            "fr": 6393266039112,
+            "enFull": 6393267136112,
+            "frFull": 6393267808112
+          },
+          "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021307,
+          "goalIndex": 6,
+          "date": "2026-04-16",
+          "opponentTricode": "ANA",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393270256112,
+            "fr": 6393269662112,
+            "enFull": 6393269389112,
+            "frFull": 6393270826112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },

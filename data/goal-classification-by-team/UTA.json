@@ -1074,6 +1074,20 @@
             "frFull": 6392997455112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021309,
+          "goalIndex": 3,
+          "date": "2026-04-16",
+          "opponentTricode": "STL",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6393268388112,
+            "fr": 6393266363112,
+            "enFull": 6393265551112,
+            "frFull": 6393266852112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1942,6 +1956,20 @@
             "frFull": 6392490622112
           },
           "goalClassification": "Cycle"
+        },
+        {
+          "gameId": 2025021309,
+          "goalIndex": 2,
+          "date": "2026-04-16",
+          "opponentTricode": "STL",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393266310112,
+            "fr": 6393267381112,
+            "enFull": 6393266621112,
+            "frFull": 6393267382112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },
@@ -2112,6 +2140,20 @@
             "frFull": 6392841985112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021309,
+          "goalIndex": 6,
+          "date": "2026-04-16",
+          "opponentTricode": "STL",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393269728112,
+            "fr": 6393268959112,
+            "enFull": 6393269636112,
+            "frFull": 6393268659112
+          },
+          "goalClassification": "Net-front"
         }
       ]
     },

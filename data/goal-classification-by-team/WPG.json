@@ -3002,6 +3002,20 @@
             "frFull": 6391998282112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021308,
+          "goalIndex": 1,
+          "date": "2026-04-16",
+          "opponentTricode": "SJS",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393267000112,
+            "fr": 6393266131112,
+            "enFull": 6393265053112,
+            "frFull": 6393266623112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

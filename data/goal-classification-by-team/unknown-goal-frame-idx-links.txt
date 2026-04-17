@@ -463,3 +463,6 @@
 /gameday/LAK-VAN?gameId=2025021300&goal=7
 /gameday/DAL-BUF?gameId=2025021301&goal=5
 /gameday/SEA-VGK?gameId=2025021306&goal=5
+/gameday/SJS-WPG?gameId=2025021308&goal=6
+/gameday/STL-UTA?gameId=2025021309&goal=1
+/gameday/STL-UTA?gameId=2025021309&goal=8

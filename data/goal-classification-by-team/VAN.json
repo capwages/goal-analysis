@@ -2999,6 +2999,25 @@
       ]
     },
     {
+      "id": 8484406,
+      "goals": [
+        {
+          "gameId": 2025021311,
+          "goalIndex": 3,
+          "date": "2026-04-16",
+          "opponentTricode": "EDM",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393269562112,
+            "fr": 6393269090112,
+            "enFull": 6393269387112,
+            "frFull": 6393270069112
+          },
+          "goalClassification": "Rush"
+        }
+      ]
+    },
+    {
       "id": 8484798,
       "goals": [
         {

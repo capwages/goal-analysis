@@ -198,6 +198,20 @@
             "frFull": 6392848255112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021307,
+          "goalIndex": 5,
+          "date": "2026-04-16",
+          "opponentTricode": "NSH",
+          "shotType": "slap",
+          "clip": {
+            "en": 6393269719112,
+            "fr": 6393270614112,
+            "enFull": 6393268555112,
+            "frFull": 6393269624112
+          },
+          "goalClassification": "Seam"
         }
       ]
     },
@@ -1493,6 +1507,20 @@
             "frFull": 6392408811112
           },
           "goalClassification": "Net-front"
+        },
+        {
+          "gameId": 2025021307,
+          "goalIndex": 9,
+          "date": "2026-04-16",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393272017112,
+            "fr": 6393273567112,
+            "enFull": 6393273383112,
+            "frFull": 6393273009112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1862,6 +1890,20 @@
             "frFull": 6391418666112
           },
           "goalClassification": "Rebound/Scramble"
+        },
+        {
+          "gameId": 2025021307,
+          "goalIndex": 4,
+          "date": "2026-04-16",
+          "opponentTricode": "NSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393267263112,
+            "fr": 6393266955112,
+            "enFull": 6393265347112,
+            "frFull": 6393268305112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -2872,6 +2914,39 @@
             "frFull": 6392995046112
           },
           "goalClassification": "Seam"
+        },
+        {
+          "gameId": 2025021307,
+          "goalIndex": 1,
+          "date": "2026-04-16",
+          "opponentTricode": "NSH",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393264440112,
+            "fr": 6393266702112,
+            "enFull": 6393265720112,
+            "frFull": 6393266616112
+          },
+          "goalClassification": "Seam"
+        }
+      ]
+    },
+    {
+      "id": 8483482,
+      "goals": [
+        {
+          "gameId": 2025021307,
+          "goalIndex": 8,
+          "date": "2026-04-16",
+          "opponentTricode": "NSH",
+          "shotType": "wrist",
+          "clip": {
+            "en": 6393272746112,
+            "fr": 6393271001112,
+            "enFull": 6393271191112,
+            "frFull": 6393271773112
+          },
+          "goalClassification": "Rush"
         }
       ]
     },

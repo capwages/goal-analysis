@@ -3508,5 +3508,35 @@
     "scorerId": 8477939,
     "opponentTricode": "OTT",
     "shotType": "backhand"
+  },
+  {
+    "gameId": 2025021308,
+    "goalIndex": 5,
+    "date": "2026-04-16",
+    "gamedayPath": "/gameday/SJS-WPG?gameId=2025021308&goal=5",
+    "teamAbbrev": "SJS",
+    "scorerId": 8485402,
+    "opponentTricode": "WPG",
+    "shotType": "snap"
+  },
+  {
+    "gameId": 2025021309,
+    "goalIndex": 1,
+    "date": "2026-04-16",
+    "gamedayPath": "/gameday/STL-UTA?gameId=2025021309&goal=1",
+    "teamAbbrev": "STL",
+    "scorerId": 8477402,
+    "opponentTricode": "UTA",
+    "shotType": "wrist"
+  },
+  {
+    "gameId": 2025021311,
+    "goalIndex": 1,
+    "date": "2026-04-16",
+    "gamedayPath": "/gameday/VAN-EDM?gameId=2025021311&goal=1",
+    "teamAbbrev": "EDM",
+    "scorerId": 8484509,
+    "opponentTricode": "VAN",
+    "shotType": "wrist"
   }
 ]

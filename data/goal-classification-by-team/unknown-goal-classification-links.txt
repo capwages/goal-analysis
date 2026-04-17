@@ -349,3 +349,6 @@
 /gameday/LAK-VAN?gameId=2025021300&goal=2
 /gameday/DAL-BUF?gameId=2025021301&goal=5
 /gameday/TOR-OTT?gameId=2025021304&goal=3
+/gameday/SJS-WPG?gameId=2025021308&goal=5
+/gameday/STL-UTA?gameId=2025021309&goal=1
+/gameday/VAN-EDM?gameId=2025021311&goal=1

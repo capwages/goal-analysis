@@ -1557,6 +1557,20 @@
             "frFull": 6392594061112
           },
           "goalClassification": "Empty Net"
+        },
+        {
+          "gameId": 2025021310,
+          "goalIndex": 1,
+          "date": "2026-04-16",
+          "opponentTricode": "LAK",
+          "shotType": "tip-in",
+          "clip": {
+            "en": 6393271560112,
+            "fr": 6393271561112,
+            "enFull": 6393272364112,
+            "frFull": 6393271199112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },
@@ -1826,6 +1840,20 @@
             "frFull": 6392720358112
           },
           "goalClassification": "Rush"
+        },
+        {
+          "gameId": 2025021310,
+          "goalIndex": 4,
+          "date": "2026-04-16",
+          "opponentTricode": "LAK",
+          "shotType": "backhand",
+          "clip": {
+            "en": 6393275533112,
+            "fr": 6393276230112,
+            "enFull": 6393276411112,
+            "frFull": 6393276139112
+          },
+          "goalClassification": "Empty Net"
         }
       ]
     },
@@ -2873,6 +2901,20 @@
             "frFull": 6392722884112
           },
           "goalClassification": "Broken Coverage"
+        },
+        {
+          "gameId": 2025021310,
+          "goalIndex": 3,
+          "date": "2026-04-16",
+          "opponentTricode": "LAK",
+          "shotType": "snap",
+          "clip": {
+            "en": 6393276172112,
+            "fr": 6393274210112,
+            "enFull": 6393275475112,
+            "frFull": 6393274012112
+          },
+          "goalClassification": "Cycle"
         }
       ]
     },

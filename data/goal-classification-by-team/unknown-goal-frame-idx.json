@@ -5113,5 +5113,38 @@
     "opponentTricode": "SEA",
     "shotType": "wrist",
     "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021308,
+    "goalIndex": 6,
+    "date": "2026-04-16",
+    "gamedayPath": "/gameday/SJS-WPG?gameId=2025021308&goal=6",
+    "teamAbbrev": "SJS",
+    "scorerId": 8482667,
+    "opponentTricode": "WPG",
+    "shotType": "wrist",
+    "goalClassification": "Cycle"
+  },
+  {
+    "gameId": 2025021309,
+    "goalIndex": 1,
+    "date": "2026-04-16",
+    "gamedayPath": "/gameday/STL-UTA?gameId=2025021309&goal=1",
+    "teamAbbrev": "STL",
+    "scorerId": 8477402,
+    "opponentTricode": "UTA",
+    "shotType": "wrist",
+    "goalClassification": null
+  },
+  {
+    "gameId": 2025021309,
+    "goalIndex": 8,
+    "date": "2026-04-16",
+    "gamedayPath": "/gameday/STL-UTA?gameId=2025021309&goal=8",
+    "teamAbbrev": "STL",
+    "scorerId": 8480023,
+    "opponentTricode": "UTA",
+    "shotType": "wrist",
+    "goalClassification": "Empty Net"
   }
 ]
